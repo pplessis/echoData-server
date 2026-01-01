@@ -1,12 +1,7 @@
 {
   "version": 2,
-  "builds": [
-    { "src": "api/*.py", "use": "@vercel/python" }
-    ,{ "src": "app/*.py", "use": "@vercel/python" }
-  ],
-
   "functions": {
-    "app.py": { "runtime": "python3.11" }
+    "app/*.py": { "runtime": "python3.11" }
   },
 
   "routes": [
