@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "app/*.py": { }
-  },
-
   "routes": [
     { "src": "/static/(.*)", "dest": "app/static/$1" },
     { "src": "/(.*)", "dest": "app.py" }
