@@ -1,7 +1,7 @@
 {
   "version": 2,
   "functions": {
-    "app/*.py": { "runtime": "python3.11" }
+    "app/*.py": { }
   },
 
   "routes": [
