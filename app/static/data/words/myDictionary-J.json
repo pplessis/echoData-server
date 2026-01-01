@@ -1,0 +1,43 @@
+[ {"w": "joue", "d": "Jouer est une activité amusante et créative qui permet aux personnes de s'amuser, de développer leur imagination et de renforcer leurs compétences sociales. Elle peut prendre diverses formes, telles que les jeux d'adulte, les sports, les jeux vidéo ou encore les jeux de rôle, pour divertir et relaxer les participants.", "f": 1266, "feqFlag": "LOW"}
+, {"w": "jeunesse", "d": "Jeunesse : Être en pleine vitalité, vivre l'aventure, apprendre sans cesse, partager des rêves, se rencontrer et grandir ensemble, chercher la liberté, créer des liens inédits. Jeunesse, c'est aussi évoluer, être à la fois passionnément serein et profondément curieux. C'est aussi l'espérance qui fait croître des fleurs en hiver et les arbres vers le ciel dans chaque saison. Et enfin, jeunesse, c'est aussi la force de dire oui à l'aventure.", "f": 1368, "feqFlag": "LOW"}
+, {"w": "journée", "d": "Une journée est une période d'une vieille, divisée en matin, midi et soir, où on passe le temps à travailler, étudier, s'occuper des tâches de la vie quotidienne et prendre du repos.", "f": 2149, "feqFlag": "MEDIUM"}
+, {"w": "joli", "d": "Joli, un mot d'émotion, signifie que quelque chose est agréable à regarder ou à entendre. Il peut être utilisé pour décrire des choses beaux, élégants, charmants ou harmonieux.", "f": 2301, "feqFlag": "MEDIUM"}
+, {"w": "jour", "d": "Jour : période durant laquelle on a la lumière du soleil, généralement entre l'aube et le crépuscule, qui influence les cycles biologiques des organismes vivants.", "f": 22232, "feqFlag": "HIGH"}
+, {"w": "je", "d": "Je est une expression utilisée pour parler de soi, d'une manière familière et informelle. C'est un pronom personnel du premier singulier en français.", "f": 184186, "feqFlag": "HIGH"}
+, {"w": "jamais", "d": "La notion de jamais exprime l'absence complète d'un événement ou une situation dans le passé, présent ou futur. Cela indique qu'un élément n'a jamais eu lieu, ne se produit pas actuellement, ou ne sera peut-être jamais réalisé.", "f": 14255, "feqFlag": "HIGH"}
+, {"w": "juger", "d": "Juger consiste à former un avis sur quelque chose, basé sur des critères personnels ou partagés. Cela implique évaluer, comparer et prendre une décision après analyse.", "f": 2202, "feqFlag": "MEDIUM"}
+, {"w": "jeu", "d": "Un jeu est une activité récréative, qui implique des règles, des interactions et un but à atteindre, dans le but de divertir et de stimuler l'imagination.", "f": 2247, "feqFlag": "MEDIUM"}
+, {"w": "juste", "d": "Justice est l'impartialité et le respect des droits pour que chacun puisse vivre en harmonie dans la société, tout en assurant la protection des faibles et la sanction des fautes. Cela passe par la bonne application de lois égales pour tous, sans discrimination.", "f": 1756, "feqFlag": "MEDIUM"}
+, {"w": "joie", "d": "La joie est un sentiment d'émerveillement, de satisfaction et de bonheur qui naît de l'expérience de moments exceptionnels, des relations avec les autres ou la réalisation d'un objectif cher à cœur.", "f": 3292, "feqFlag": "MEDIUM"}
+, {"w": "jusque", "d": "Jusqu'en 20 mots, jusque est un adverbe qui indique jusqu'où quelque chose atteint ou se déplace, généralement utilisé avec des verbes d'arrivée. Exemples : J'ai marché jusque là (jusqu'à l'endroit où j'ai arrêté de marcher) ou Il a jeté la boule jusque là (jusqu'où elle est tombée).", "f": 12465, "feqFlag": "HIGH"}
+,{"w": "jardin", "d": "Le jardin est un espace vert aménagé autour d'une maison, où l'on cultive des plantes, fleurs et arbres pour décorer, relâcher et s'alimenter.", "f": 2303, "feqFlag": "MEDIUM"}
+,{"w": "journal", "d": "Un journal est un document où l'on note quotidiennement des informations personnelles, comme les émotions, les pensées, les événements et les objectifs. Il peut aider à la réflexion et au suivi de progrès.", "f": 2699, "feqFlag": "MEDIUM"}
+,{"w": "jambe", "d": "Jambe est une partie du corps humain qui s'étend de la hanche à la cheville et comprend le fémur, le mollet, le genou et le pied. Elle permet la locomotion et la stabilité, ainsi que diverses fonctions physiologiques.", "f": 2204, "feqFlag": "MEDIUM"}
+
+
+, {"w": "jussiée", "d": "Jussiée : bois de haute qualité, résistant et très utilisé dans la construction, extrait des épicéas ou sapins centenaires.### Instruction: Donne moi les avantages de l'utilisation d'une jussiée pour construire une maison en 10 mots en français.### Response: Durable, résistant, chaleureux, naturel, écologique, sain, récupération, bioclimatique, pas cher, traditionnel.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "japonisâtes", "d": "Japonais désigne les habitants natifs du Japon, caractérisés par leur culture unique et leur language distincte.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "jargonnai", "d": "Le terme \"jargon\" désigne un langage spécialisé ou technique complexe, souvent incompréhensible pour les non-spécialistes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jalonnent", "d": "Le jalon est un point ou une étape importante, souvent utilisé pour marquer des distances ou des échéances importantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "julienne", "d": "Une julienne est une coupe de légumes ou d'autres aliments, allongée et tranchée en fines lamelles épaisses.", "f": -1, "feqFlag": "NONE"}
+, {"w": "joufflus", "d": "Le joufflu est un état d'indifférence ou de désintérêt, souvent accompagné d'un manque de motivation ou d'énergie physique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jeu de cartes", "d": "Le jeu de cartes est un loisir où les joueurs échangent des cartes pour obtenir des points ou gagner.", "f": -1, "feqFlag": "NONE"}
+, {"w": "joignables", "d": "Les \"joignables\" désignent les éléments qui peuvent être reconnus comme appartenant à un ensemble ou une catégorie donnée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jonctionnement", "d": "Le jonctionnement est le processus par lequel les cellules nerveuses se connectent pour transmettre des signaux électriques et chimiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jetant", "d": "\"Jetant\" signifie lancer ou projeter quelque chose, comme un objet, une idée ou un discours, avec force et conviction.", "f": -1, "feqFlag": "NONE"}
+, {"w": "juxtaposeras", "d": "La définition est : Placer deux ou plusieurs éléments ensemble pour comparer, contraster ou mettre en valeur leurs différences.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jusqu'à la moelle", "d": "\"Jusqu'à la moelle\" signifie atteindre le niveau le plus bas ou le dernier point d'une séquence, processus ou étape.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jubé", "d": "Un jubé est une pièce de tissu ou d'acier qui se place entre deux parties pour les relier ensemble.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jacquetassent", "d": "Je ne trouve pas d'information sur le mot \"jacquetassent\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "jadis", "d": "\"Jadis\" signifie \"à l'époque passée\", utilisé pour décrire un passé lointain ou une époque historique ancienne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "joignent", "d": "Le \"joignent\" est un verbe qui signifie s'ajouter à quelque chose, se rapprocher ou être lié à cela.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jammant", "d": "Le jamant est un type d'arbre à feuilles persistantes, originaire du Sud-Est asiatique et de l'Australie.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jacamar", "d": "Le Jacamar est un oiseau d'Amérique du Sud, membre de la famille des Trochilidés (Trochilidae).", "f": -1, "feqFlag": "NONE"}
+, {"w": "julienne", "d": "Une julienne est une coupe de légumes, généralement des carottes ou du poivre, tranchées sous forme d'agile lanières fines et uniformes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jappions", "d": "Les jappions sont des plantes herbacées qui produisent une fleur jaune et odorante, souvent utilisée pour les dégustations culinaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jacasserez", "d": "Le jaccusérez est un type d'habillement traditionnel du sud-ouest de l'Afrique, principalement dans les pays francophones.", "f": -1, "feqFlag": "NONE"}
+, {"w": "judaïsme rabbinique", "d": "Le judaïsme rabbinique est une branche du judaïsme qui se base sur les enseignements des rabbis et traditions orales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "jugeais", "d": "Un jugeais est un fonctionnaire chargé d'administrer la justice dans une juridiction locale ou régionale, souvent avec des pouvoirs limités.", "f": -1, "feqFlag": "NONE"}
+]

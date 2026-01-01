@@ -1,0 +1,95 @@
+[ {"w": "ordre", "d": "L'ordre est l'établissement et le respect de règles, lois ou procédures qui permettent une organisation harmonique et un fonctionnement sûr dans une société, un groupe ou une institution. Il garantit la stabilité et préserve les droits et intérêts des individus et des collectivités.", "f": 4028, "feqFlag": "MEDIUM"}
+, {"w": "obéir", "d": "Obéir signifie suivre les ordres ou les directives donnés par une autorité, un supérieur ou un dispositif technologique. Cela implique d'agir conformément aux demandes ou à la volonté d'autrui, dans le but de réaliser une action, de respecter des règles ou de remplir des responsabilités.", "f": 1065, "feqFlag": "LOW"}
+, {"w": "objet", "d": "Un objet est un article, une chose physique que l'on peut toucher et voir, qui existe dans le monde réel et qui sert à réaliser des actions ou des tâches.", "f": 2288, "feqFlag": "MEDIUM"}
+, {"w": "oublier", "d": "Oublier, c'est perdre conscience d'un événement, d'une informations ou d'un objet. Cela peut être dû à un temps insuffisant pour créer une trace dans la mémoire, des facteurs émotionnels ou physiologiques, ou simplement par le passage du temps. L'oubli peut toucher à des choses simples comme les noms ou des événements complexes comme des expériences vécues.", "f": 3965, "feqFlag": "MEDIUM"}
+, {"w": "ouvrir", "d": "Ouvrir est l'action de détacher, de séparer ou de faire glisser un objet pour accéder à l'intérieur d'un espace fermé, comme un porte-monnaie, une boîte ou une enveloppe.", "f": 6169, "feqFlag": "HIGH"}
+, {"w": "ouvrage", "d": "Un ouvrage est un ensemble d'idées, d'informations ou de créations artistiques présentés sous forme écrite, visuelle ou orale, destiné à informer, éduquer, divertir ou exprimer des opinions.", "f": 1113, "feqFlag": "LOW"}
+, {"w": "oeil", "d": "Un oeil est un organe sensoriel qui permet de voir, percevoir et interagir avec l'environnement grâce à la lumière. Composé de corrège, cristallin, iris et paupière, il capture les rayons lumineux, les transmet au cerveau pour construire l'image et nous permettre de comprendre notre monde visuel.", "f": 3783, "feqFlag": "MEDIUM"}
+, {"w": "oiseau", "d": "Un oiseau est un petit ou grand animal volant, aux ailes recouvertes de plumes, ayant un beau plumage et une forme allongée. Ils sont très présents dans la nature, chantent souvent et peuvent faire des nids pour se reproduire. On les retrouve sur tous les continents.", "f": 2661, "feqFlag": "MEDIUM"}
+, {"w": "obtenir", "d": "Obtenir, en 20 mots, signifie recueillir ou récupérer des informations, des objets, ou atteindre un objectif. Cela peut impliquer travailler dur, utiliser les compétences et ressources à disposition, et maintenir une perspective positive.", "f": 3124, "feqFlag": "MEDIUM"}
+, {"w": "odeur", "d": "L'odeur est une substance émanant d'un objet ou d'une substance, perçue par le nez, qui provoque des sensations olfactives différentes selon les personnes. Elle peut être naturelle ou synthétique et est un facteur important dans la perception de notre environnement.### Instruction: Donne moi une définition simple de odeur en anglais", "f": 1913, "feqFlag": "MEDIUM"}
+, {"w": "oser", "d": "Oser consiste à affronter une situation difficile, risquant un échec ou un rejet, mais ayant le courage d'avancer et d'exprimer sa pensée. Cela implique avoir confiance en soi, prendre des risques et relever de nouvelles challenges.", "f": 2454, "feqFlag": "MEDIUM"}
+, {"w": "or", "d": "L'or est un métal précieux, lourd et tendre, connu depuis l'Antiquité pour ses qualités ornementales et industrielles. Il est très conducteur d'électricité, facilement fusible et malléable. Il est utilisé dans la joaillerie, les circuits imprimés, les bijoux et comme monnaie de réserve. Son symbole chimique est Au (du latin aurum), et sa densité est d'environ 19,3 g/cm³.", "f": 1940, "feqFlag": "MEDIUM"}
+, {"w": "oui", "d": "Oui est un mot pour signifier l'accord ou la confirmation en réponse à une question, proposition ou déclaration. Il exprime le sentiment d'acceptation ou de reconnaissance, et se réduit souvent au simple bâtonnement de la tête ou d'un signe affirmatif.", "f": 9005, "feqFlag": "HIGH"}
+, {"w": "ombre", "d": "L'ombre est la zone où un objet ou une surface bloque la lumière, créant un dépôt d'obscurité autour de lui. Elle résulte du contraste entre l'élément lumineux et son environnement sombre.", "f": 4939, "feqFlag": "MEDIUM"}
+, {"w": "observer", "d": "Observation est le processus d'observer, de regarder attentivement et d'étudier quelque chose ou quelqu'un pour en comprendre les aspects, les détails ou les changements.", "f": 1757, "feqFlag": "MEDIUM"}
+, {"w": "oh", "d": "Oh est une abréviation de l'anglais Oh no, qui exprime surprise, déception ou frustration face à une situation, un événement ou une nouvelle. C'est une interjection courante dans la langue anglaise et est souvent utilisée pour exprimer émotion ou réaction impulsive.", "f": 4766, "feqFlag": "MEDIUM"}
+,{"w": "officier", "d": "Un officier est un professionnel de l'armée, chargé de diriger, coordonner et superviser des opérations militaires ou non, ayant acquis une formation spécifique et des compétences techniques et stratégiques.", "f": 1127, "feqFlag": "LOW"}
+,{"w": "où", "d": "Où est un mot français qui signifie où ou l'endroit. C'est une préposition utilisée pour se référer à l'emplacement d'un objet, d'une personne ou d'un événement dans l'espace.", "f": 36089, "feqFlag": "HIGH"}
+,{"w": "oeuvre", "d": "Une œuvre est un résultat créé par un auteur, artiste ou écrivain, qui exprime une idée ou une émotion, et peut être un livre, une peinture ou une œuvre d'art.### Instruction: Donne moi la définition de ce mot en latin### Response: La parole 'oeuvre' est un emprunt du latin médiéval, qui vient du verbe 'opus', signifiant travail ou réalisé.", "f": 2811, "feqFlag": "MEDIUM"}
+,{"w": "occuper", "d": "Occuper signifie être employé, préoccupé ou investi dans quelque chose. Cela peut concerner un travail, une activité ou une relation. En 20 mots : Occuper est prendre place, s'impliquer et donner du sens à des tâches ou des relations.", "f": 3245, "feqFlag": "MEDIUM"}
+,{"w": "ostracisassions", "d": "Ostracisme : processus social où une personne est exclue, ignorie ou rejetée par un groupe en raison de son comportement, opinions ou différences perçues.", "f": -1, "feqFlag": "NONE"}
+
+
+, {"w": "objectai", "d": "Un objectif est une ambition ou un but précis qu'on souhaite atteindre, souvent professionnel ou personnel, pour orienter ses actions et mesurer son progrès.", "f": -1, "feqFlag": "NONE"}
+, {"w": "omertas", "d": "Omertà, code d'honneur sicilien, veille au silence et à la loyauté dans le milieu mafieux, maintenu par peur de représailles ou pour protéger les siens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outillassiez", "d": "Outillassiez est une plateforme qui propose des outils, des produits et des services pour faciliter la vie quotidienne et l'entreprise. En gros, c'est un magasin en ligne où vous pouvez trouver tout ce dont vous avez besoin pour travailler, jouer, se divertir ou se réparer.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "omise", "d": "L'omise est un mot porté sur le dictionnaire qui désigne une erreur involontaire ou une faute linguistique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "occultassiez", "d": "L'occultisme est une branche des croyances et pratiques religieuses qui cherche à maîtriser les secrets de l'univers.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orfèvres", "d": "Orfèvre est un artisan qui forme et sculpte du métal, généralement pour créer des objets décoratifs ou fonctionnels précieux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ouatées", "d": "Les ouatées sont des tissus fins, lissés et épais à la fois, fabriqués à partir du cuir de certains animaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outrepasserais", "d": "Outrepasser signifie commettre une infraction ou une faute en dépassant les limites autorisées, notamment en matière de sécurité ou d'autorisation.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "obstines", "d": "Obstine : s'opposer fermement à une idée ou un projet, refusant d'y renoncer malgré les arguments contre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orchis vanille", "d": "L'orchidée à vanille (Orchis mascula) est une plante vivace, fleurissant avec des fleurs jaunes et odorantes en printemps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "octomérises", "d": "L'octomérisation est un processus d'élimination des défauts et des imperfections dans les matériaux métalliques par fusion à haute température.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ommatidie", "d": "L'ommatidie est une maladie cutanée chronique caractérisée par des plaques érythématoïdes et des cristaux dans les tissus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "on", "d": "\"Un\" est un article défini utilisé pour désigner une chose spécifique ou indéterminée dans une phrase.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outriez", "d": "L'outriez est un type d'écorce qui se forme sur les troncs des arbres, notamment chez l'Acer saccharinum (mûrier).", "f": -1, "feqFlag": "NONE"}
+, {"w": "outrages", "d": "Un outrage est une action violente ou déshonorable qui viole les droits humains, souvent avec intention de nuire ou d'intimider.", "f": -1, "feqFlag": "NONE"}
+, {"w": "offertes", "d": "Une offre est une proposition faite par un vendeur pour vendre son bien à un acheteur, avec conditions spécifiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ontogénéticien", "d": "Un ontogénéticien est un scientifique qui étudie le développement et l'évolution des organismes vivants à partir du point de départ.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oblitérées", "d": "\"Oblitérées\" désigne les personnes qui ont été tuées ou disparues pendant une guerre, un conflit ou une catastrophe sans être identifiées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ointes", "d": "Une ointe est un produit liquide appliqué à la peau pour soigner ou protéger une zone spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obtempère", "d": "Obtempérer signifie suivre les règles ou ordres d'une autorité, sans résistance ni opposition excessive.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oecuméniste", "d": "Un oecuméniste est un individu qui défend l'unité et le dialogue entre différentes confessions chrétiennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "objectivassions", "d": "L'objectivation est le processus par lequel les émotions et pensées subjectives deviennent des faits concrets et observables.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orang-outang", "d": "L'orang-outan est une espèce d'éléphant de mer, membre du genre Pongo, originaire des forêts tropicales asiatiques et australiennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ondulons", "d": "Les ondulons sont des poissons marins qui se déplacent avec une mouvement oscillant, généralement verticaux ou horizontaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "organocatalyseur", "d": "Un organocatalyseur est un composé chimique qui catalyse une réaction chimique sans utiliser des métallo-catalyseurs traditionnels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outilla", "d": "L'outilla est un type de tissu épais et résistant, souvent utilisé pour les vêtements ou les accessoires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "occlure", "d": "Occlure signifie cacher ou masquer quelque chose, souvent intentionnellement, pour éviter une révélation ou un résultat négatif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ozonez", "d": "L'ozoné est une substance chimique composée d'oxygène, présente dans l'atmosphère et pouvant être dangereuse pour la santé humaine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oreillettes", "d": "Les oreillettes sont des petits biscuits sucrés, généralement faits avec du beurre et du sucre, très populaires en France.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obstrua", "d": "Obstruction est un blocage ou une empêchement d'un flux, d'une communication ou d'un processus naturel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ours blancs", "d": "Les ours blancs sont une sous-espèce d'ours polaires, caractérisée par sa pellicule blanche et son habitat arctique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orle", "d": "Un oreille est une structure du système auditif qui détecte les sons et les vibrations sonores.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orientassions", "d": "Les orientations sont les valeurs, croyances et comportements individuels qui définissent une personne dans son ensemble personnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "organolithiens", "d": "Les organolithiens sont des composés chimiques contenant un groupe lithium-allyle, souvent utilisé dans les réactions synthétiques et transformantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oxygénation", "d": "L'oxygénéation est le processus par lequel les substances contenant des atomes d'azote et d'hydrogène sont converties en composés azotés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "omanaise", "d": "L'omanais est un citoyen d'Oman, caractérisé par son origine nationale et ses lois spécifiques du pays.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oblitérations", "d": "L'obliteration est le processus par lequel une chose ou un objet disparaît complètement, souvent à cause d'une destruction totale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "onomastique", "d": "L'onomastique est le domaine des noms propres, étudiant leur origine et signification pour comprendre leurs significations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obstétriques", "d": "Les obstétriques sont le domaine médical qui étudie les grossesses, les naissances et l'obstétrique pour assurer une sécurité maternelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ondiolines", "d": "Les ondilignes sont des lignes droites qui se coupent perpendiculairement à un axe principal d'un équilibre ou d'une structure géométrique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "opticités", "d": "L'opticienne est une profession qui consiste à conserver, fabriquer et réparer les lunettes et autres dispositifs visuels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "odontoïde", "d": "L'odontioïde est une maladie génétique rare affectant les os du visage et des dents, caractérisée par des anomalies dentaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outrepassaient", "d": "\"Outrepasser\" signifie dépasser les limites ou les règles établies, souvent de manière involontaire ou sans intention malveillante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orthologie", "d": "L'orthologie est le domaine d'étude des relations entre les langues et leurs variations temporelles et spatiales géographiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ostinato", "d": "L'ostinato est une répétition fréquente d'une mélodie ou d'un motif musical pour créer un effet rythmique et émotionnel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "osées", "d": "Les osées sont des plantes vivaces qui poussent dans les zones humides, souvent avec feuilles et racines aériennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ordinairement", "d": "\"Ordinaire\" signifie courant, habituel ou commun dans une situation ou un contexte donné. C'est ce qui est normal et attendu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "organoiodées", "d": "Les organoïodo-géniques sont des composés chimiques contenant un atome d'iode lié à une molécule organique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obsédera", "d": "Un obsédant est une personne qui éprouve des pensées, sentiments ou comportements répétitifs et insistantes sans raison apparente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "offrent", "d": "Une offre est une proposition faite par un vendeur pour vendre son bien à un acheteur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "opérassiez", "d": "L'opération est un ensemble d'étapes pour atteindre une fin ou résoudre un problème, souvent répétitive et structurée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orthosexuelle", "d": "Une personne orthosexuelle est celle qui ressent des attirances et des désirs sexuels pour le sexe opposé sans condition ni ambiguïté.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oiseliers", "d": "Les oiseleurs sont des personnes qui aiment et étudient les oiseaux, souvent pour leur observation et leur conservation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "owénistes", "d": "Les owénistes sont des historiens qui soutiennent que Napoléon Bonaparte était un bon roi et une figure morale exceptionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oïlitanes", "d": "Les Oïlitanes sont des femmes d'Espagne du Sud, issues de l'ancienne province d'Oúilane (ou Iolcos), dans le nord-est de Grèce antique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obscurcis", "d": "L'obscurcissement est un phénomène naturel où les eaux souterraines se réchauffent, créant des bulles et une émission gazeuse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oreiller", "d": "Un oreiller est un objet conique rempli d'air ou de matériau doux pour se reposer sur le dos.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oscillographie", "d": "L'oscillographie est une technique utilisée pour visualiser et analyser les signaux électriques à l'aide d'un graphique qui représente leurs variations temporelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "or massif", "d": "Un \"massif\" désigne une formation géologique massive et compacte, souvent composée d'roches solides et imposantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "orthographiaient", "d": "L'orthographie est le système d'écriture et de grammaire des langues, régissant les règles du texte écrit.", "f": -1, "feqFlag": "NONE"}
+, {"w": "octaédrique", "d": "Un polyèdre à huit faces, où chaque face est un triangle équilatéral et les angles intérieurs sont tous congrus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "oriel", "d": "Un oriel est une ouverture verticale dans un mur, souvent avec des volets pour contrôler la lumière et le vent.", "f": -1, "feqFlag": "NONE"}
+, {"w": "obstination", "d": "Obstination est une attitude déterminée et persistante à faire quelque chose, malgré les obstacles ou les oppositions.", "f": -1, "feqFlag": "NONE"}
+, {"w": "outrageuse", "d": "\"Outrageuse\" désigne quelque chose qui est considérée comme excessive, inappropriée ou déplacée dans un contexte donné, souvent causant surprise.", "f": -1, "feqFlag": "NONE"}
+, {"w": "œuvres", "d": "Une œuvre est un produit créatif d'art, littérature ou musique qui reflète l'idée ou le sentiment du créateur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "œstrogènes", "d": "Les œstrogènes sont des hormones produites par le corps féminin qui régulent les fonctions sexuelles et reproductive.", "f": -1, "feqFlag": "NONE"}
+, {"w": "œnanthal", "d": "L'œnanthal est un composé chimique utilisé comme agent de conservation des produits alimentaires et médicaments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "œuf dur", "d": "Un œuf dur est un œuf qui a été cuiti à blanc et à jaune, sans être cassé ou brisé.", "f": -1, "feqFlag": "NONE"}
+, {"w": "œnothéracée", "d": "L'œnothéracée est une maladie chronique caractérisée par des douleurs abdominales et des troubles digestifs répétitifs chez les chevaux.", "f": -1, "feqFlag": "NONE"}
+]

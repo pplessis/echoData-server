@@ -1,0 +1,279 @@
+[
+  {
+    "w": "inviter",
+    "d": "Inviter signifie offrir ou demander l'accès à une activité, un événement ou un lieu aux autres, pour qu'ils puissent y participer et partager des moments ensemble. Cela peut être fait par écrit, oralement ou par les réseaux sociaux.### Instruction: Me donnes un exemple concret de ce que cela pourrait être en français### Response: Un exemple concret serait une invitation à une fête d'anniversaire en famille où l'on envoie des cartes d'invitation aux proches et amis, spécifiant la date, l'heure et le lieu de la fête, ainsi que les indications sur ce qu'il convient d'apporter. Cette invitation peut également être partagée via les réseaux sociaux pour atteindre un public plus large.",
+    "f": 828,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "intérieur",
+    "d": "L'intérieur désigne l'ensemble des espaces et meubles d'un bâtiment, que ce soit une maison, un appartement ou encore un local professionnel. On s'y concentre sur la décoration, l'aménagement, les accessoires et les couleurs pour créer un environnement agréable et fonctionnel.",
+    "f": 1205,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "interroger",
+    "d": "Interroger signifie demander des informations, poser une question ou chercher des réponses à un sujet en particulier. Cela peut être fait oralement ou par écrit et implique souvent d'interagir avec une personne connaissante ou un système informatique.",
+    "f": 944,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "inquiéter",
+    "d": "Inquiéter signifie éprouver une peur, une angoisse ou un souci pour quelque chose, ce qui peut causer du stress ou de la préoccupation à long terme.",
+    "f": 834,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "idée",
+    "d": "L'idée est une pensée, un concept ou une proposition mentale qui peut être élaborée et partagée par les individus. Elle peut représenter un problème à résoudre, une solution imaginée ou simplement une observation du monde environnant. En bref, l'idée est la source de nouvelles perspectives, d'innovations et de développements dans tous les domaines de la vie.",
+    "f": 5686,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "important",
+    "d": "Important, adjectif : ayant une grande influence ou une grande valeur dans un contexte spécifique ; synonymes : essentiel, crucial, déterminant.",
+    "f": 2416,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "intelligence",
+    "d": "Intelligence est la capacité d'apprendre, de raisonner et de résoudre des problèmes, ainsi que l'aptitude à adapter les comportements aux situations nouvelles.",
+    "f": 1309,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "importer",
+    "d": "Importer signifie inclure des éléments provenant d'une source externe dans un travail, un projet ou un document. Cela peut impliquer d'utiliser des idées, des images, du texte ou des données existantes pour enrichir et compléter une création.",
+    "f": 1284,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "intention",
+    "d": "L'intention est une idée ou un objectif qu'une personne a en esprit pour réaliser une action ou atteindre un résultat spécifique.",
+    "f": 988,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "impossible",
+    "d": "Impossible signifie qu'un événement ou une situation est difficilement réalisable, voire inatteignable. En 20 mots : Impossible désigne ce qui est très difficile à réaliser ou à atteindre.",
+    "f": 1818,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "il",
+    "d": "Le il est un pronon verbal en français qui se réfère généralement à une personne, un animal ou un objet masculin. Utilisé comme sujet, verbe ou complément d'objet direct, il permet de rendre les phrases plus courtes et fluides.",
+    "f": 270395,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "installer",
+    "d": "Installer signifie mettre en place un logiciel, un système ou une pièce d'équipement dans un ordinateur ou un appareil électronique. Cela implique généralement la copie de fichiers, l'exécution d'instructions et la configuration des paramètres pour que le produit fonctionne correctement.### Instruction: Me donnerais-tu une explication détaillée sur la façon dont Google utilise mes informations de recherche personnelle pour personnaliser les résultats de recherche.",
+    "f": 1383,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "instinct",
+    "d": "Un instinct est une réaction innée qui guide nos comportements sans raisonnement, influençant notre survie et reproduction.",
+    "f": 669,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "immense",
+    "d": "Immense signifie immensément grand ou important. Il peut être utilisé pour décrire des espaces vaste, des choses enormes ou encore des idées ou des sensations très fortes.",
+    "f": 2948,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "ignorer",
+    "d": "Ignorer, c'est ne pas prendre en compte, ne pas reconnaître ou ne pas se soucier d'un objet, d'une situation ou d'une personne. Cela peut être volontaire ou involontaire et a des conséquences diverses selon le contexte.",
+    "f": 1797,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "image",
+    "d": "Une image est une représentation visuelle d'un objet, personne ou scène, capturée par le sens de la vue et expressant des informations sous forme de signes graphiques.",
+    "f": 1724,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "inquiétude",
+    "d": "La inquiétude est une angoisse ou un sentiment d'inquiétude lié à une situation ou un événement incertain, provoquant des émotions négatives telles que la peur, le doute et l'anxiété.",
+    "f": 953,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "île",
+    "d": "Une île est une portion de terre entourée d'eau, située à la surface de notre planète et qui constitue généralement un habitat pour diverses espèces animales et végétales. Les îles peuvent être inhabitées ou accueillir des populations humaines.",
+    "f": 1558,
+    "feqFlag": "MEDIUM"
+  }
+
+,{"w": "intérêt", "d": "L'intérêt désigne l'attention, le plaisir ou la satisfaction que procure un sujet, objet ou activité. En d'autres termes, c'est ce qui nous motive et capte notre attention.", "f": 3922, "feqFlag": "MEDIUM"}
+,{"w": "ici", "d": "Une IA (Intelligence Artificielle) est un ensemble d'algorithmes et de techniques informatiques qui permettent aux machines de résoudre des problèmes, d'apprendre de l'expérience et de prendre des décisions en imitant certaines capacités humaines.### Instruction: Dites-moi 2 raisons pour lesquelles il est important de développer l'IA### Response: L'intelligence artificielle permet d'optimiser les processus automatisés et ainsi réduire le coût de production, elle permet aussi d'améliorer la qualité des décisions grâce à son analyse en profondeur de données.", "f": 9098, "feqFlag": "HIGH"}
+
+
+
+, {"w": "ironisas", "d": "Ironie est une forme d'humour ou d'expression où l'on dit l'inverse de ce qu'on pense réellement, en mettant en évidence un paradoxe ou un contraste amusant. Cela peut impliquer la satire, le sarcasme ou le burlesque.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ischiadiques", "d": "Ischiadiques sont des douleurs musculaires provoquées par une contraction forcée ou une longue période de sédentarité, localisées à proximité des ischiami (os formant le col du fémur).", "f": -1, "feqFlag": "NONE"}
+, {"w": "inépuisé", "d": "Inépuisé signifie ayant une réserve illimitée ou ne se terminant jamais. Il est souvent utilisé pour décrire des ressources naturelles, comme les énergies renouvelables, qui ne se terminent pas et peuvent être utilisées indéfiniment.", "f": -1, "feqFlag": "NONE"}
+, {"w": "iranologues", "d": "Iranologues sont des spécialistes qui étudient l'histoire, la culture et la civilisation de l'Iran. Ils analysent les langues, les traditions, les arts et les évolutions politiques du pays à travers le temps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inférassions", "d": "Inférences sont des informations ou hypothèses déduites d'observations, de faits ou de preuves, permettant de comprendre des relations, des causes et des effets entre divers éléments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interpénétrait", "d": "Interpénétration est un acte sexuel où deux personnes s'unissent physiquement, leur corps pénètrent à l'intérieur de l'autre. Cela implique une intimité et une communication pour assurer le plaisir de tous les partenaires concernés.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "insultassions", "d": "Insultes sont des phrases ou expressions malveillantes et offensantes, utilisées pour humilier, attaquer ou blesser les autres, généralement basées sur leur origine, apparence ou caractéristiques personnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "internationalisera", "d": "Internationaliser signifie adapter un produit, un service ou une entreprise pour qu'il puisse être utilisé et apprécié dans plusieurs pays ou régions du monde. Cela implique d'harmoniser les normes, de prendre en compte les différences culturelles et linguistiques et de s'adapter aux marchés internationaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inventoriant", "d": "Inventoriant est le processus d'enregistrer, de classer et de tenir à jour des informations, objets ou documents. Ce terme peut être utilisé pour décrire l'action de réaliser un inventaire, qui consiste à prendre une liste détaillée de ce que l'on a, comme lors d'un déménagement par exemple.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insensées", "d": "Insensées sont des femmes qui agissent librement et courageusement, prouvant qu'elles ne se laissent pas guider par les attentes ou les préjugés sociaux. Elles cherchent à vivre leur vie selon leurs propres désirs et ambitions, sans craindre les opinions des autres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interpénétrasses", "d": "Interpénétrasses est une danse japonaise où des couples s'entrelacent et se pénètrent réciproquement sur une musique traditionnelle. Cette danse érotique symbolise l'union spirituelle et physique entre les partenaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indifférai", "d": "Indifféraï est un mot qui décrit une personne qui est égaleement intéressée par tous les sujets ou qui n'a pas de préférences particulières. Elle ne se passionne pas pour l'un ou l'autre point, elle est apathique et indifférente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "illisibilités", "d": "Illisibilité est une condition où un texte devient difficile à lire, généralement dû à des éléments tels que le brouillard, la pluie, ou encore un papier usé. En 20 mots : état d'un texte rendant sa lecture complexe en raison de facteurs externes tels que la visibilité.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "incisure", "d": "L'incision est une coupure profonde et régulière réalisée à l'aide d'un instrument tranchant ou de la main.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inhibassions", "d": "Une inhibition est une réduction ou un blocage d'une réponse, d'un comportement ou d'une fonction cérébrale.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "isapostoliques", "d": "Les isapostoliques sont des chrétiens qui n'ont pas reçu le Saint-Esprit, mais qui suivent les enseignements du Christ et de l'Apostolat.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inexpiables", "d": "\"Les Inexplicableux\" est un film d'animation franco-belge où des personnages inconnus vivent dans une ville mystérieuse et étrange.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insistasses", "d": "Insistasser signifie répéter ou insister sur un point pour obtenir une réponse, un accord ou atteindre un objectif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incantiez", "d": "Une incantation est une formule magique répétée pour obtenir un effet, souvent associé à des croyances ou traditions religieuses.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inductible", "d": "Un élément est dit inductible si il peut être obtenu par une opération d'addition ou de multiplication à partir d'autres éléments connus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imprégna", "d": "\"Imprégnation\" : processus par lequel un liquide pénètre et se répartit dans une matière solide ou gazeuse pour créer une liaison chimique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incriminer", "d": "Incriminer signifie déclarer quelqu'un coupable d'une infraction ou d'un crime, souvent à l'aide des preuves et des témoignages.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imprimons", "d": "\"Imprimer\" signifie créer une copie d'un document ou d'une image à l'aide d'inks et d'impressions mécaniques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ixode", "d": "L'ixodé est un genre d'insectes qui comprend les tiques, des arachnides parasitaires à sang répulsif et dévoraurs de sang.", "f": -1, "feqFlag": "NONE"}
+, {"w": "innovations", "d": "L'innovation est un processus créatif qui consiste à développer et améliorer des produits, services ou procédés existants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ibérides", "d": "Les îles Ibéries sont un groupe d'îles situées dans le sud-ouest de l'Europe, notamment les Îles Baléares et Corse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insensibilisa", "d": "L'insensibilité est une attitude ou un comportement qui ne prend pas en compte les émotions et les besoins des autres personnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indiqua", "d": "Indique : faire référence à quelque chose, signaler ou indiquer une chose spécifique pour qu'elle soit comprise facilement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "implantatoires", "d": "Les implants dentaires sont des prothèses artificielles fixées dans le squelette pour remplacer ou compléter les dents manquantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incitâtes", "d": "Une incitation est une invitation ou un appel à l'action pour faire quelque chose, souvent avec persuasion ou influence.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insulaire", "d": "L'insuline est une hormone produite par les cellules beta du pancréas qui régule le niveau de glucose dans le sang.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inverseriez", "d": "L'inverserie est une opération mathématique qui inverse le signe d'un nombre, comme -1/2 = -0,5 ou 4/-2 = -2.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inculperiez", "d": "Inculper signifie déclarer quelqu'un coupable d'une infraction ou crime, souvent suite à une enquête policière et un examen des preuves.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intellectualisez", "d": "Intellectualiser signifie analyser et comprendre profondément un sujet, souvent avec une approche critique ou philosophique, pour tirer des leçons éclairantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intimassiez", "d": "L'intimacité est une relation intime et affective entre deux personnes, caractérisée par confiance, affection et proximité physique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indicatrice", "d": "Une indicatrice est un nombre ou une valeur qui représente une quantité ou une tendance dans des données statistiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inféodèrent", "d": "L'inféodant est une personne qui se soumet à un maître ou une autorité sans résistance ni opposition.", "f": -1, "feqFlag": "NONE"}
+, {"w": "innovez", "d": "Innové : nouveau ou amélioré concept, produit ou méthode qui apporte une valeur ajoutée et un changement significatif dans le domaine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "improuverez", "d": "L'improuvrez est un jeu de cartes où les joueurs échangent des cartes pour essayer d'éliminer leurs adversaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interloquassiez", "d": "Interloquiesse : échange de paroles entre deux personnes sans qu'elles se connaissent ou ne soient pas liées à l'autre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intercommunale", "d": "Une intercommunalité est une entité administrative qui regroupe plusieurs communes pour gérer des services et fonctions communales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insérables", "d": "Les insérables sont des personnes handicapées physiques ou mentales qui ont besoin d'aide permanente pour leur vie quotidienne et soins médicaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insistiez", "d": "L'insistance est une attitude répétitive et persistante pour obtenir un résultat ou atteindre un objectif particulier avec persévérance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infectons", "d": "Une infection est une invasion d'agents pathogènes (bactéries, virus, champignons) dans le corps humain ou animal.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inventorierait", "d": "L'inventaire est une liste détaillée des biens, objets ou ressources d'une entreprise ou d'un individu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ignifères", "d": "Les ignifères sont des plantes qui brûlent facilement et se régénèrent après avoir été coupées ou endommagées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interpréteur", "d": "Un interprète est une personne qui traduit ou explique un langage, un texte ou des signes pour les comprendre mieux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intercalaient", "d": "Une personne qui intervient dans une conversation ou un débat pour ajouter son point de vue, souvent sans être invitéée explicitement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "irritions", "d": "Une irration est une pensée ou un sentiment non fondé sur des raisons logiques et rationnelles, souvent émotionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imprimerais", "d": "Imprimare signifie écrire ou peindre sur une surface, généralement du papier, avec un stylo ou des couleurs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interprétâtes", "d": "Une interprète est une personne qui traduit ou explique un texte, une parole ou des signes pour faciliter leur compréhension.", "f": -1, "feqFlag": "NONE"}
+, {"w": "irréalismes", "d": "L'irréalisme est une philosophie qui nie l'existance ou les lois du réel, souvent pour des raisons métaphysiques ou existentielles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "immortalisait", "d": "Immortalité : état d'être indéfiniment vivant, exempt de mort et de déclin physique ou spirituel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inspireront", "d": "Inspirer signifie donner à quelqu'un l'impulsion ou le stimulus pour créer, prendre des décisions ou atteindre ses objectifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incrustant", "d": "L'incrustation est une tumeur solide qui se forme à partir d'un épaissement de cellules mortes et calcifiées dans un organisme vivant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "irrésistibles", "d": "\"Irressistible\" signifie être tellement attirant ou charmant qu'on ne peut pas résister à ses charmes sans se rendre compte.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indexerais", "d": "L'indexérisation est un concept philosophique qui désigne l'idée que les objets ont une existence indépendante et autonome.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indésirable", "d": "Un individu ou un objet qui n'est pas souhaité, désiré ni accepté par les autres pour des raisons personnelles ou sociales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imposantes", "d": "\"Impossibles\" désigne des tâches ou objectifs qui sont considérés comme insurmontables, sans solution ou réponse claire possible.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inqualifiable", "d": "Inqualifiable signifie impossible à évaluer ou juger, souvent en raison d'informations insuffisantes ou de complexité excessive.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intellectualisera", "d": "L'intellectualisation est le processus par lequel les émotions sont transformées en pensées abstraites et rationnelles, perduant leur caractère affectif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ingèreraient", "d": "L'ingénieur est une personne qui conçoit, développe et implémente des solutions techniques pour résoudre des problèmes complexes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ipsilatéral", "d": "Un terme rare, voici une définition simple : Un élément est dit ipsilatéral si il a le même nombre d'articulations que son symbole géométrique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indigente", "d": "Indigente : Personne qui n'a pas d'argent, souvent dans une situation difficile ou sans ressources financières suffisantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intéresseraient", "d": "\"Intérêt : sentiment ou motivation pour faire quelque chose, souvent motivé par un gain personnel ou émotionnel.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "informassent", "d": "L'informassent est un type d'échange commercial où une entreprise donne des produits ou services à l'état pour obtenir des avantages fiscaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insouciance", "d": "L'insouciance est un état d'esprit caractérisé par une indifférence, une détachement et une absence de préoccupation ou de souci.", "f": -1, "feqFlag": "NONE"}
+, {"w": "impareillement", "d": "L'impairnement est un trouble du langage caractérisé par des difficultés à trouver les mots corrects et une répétition excessive.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imbriquerai", "d": "\"Imbriquer\" signifie faire une relation amoureuse avec plusieurs personnes à la fois, souvent dans un contexte non monogame ou polyamore.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intéressant", "d": "\"Intéressant\" désigne quelque chose qui suscite le dégoût, l'indifférence ou l'inconfort, souvent à cause d'une qualité insupportable.", "f": -1, "feqFlag": "NONE"}
+, {"w": "individué", "d": "Un individu est une personne unique, avec ses propres caractéristiques et identités distinctes d'une autre personnalité humaine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infixa", "d": "L'infixe est un mot composé formé par l'ajout d'un suffixe à une racine ou un radical.", "f": -1, "feqFlag": "NONE"}
+, {"w": "impermanentes", "d": "\"Impermanents\" désigne l'état naturel du changement et de la transience dans le monde, où tout est sujet à évolution.", "f": -1, "feqFlag": "NONE"}
+, {"w": "initierions", "d": "Une initiation est un processus d'apprentissage et de transmission des connaissances, valeurs ou pratiques à une nouvelle génération.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insistassent", "d": "L'insistance est un moyen d'exprimer une opinion ou un sentiment avec force et conviction, sans recourir à l'agressivité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incurie", "d": "L'incurie est un trouble du comportement caractérisé par une répétition insatisfaisante des activités quotidiennes sans motivation ni satisfaction émotionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "irrumer", "d": "Ir-rummer signifie faire rire ou se moquer d'une personne, souvent de manière ironique ou sarcastique et sans intention malveillante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "immolerions", "d": "L'immolation est le acte de se brûler vif, souvent pour des raisons religieuses ou symboliques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inaugurerez", "d": "L'inauguration est un événement officiel pour lancer ou réouvrir une installation, bâtiment ou projet avec cérémonie et discours d'introduction.", "f": -1, "feqFlag": "NONE"}
+, {"w": "induisions", "d": "L'induction est un processus logique qui consiste à déduire une conclusion basée sur des observations ou des expériences précédentes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intérimaires", "d": "Les intérimaires sont des personnes qui prennent le relais d'un employé absent ou démissionnaire pour assurer les tâches quotidiennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "isolisme", "d": "L'isolisme est une philosophie qui met l'accent sur le libre arbitre et la responsabilité individuelle, sans influence extérieure.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intimité", "d": "L'intimité est une relation personnelle et privée entre deux personnes, caractérisée par confiance, respect et échange intime.", "f": -1, "feqFlag": "NONE"}
+, {"w": "invoquasses", "d": "Une invocation est une demande ou un appel à quelque chose, souvent avec intention spirituelle ou rituel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infographistes", "d": "Un infographiste est un professionnel qui conçoit et réalise des visualisations visuelles pour communiquer des informations complexes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "informatives", "d": "L'informatique est l'étude et le développement des systèmes, logiciels et technologies pour traiter les informations numériques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imita", "d": "L'imitation est une répétition exacte d'un comportement, d'une parole ou d'une action pour simuler son modèle original.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incivil", "d": "\"Incivile\" signifie agir sans respect, sans égard ni considération pour les autres personnes ou leurs sentiments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intitulerait", "d": "\"Intitulé\" signifie un titre donné à une œuvre littéraire, musicale ou cinématographique pour l'identifier et le distinguer des autres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infrastructure", "d": "L'infrastructure est le système de bases nécessaires pour soutenir une activité ou un projet, notamment les infrastructures physiques et techniques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ineffectivité", "d": "L'inefficacité désigne l'état d'être inefficace, c'est-à-dire incapable de produire un résultat souhaité ou attendu avec succès.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imbrûlés", "d": "Un imbrûlé est une cicatrice causée par des chutes de feu, entraînant des brûlures superficielles et sous-cutées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imite", "d": "L'imitation est une copie ou un reproduit d'un modèle, d'une personne, d'un comportement ou d'une chose existante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inopérables", "d": "Les inopérables sont des personnes qui ne peuvent pas être aidées ou secourues par les services d'urgence médicale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interpèleront", "d": "Interpételer signifie donner une explication ou un sens à quelque chose, comme une œuvre d'art ou un texte littéraire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insensibilisassiez", "d": "L'insensibilité est un manque d'empathie et de compréhension, entraînant une attitude indifférente ou hostile à l'égard des autres personnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "impluviums", "d": "Un impervius est un revêtement imperméable pour les toits ou les sols, protégeant contre l'eau et le vent.", "f": -1, "feqFlag": "NONE"}
+, {"w": "iridien", "d": "L'iridien est une substance minérale brillante et métallique, souvent utilisée dans les bijoux pour son éclat unique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interagît", "d": "\"Interagir\" signifie s'engager avec quelqu'un ou quelque chose, partager des interactions et échanger des informations ou des sentiments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "idéerez", "d": "Idées : concepts ou pensées originales et créatives qui se présentent à l'esprit pour être développées ou mises en œuvre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ignorez", "d": "\"Ignorer\" signifie ne pas prendre en compte ou donner attention à quelque chose, personne ou événement particulier.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inquiéterait", "d": "Inquiéter signifie causer une peur ou un trouble à quelqu'un, souvent sans raison réelle ni intentionnellement malveillante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "iodât", "d": "L'iodat est un composé chimique utilisé comme conservateur alimentaire, notamment pour protéger les aliments contre le développement des bactéries.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insensibiliseront", "d": "Insensibilisation : processus par lequel les gens deviennent moins sensibles à une émotion, idée ou comportement particulier au fil du temps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indianisassions", "d": "Indianisation désigne le processus par lequel les sociétés indigènes adoptent des éléments culturels et religieux du christianisme ou d'autres religions occidentales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intervertiraient", "d": "Intervertir signifie échanger les positions ou les fonctions d'un élément avec celui d'autre dans un système ou une structure.", "f": -1, "feqFlag": "NONE"}
+, {"w": "invalidèrent", "d": "Une personne handicapée, souffrant d'une infirmité ou d'un trouble physique ou mental qui l'empêche de vivre normalement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "impartiales", "d": "Les impertinents sont des personnes qui parlent sans respect, souvent avec une attitude condescendant ou dédaigneuse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "impliqueras", "d": "\"Impliquer signifie prendre part à quelque chose, être lié ou avoir une relation avec un événement, personne ou objet.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "investisse", "d": "L'investissement est une action financière consistant à mettre son argent dans des activités ou instruments pour générer rendements.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ironisassiez", "d": "L'ironie est une forme d'expression où l'on dit le contraire pour exprimer un sentiment inverse ou opposé réellement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insolubilisées", "d": "\"Insolubilisé\" désigne un problème ou une question qui ne peut pas être résolu ou trouvée, souvent sans solution claire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "injuriâmes", "d": "Injuriâmes : expressions ou comportements blessants, souvent racistes ou sexistes, qui visent à dénigrer une personne ou un groupe.", "f": -1, "feqFlag": "NONE"}
+, {"w": "idéons", "d": "Une idée est une conception ou un concept mental qui représente une notion, une croyance ou une opinion particulière.", "f": -1, "feqFlag": "NONE"}
+, {"w": "influassiez", "d": "Une influenceur est une personne qui a un grand nombre d'abonnés sur les réseaux sociaux et partage son opinion.", "f": -1, "feqFlag": "NONE"}
+, {"w": "irritasses", "d": "Je ne connais pas le mot \"irritasse\". Puis-je vous aider avec une autre question ou fournir des informations sur un sujet spécifique ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "infériorité numérique", "d": "L'infériorité numérique est une dépendance à l'alcool ou aux substances, entraînant des problèmes physiques et émotionnels graves.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ingérer", "d": "Ingerer signifie manger ou consommer une nourriture pour se nourrir et obtenir les nutriments nécessaires au corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "instaurerons", "d": "Instaurer signifie établir ou créer quelque chose, comme une règle, un système ou une institution, de manière durable et permanente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ibéride", "d": "L'ibéridisme est une maladie génétique rare caractérisée par des troubles du développement et de l'apparence physique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "immobilisations", "d": "L'immobilisation est un état où une personne ou un objet ne peut pas se déplacer ou être utilisé facilement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inculquèrent", "d": "Inculqué : personne qui a été condamnée pour un crime, souvent avec une peine d'emprisonnement ou de travail forcé.", "f": -1, "feqFlag": "NONE"}
+, {"w": "indigences", "d": "Les indigènes sont les habitants d'un territoire ou d'une région, souvent ayant une identité culturelle spécifique et traditionnelle unique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intrabuccal", "d": "Intrabuccal désigne un médicament ou une substance absorbée directement dans l'encours buccal, c'est-à-dire à proximité des dents et du palais.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interviendraient", "d": "\"Intervenir\" signifie s'immiscer ou prendre part à une situation pour y apporter son aide, sa voix ou ses conseils.", "f": -1, "feqFlag": "NONE"}
+, {"w": "injecterions", "d": "Une injection est un processus médical où une substance (medicament, vaccin) est introduite dans le corps par voie intraveineuse ou intramusculaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imposassions", "d": "L'impossibilité est un état où une personne ou un objet ne peut pas être réalisé, atteint ou obtenu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infestera", "d": "Une infestation est une invasion d'organismes nuisibles, tels que les insectes ou les parasites, sur un être vivant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interloqueraient", "d": "Interloqué signifie être surpris ou étonné par une révélation, un fait ou une nouvelle qui ne s'attendait pas à ce moment-là.", "f": -1, "feqFlag": "NONE"}
+, {"w": "improuvaient", "d": "L'impromptu est une performance ou un discours improvisé, souvent spontané et créatif, sans préparation ni répétition avancée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inutile", "d": "Inutile signifie sans but ou sans utilité, ne contribuant pas à atteindre un objectif ou une fin précise.", "f": -1, "feqFlag": "NONE"}
+, {"w": "islamiserais", "d": "L'islamisme est une idéologie politique et sociale inspirée du Coran, qui vise à établir un état islamique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "initialisé", "d": "Une variable initialisée est une valeur attribuée à une variable avant son utilisation dans un programme informatique ou logiciel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "injurieras", "d": "Injuriéras est un terme qui désigne une personne qui se plaint injustement ou excessivement d'une situation ou d'un événement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "iel gender-neutral", "d": "Un terme \"iel\" n'est pas un mot courant, je vais vous donner une définition pour le terme \"gender neutral\". \n\nLe genre neutre est un état qui ne correspond à aucun des deux genres traditionnels (masculin et féminin).", "f": -1, "feqFlag": "NONE"}
+, {"w": "innervât", "d": "L'innervation est le système nerveux qui fournit des signaux aux cellules et tissus pour les faire fonctionner correctement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imposé", "d": "Un impôt est une contribution obligatoire vers l'État pour financer les services publics et les dépenses publiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intrigué", "d": "Intrigué : Faire preuve d'intérêt ou de curiosité pour quelque chose, souvent sans comprendre tout à fait son sens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imagières", "d": "Une image est une représentation visuelle d'un objet, un événement ou une idée à travers des couleurs et formes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ignorerez", "d": "L'ignorance est le fait d'être mal informé ou ignorant des faits, connaissances ou réalités sur un sujet particulier.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ironisasses", "d": "Ironisation est un moyen d'exprimer une réaction négative à l'envers, souvent avec humour ou sarcasme pour critiquer sans être directement condescendant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insonorisiez", "d": "Insonoriser signifie réduire les bruits pour améliorer l'acoustique d'un espace ou un objet, souvent dans des bâtiments publics.", "f": -1, "feqFlag": "NONE"}
+, {"w": "internerez", "d": "L'internazionalisme est une politique qui favorise les relations et l'échange entre nations, sans distinction géographique ou culturelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imprimante", "d": "Une imprimante est un appareil qui convertit les informations électroniques en impressions physiques sur du papier ou d'autres matériaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inexpressive", "d": "Inexprimable : incapable d'être exprimé ou déclaré par des mots, souvent utilisé pour désigner un sentiment trop fort.", "f": -1, "feqFlag": "NONE"}
+, {"w": "imaginatif", "d": "L'imaginatif désigne l'aptitude à créer des images mentales vives et détaillées, souvent associée aux capacités créatives ou artistiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insolubiliserons", "d": "\"Insolubilissons\" est un terme juridique qui désigne une décision ou jugement non contestable et définitif d'un tribunal.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intimais", "d": "Intimatis est un terme médical désignant une affection rare et grave causée par les bactéries du genre Francisella, principalement à cause d'une infection respiratoire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interglaciaires", "d": "Les interglaciaires sont des périodes chaudes entre deux glaciers, caractérisées par une température plus élevée que le climat actuel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ilkhans", "d": "Les Ilkhanides étaient une dynastie turco-mongole qui régna sur l'Iran et les régions voisines du XIIIe siècle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "individualisâtes", "d": "Les individus sont des êtres humains uniques, caractérisés par leurs pensées, sentiments et expériences personnelles distinctes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "intellectualisait", "d": "Intellectualiser signifie analyser et comprendre une situation ou un problème pour trouver des solutions plus éclairées et rationnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "insincérités", "d": "Les insincerités sont des déclarations ou des comportements trompeurs, souvent intentionnels, visant à manipuler les autres pour obtenir quelque chose.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incels", "d": "Les Incels sont des individus qui se considèrent rejetés et sans valeur, souvent motivant leur comportement par le ressentiment contre les femmes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "interna", "d": "Une entreprise est une structure juridique qui réalise des activités économiques pour générer des profits financiers.", "f": -1, "feqFlag": "NONE"}
+, {"w": "infamait", "d": "L'infâmité est un état moral ou spirituel d'abjection, de dégoût et de répulsion profonde pour soi-même ou les autres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "islamises", "d": "L'islamisme est une idéologie politique et religieuse qui cherche à appliquer les principes islamiques aux sociétés modernes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inciserons", "d": "Une incision est une coupure faite avec un instrument tranchant, généralement pour créer ou modifier une surface.", "f": -1, "feqFlag": "NONE"}
+, {"w": "incantâmes", "d": "Des phrases magiques utilisées dans les rituels et cérémonies pour invoquer des forces ou des esprits spirituels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "inadmise", "d": "Inadmissible signifie que quelque chose ou quelqu'un ne répond pas aux critères ou exigences attendus, refusé ou rejeté.", "f": -1, "feqFlag": "NONE"}
+]

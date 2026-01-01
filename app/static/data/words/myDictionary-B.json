@@ -1,0 +1,235 @@
+[
+  {"w": "bonheur", "d": "Le bonheur est un sentiment d'équilibre, de satisfaction et de bien-être, résultant de relations positives, réalisations personnelles et une appréciation du présent.", "f": 3978, "feqFlag": "MEDIUM"}
+, {"w": "bord", "d": "Un bord est la limite physique entre deux espaces, souvent utilisée pour décrire une frontière ou une ligne de démarcation, telle qu'une bordure d'un bâtiment, d'un champ ou d'un océan. Cela peut également se référer à la frontière entre des domaines, comme les pays, les cultures ou les idées.", "f": 2753, "feqFlag": "MEDIUM"}
+, {"w": "bras", "d": "Le bras est une partie de notre anatomie composée d'os, de muscles et de tendons, permettant le mouvement de l'avant-bras, de la main et des doigts. Il sert à diverse activité quotidienne, comme tenir, gréer, ou écrire.", "f": 6304, "feqFlag": "HIGH"}
+, {"w": "beauté", "d": "La beauté, c'est une sensation subjective qui émeut l'émotion, reflète l'harmonie et la grâce dans un objet, une personne ou un environnement, touchant ainsi notre esprit et notre âme.", "f": 2054, "feqFlag": "MEDIUM"}
+, {"w": "bon", "d": "Bon, c'est une pièce d'argent dont on peut payer les dépenses et qui sert à calculer le solde bancaire. Elle permet de gagner des intérêts et d'avoir un accès rapide aux fonds.", "f": 1603, "feqFlag": "MEDIUM"}
+, {"w": "boire", "d": "Boire est l'action de consommer un liquide, généralement pour satisfaire une besoin physiologique, apporter des nutriments ou réhydrater le corps. On peut boire de l'eau, du lait, du jus, du café ou du thé, par exemple. Il est important de rester hydraté pour garder en bonne santé.", "f": 2937, "feqFlag": "MEDIUM"}
+, {"w": "baisser", "d": "Baisser, dans le contexte donné, signifie réduire ou diminuer. En dix-huit mots : Baisser consiste à faire diminuer une quantité, un niveau ou une valeur, généralement pour répondre à une situation spécifique ou atteindre un objectif.", "f": 1370, "feqFlag": "LOW"}
+, {"w": "blanc", "d": "Le blanc est un couleur qui représente l'absence de couleur, composée uniquement de lumière, souvent associée à la pureté et à l'innocence. Il est utilisé dans de nombreuses cultures pour symboliser des croyances et des cérémonies différentes. En art, il peut créer des contrastes et des effets visuels puissants.", "f": 6246, "feqFlag": "HIGH"}
+, {"w": "briser", "d": "Briser signifie casser ou rompre quelque chose, généralement physiquement. En 20 mots : Détruire, fragmenter, éclater, ruiner, effacer, dissocier, fracturer, pulvériser, percer, cassiller, bouleverser, abattre, désintégrer, démanteler, anéantir, désagréger, disloquer, démolir, éparpiller, ravager.", "f": 1601, "feqFlag": "MEDIUM"}
+, {"w": "bleu", "d": "Le bleu est une couleur qui nous entoure et que l'on perçoit à travers les yeux. C'est une teinte apaisante, froide et souvent associée au ciel et à la mer. On le retrouve également dans les fleurs comme les iris ou les narcisses. En termes de symbolisme, il représente l'harmonie, la sérénité et la stabilité. Dans notre vocabulaire courant, on utilise souvent le mot bleu pour décrire des sentiments tranquilles ou calmes.", "f": 2906, "feqFlag": "MEDIUM"}
+, {"w": "beau", "d": "Beau, en 20 mots : Adjectif qui décrit ce qui plaît esthétiquement, attirant l'attention et créant un sentiment de beauté ou de grâce. Il englobe la forme, les couleurs, le caractère et la harmonie.", "f": 655, "feqFlag": "LOW"}
+, {"w": "bande", "d": "Bande est un terme qui désigne un ensemble de matériaux, souvent textiles ou plastiques, utilisés pour diverses applications, comme la transmission de données, le support d'imprimantes, ou encore la réalisation de vêtements, enceintes ou accessoires.", "f": 608, "feqFlag": "LOW"}
+, {"w": "bouche", "d": "La bouche est l'ouverture de notre visage, formée par les leviers supérieur et inférieur, qui nous permet de manger, parler et expressionner nos émotions. Elle est sensuelle et expressive.", "f": 3266, "feqFlag": "MEDIUM"}
+, {"w": "battre", "d": "Battre est un verbe qui signifie frapper ou toucher quelqu'un ou quelque chose d'une manière vive ou violente. Il peut être utilisé pour décrire une action physique, comme lorsqu'on frappe une personne ou un objet avec une main ou un outil, ou pour exprimer un sentiment émotionnel, comme lorsqu'on parle de souffrances ou de difficultés endurées. Dans certains contextes, battre peut aussi représenter une victoire ou une réussite.", "f": 2678, "feqFlag": "MEDIUM"}
+, {"w": "bien", "d": "Bien, c'est un état général d'être heureux, content et en harmonie avec soi-même et l'environnement. Cela implique des relations positives, une santé physique et mentale, et la capacité de vivre sa vie selon ses valeurs et objectifs.", "f": 37171, "feqFlag": "HIGH"}
+, {"w": "banc", "d": "Un banc est un meuble en forme de banquette, long et bas, utilisé pour accueillir plusieurs personnes assises confortablement.", "f": 873, "feqFlag": "LOW"}
+, {"w": "bas", "d": "Bas en bâton : un appareil de fitness qui consiste à utiliser des bâtons ou des massues pour effectuer différentes exercices physiques, généralement pour améliorer l'endurance, la force et la coordination.", "f": 620, "feqFlag": "LOW"}
+, {"w": "bois", "d": "Le bois est un matériau naturel issu des arbres, composé de cellulose et de lignine, utilisé pour la construction, le chauffage, la fabrication de meubles et d'objets variés, ainsi que dans l'industrie et l'artisanat.", "f": 4460, "feqFlag": "MEDIUM"}
+, {"w": "bout", "d": "Bout : extrémité ou fin d'un objet, de quelque chose qui se termine ou se trouve en dernier lieu.", "f": 4571, "feqFlag": "MEDIUM"}
+, {"w": "barbe", "d": "La barbe est une couche de poils sur le visage des hommes, qui pousse naturellement au-delà du menton et peut varier en longueur et texture. Elle est souvent associée à la masculinité, à l'âge et à l'apparence générale d'une personne.", "f": 837, "feqFlag": "LOW"}
+, {"w": "brûler", "d": "Le brûler signifie que quelque chose est en feu ou est consommé en combustion, libérant de l'énergie et produisant de la chaleur et des flammes. Cette réaction chimique peut être accidentelle ou contrôlée, comme dans un feu de cheminée ou une cuisinière à gaz.", "f": 2218, "feqFlag": "MEDIUM"}
+, {"w": "branche", "d": "Branche, dans un arbre, est une partie cylindrique, élancée et rigide, issue d'un tronc ou d'une autre branche, portant des feuilles, fleurs ou fruits et supportant parfois des oiseaux ou des insectes.", "f": 1115, "feqFlag": "LOW"}
+, {"w": "blond", "d": "Blond, terme issu du latin blondus signifiant roux, désigne un cheveux naturellement clair ou blanchâtre, généralement associé à des tons allant du jaune pâle au blanc cassé. Ce mot peut également être utilisé pour décrire une personne possédant ce type de cheveux. La couleur blond est également associée à la tendance esthétique occidentale, et symbolise parfois le bonheur, l'innocence et la jeunesse.", "f": 652, "feqFlag": "LOW"}
+, {"w": "besoin", "d": "Le besoin est une attente, désir ou demande d'individus ou de groupes concernant des produits, services ou expériences qui améliorent leur vie ou résolvent leurs problèmes.", "f": 4908, "feqFlag": "MEDIUM"}
+, {"w": "beaux", "d": "Beaux, en 20 mots : Adjectif qui décrit quelque chose d'agréable à regarder, de fin et harmonieux, souvent lié à l'art, la beauté naturelle ou aux personnes attirantes.", "f": 1489, "feqFlag": "MEDIUM"}
+, {"w": "bureau", "d": "Un bureau est un espace tranquille et organisé où l'on peut travailler, réunir des documents et utiliser des technologies pour faciliter les activités professionnelles et administratives.", "f": 1367, "feqFlag": "LOW"}
+, {"w": "bientôt", "d": "Bientôt est un terme qui signifie prochainement ou rapidement. Il exprime l'idée qu'un événement ou une situation va se produire à un moment peu tardif, mais précis. En gros, c'est quand quelque chose va arriver après bientôt.", "f": 2839, "feqFlag": "MEDIUM"}
+, {"w": "bataille", "d": "Bataille : conflit entre deux ou plusieurs forces, souvent militaires, pour résoudre des différends, affirmer l'hégémonie ou défendre des intérêts.", "f": 1060, "feqFlag": "LOW"}
+,{"w": "bichonnera", "d": "Bichonnera est le nom d'une nouvelle danse créée pendant la pandémie, à partir des mouvements du bichon, race de chien légère et agile, pour se détendre et s'amuser.", "f": -1, "feqFlag": "NONE"}
+
+ 
+, {"w": "bronchés", "d": "Les bronches sont des tuyaux qui transportent l'air de la trachée vers les poumons, facilitant ainsi la respiration et permettant d'éliminer les déchets gazeux produits par ces derniers.", "f": -1, "feqFlag": "NONE"}
+, {"w": "barriez", "d": "Barriez est un petit village situé dans les Hautes-Alpes, en France. Il est célèbre pour sa situation pittoresque et ses vues spectaculaires sur les Alpes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "buccaux", "d": "Buccaux sont des organes du système digestif, situés aux deux côtés de la pharynx et sécrétant des enzymes pour aider à la digestion des aliments, en particulier les protéines.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baissera", "d": "Baissera est le verbe qui signifie baisser ou diminuer en français. C'est l'action de faire diminuer quelque chose, comme le niveau d'un liquide, la température ou la pression. En 20 mots : Baissera est le verbe qui indique une réduction ou un abaissement de quelque chose.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bâtâmes", "d": "Bâtâmes désigne les parties construites d'un bâtiment, tels que les murs, le plafond et les poutres. Elles sont fabriquées à partir de matériaux comme le bois, l'acier ou le béton et forment les éléments structuraux essentiels du bâtiment.", "f": -1, "feqFlag": "NONE"}
+, {"w": "braillerait", "d": "Le Braille est un système d'écriture tactile utilisé par les personnes malvoyantes ou aveugles pour lire et écrire. Il consiste en des combinaisons de points et de traits sur une grille, chacun représentant un caractère ou un mot. Ce système a été inventé par Louis Braille en 1824, d'où son nom, et permet aux personnes atteintes de cécité de communiquer et d'accéder à l'information de manière indépendante.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "briserons", "d": "Briserons est une méthode financière utilisée pour repayer un emprunt ou une dette en échelle progressive. Elle consiste à réduire régulièrement les mensualités tout en augmentant l'intérêt payé au fil du temps, afin de libérer la dette initiale avant la fin de la période d'amortissement. En gros, cela signifie payer moins mais plus cher sur le long terme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blafarde", "d": "Blafard, en 20 mots : Personnage à peau pâle et cheveux roux ou blanc, souvent associé à des histoires fantastiques ou mythologiques, symbolisant la mort et le changement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boulonnerai", "d": "Boulonnerai est un verbe qui signifie je vais boulonner en français. Boulonner consiste à fixer deux ou plusieurs pièces ensemble grâce à des vis et des écrous, créant ainsi une union solide et sûre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bummez", "d": "Bummez sont des gadgets, souvent de petite taille et bon marché, qui permettent d'effectuer diverses tâches ou divertir les utilisateurs. Ils sont très populaires sur Internet et apportent un air de nouveauté aux produits quotidiens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "burlingues", "d": "Burlingue est une expression vernaculaire française qui désigne un type de langage ou d'argot particulier utilisé par des personnes âgées de plus de soixante ans, caractérisée par une prononciation et une grammaire différentes de celles de la langue officielle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "busquent", "d": "Le busquent est un dispositif de surveillance aérienne utilisé pour détecter et suivre des engins volants non identifiés (UFO). Il permet d'analyser les données recueillies par différents capteurs et systèmes de détection. Utilisé principalement par les militaires, il sert à veiller à la sécurité nationale et à l'intégrité des espaces aériens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "billetai", "d": "Billetin est une plateforme qui permet aux utilisateurs de partager et d'échanger des billets à forfait ou de transport en commun, facilitant ainsi leur déplacement dans la ville sans utiliser leur propre voiture.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baloterbalot", "d": "Baloterbalot est un jeu où des personnages, représentant des équipes sportives ou politiques, se déplacent sur une carte pour gagner des points en effectuant diverses actions et en réunissant des supporters.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bds", "d": "BDS, ou Boycott, Divestment et Sanctions, est un mouvement international pour soutenir les droits des Palestiniens. Il appelle à des sanctions non violentes contre Israël jusqu'à ce que ses droits soient respectés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bancomat", "d": "Un bancomat est un distributeur de billets et de monnaie, permettant aux clients d'un établissement bancaire de retirer ou de déposer argent via leur carte bancaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blinderais", "d": "Blindéraïs est une marque de fromage québécois rond et moelleux, fait à partir du lait de vache. Son texture lisse et fondant, ainsi que son saveur légèrement piquante, en font un produit populaire pour divers usages culinaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baliverais", "d": "Baliverais est une étape intermédiaire dans le jeu d'échecs, caractérisée par un manque d'idées et d'énergie, affectant souvent les joueurs amateurs ou débutants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baliserais", "d": "Baliserais (ou Balisage) est le processus d'ajout de métadonnées à un document numérique, permettant de le structurer et de l'identifier de manière précise, facilitant ainsi la recherche, l'analyse et la conversion vers d'autres formats.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baliviez", "d": "La baliviez est une maladie infectieuse provoquée par un parasite, le Balamuthia mandrillaris, qui affecte principalement les mammifères. Les symptômes incluent des lésions cutanées et cérébrales, pouvant entraîner diverses complications et une progression fatale si la maladie n'est pas traitée en temps voulu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "burlât", "d": "Un burlat est un vêtement, généralement une cape, porté pour protéger contre les pluies, neige et vent. Il s'étend sur les épaules et descend jusqu'aux chevilles, offrant une bonne protection aux membres inférieurs et au bas du corps.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "bourserai", "d": "Le bourre-ail est un aliment, composé d'ail et de beurre, utilisé pour accompagner divers plats culinaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bessemérise", "d": "La bessemérise est une maladie d'origine virale qui provoque des convulsions, des crampes et des troubles gastro-intestinaux chez les enfants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bernardines", "d": "Les bernardins sont un type de pâtes fraîches, généralement servies avec des sauces crémeuses ou légères.", "f": -1, "feqFlag": "NONE"}
+, {"w": "becquetées", "d": "Une bequête est une collecte d'argent pour un but spécifique, souvent réalisée par donation ou recueil de fonds.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baptiseriez", "d": "Le baptême est un rituel religieux où une personne reçoit l'eau et le Saint-Esprit, symbolisant sa conversion spirituelle.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "brasée", "d": "Brasé est un type de cuisson où une viande est cuite directement au contact du feu ou d'une plaque chaude.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "boeufs", "d": "Les boeufs sont des animaux domestiques, généralement des vaches ou des bœufs mâles, utilisés pour leur viande et leurs produits.", "f": -1, "feqFlag": "NONE"}
+, {"w": "butylique", "d": "La butyrique est un groupe fonctionnel composé d'un atome de carbone lié à trois groupes hydroxyl (-OH).", "f": -1, "feqFlag": "NONE"}
+, {"w": "brayai", "d": "Je ne connais pas le mot \"brayai\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouviers", "d": "Les buvriers sont des travailleurs agricoles spécialisés dans l'exploitation du sol et le culte des plantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boiteux", "d": "Une boîteuse est une personne qui a un membre (main ou jambe) déformé, souvent due à une maladie génétique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bizarroïdes", "d": "Les Bizarroïdes sont des plantes rares et exotiques, souvent utilisées dans les jardins botaniques pour leur beauté unique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bondissement", "d": "Le \"bondissement\" désigne un mouvement brusque et violent d'un objet ou une personne, souvent accompagné d'une force considérable.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bavardochai", "d": "Bavarderchai est un jeu de société où les joueurs échangent des cartes et essaient d'obtenir le plus grand score possible.", "f": -1, "feqFlag": "NONE"}
+, {"w": "barbaroufferont", "d": "Je ne trouve pas d'information sur le mot \"barbarouff\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "bimoléculaire", "d": "Un bimoléculaire est une molécule composée de deux unités distinctes, souvent avec des propriétés physiques et chimiques différentes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biellettes", "d": "Les biellettes sont des insectes qui se nourrissent du pollen et de l'humus, souvent trouvés dans les forêts tempérées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bénéficierait", "d": "Bénéficiaire : Personne qui reçoit un avantage ou une récompense, souvent dans le cadre d'un contrat ou d'une relation professionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blondies", "d": "Les blondies sont des gâteaux secs et fondants à base de farine, sucre et œufs, souvent avec noix ou fruits.", "f": -1, "feqFlag": "NONE"}
+, {"w": "breakerions", "d": "Une bricolage est une activité créative consistant à réparer ou modifier un objet avec des matériaux variés et souvent improvisés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bousillâtes", "d": "Les bousillâtes sont des petits biscuits secs et amers, souvent utilisés comme garniture ou ingrédient dans les desserts.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brayasse", "d": "Une brayasse est une machine à vapeur utilisée pour écraser et moudre les céréales, principalement le riz ou l'avoine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "barberai", "d": "Le barbarea est un type d'arbre à feuilles périssables, originaire du Nord-Est des États-Unis et du Canada.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blablaterais", "d": "Je ne connais pas le mot \"blablaterais\". Puis-je vous aider avec une définition similaire pour un autre terme ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "barbaresques", "d": "Les Barbaresques étaient un peuple marin et pirate nord-africain du Moyen Âge, connu pour leurs raids maritimes violentes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brisasses", "d": "Les brisasses sont des outils à poignée utilisés pour écraser ou broyer les légumes, fruits et autres aliments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bôme", "d": "Le terme \"bôme\" n'est pas courant, mais je suppose que vous voulez parler de \"bois\". Voici une définition :\n\nBois : matériau naturel issu des arbres, utilisé pour la construction et diverses applications industrielles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "buguions", "d": "Buguel est un nom commun qui désigne une petite bête, souvent une fourmis ou une guêpe, qui infestent les maisons et les champs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brayaient", "d": "Une brayante est un animal domestique, généralement une vache ou un cheval, qui produit du lait pour l'alimentation humaine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouches", "d": "\"Bouche\" désigne l'orifice par lequel on ingère des aliments, des liquides ou d'autres substances pour les déglacer et les avaler.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouleau", "d": "Un bouleau est un type d'arbre à feuilles persistantes, souvent utilisé pour son bois et ses fruits comestibles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bayésiens", "d": "Le Bayésisme est une théorie statistique qui met l'accent sur les incertitudes et les probabilités dans le raisonnement humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "banqua", "d": "Le terme \"banque\" désigne une institution financière qui gère les dépôts et prêts d'argent entre particuliers ou entreprises.", "f": -1, "feqFlag": "NONE"}
+, {"w": "billasse", "d": "Une personne qui se moque ou parodie les autres, souvent pour être drôle ou pour s'assurer son statut social.", "f": -1, "feqFlag": "NONE"}
+, {"w": "batailles", "d": "Une bataille est un conflit armé entre deux ou plusieurs groupes, souvent avec des objectifs stratégiques et tactiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boules de neige", "d": "\"Boules de neige\" désigne des masses de neige compacte et ronde, souvent formées par le vent ou les conditions météorologiques.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "barbé", "d": "Un barbe est une touffe de cheveux sur le visage, souvent gardée longue et bien taillée par un homme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "berdaches", "d": "Je m'excuse, mais je ne peux pas fournir une définition sur le terme \"berdache\" car il est souvent utilisé de manière stigmatisante et négative.\n\nCependant, je peux vous proposer une définition plus neutre :\n\nUn berdache est un homme qui porte des vêtements traditionnellement associés aux femmes ou adopte certains comportements féminins.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bryacé", "d": "Je ne connais pas le mot \"bryacé\". Puis-je vous aider avec une autre question ou trouver un synonyme ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "banquetteras", "d": "Banquetteras désigne un type d'arbre fruitier à feuilles persistantes, originaire des régions tropicales et subtropicales du monde entier.", "f": -1, "feqFlag": "NONE"}
+, {"w": "béements", "d": "Bien sûr ! Voici une définition simple :\n\n\"Les bienfaits ou les avantages d'une chose, comme un résultat positif ou une qualité positive.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "bienvinssent", "d": "Bienvenue est un mot qui signifie accueil et hospitalité, c'est à l'origine le premier mot du langage humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "balancelle", "d": "Une balancelle est un outil utilisé pour peser ou équilibrer des objets avec précision, souvent employé dans les laboratoires scientifiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biophile", "d": "Un biologue est une personne qui aime et étudie les organismes vivants, leur environnement et leurs relations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bâcherez", "d": "Bâcherz est un type de mouton, originaire du sud-est des États-Unis et du Sud-Est de l'Amérique latine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bêtifiasse", "d": "Une personne qui est considérée comme étant peu intelligente ou incapable, souvent à cause d'une ignorance ou d'un manque d'expérience.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boitèrent", "d": "Boitèrent : personne qui refuse d'ingérer ou de consommer un aliment, souvent pour des raisons religieuses ou personnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biscayenne", "d": "Biscayne est un terme qui désigne une zone côtière ou une baie située dans le sud de l'État du Florida, aux États-Unis.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bronzerait", "d": "Le bronzage est un processus cosmétique qui donne une couleur dorée à la peau, généralement pour des effets théâtraux ou photo.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouffer les pissenlits par la racine", "d": "\"Bouffer les pissenlits\" signifie manger des plantes indigestibles, comme les pissenlit, pour se protéger contre une maladie ou un poison.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bénirais", "d": "Bénirais est un terme qui désigne une personne qui a été victime d'un crime ou d'une agression, mais n'a pas déclaré son malheur à l'autorité compétente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "broussailleuses", "d": "Les broussailles sont des plantes à feuilles persistantes, souvent grises ou vertes, pouvant être herbacées ou arbustives.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bilinéariserait", "d": "Bilinéarisation : processus qui transforme une fonction non linéaire en une fonction linéaire, souvent utilisée dans les réseaux neuronaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "burqas", "d": "Un burqa est un vêtement féminin traditionnel du sud-ouest de l'Afghanistan, couvrant le corps et le visage.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brimbalais", "d": "Le brimbalais est un dialecte régional du français, parlé dans certaines régions d'Europe et d'Afrique francophone.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baragouinasse", "d": "Je ne trouve pas d'information sur le mot \"baragouinasse\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "barbaroufferiez", "d": "La barbare ou barbouf est un terme désignant une personne qui parle avec un langage grossier et sans éducation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "botoxent", "d": "Botox est un médicament utilisé pour réduire les rides et les expressions faciales, grâce à son effet relaxant musculaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brimera", "d": "Brimera : terme utilisé dans l'astronomie pour désigner une étoile ou un objet céleste brillant et lumineux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "banque d’ investissement", "d": "Une banque d'investissement est une institution financière spécialisée dans l'édition et le placement des titres, actions et obligations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brune", "d": "La couleur brune est une teinte sombre et chaude, issue du mélange des couleurs rouges et noires naturelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "banc de touche", "d": "Un banc de touché est un accord entre deux parties, où l'une paie une somme pour éviter une procédure judiciaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biffais", "d": "Le biffais est un type d'arme à feu utilisée par les soldats et policiers pour le contrôle des foules ou l'intimidation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boîte de vitesse", "d": "Une boîte de vitesse est un système mécanique permettant d'ajuster les rapports des vitesses dans une voiture ou un véhicule.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bioaccumulera", "d": "La bioaccumulation est le processus par lequel les substances chimiques s'accumulent dans l'organisme d'un être vivant à long terme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bandage", "d": "Un bandage est un morceau de tissu ou d'adhésif utilisé pour couvrir et protéger une blessure ou une partie du corps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bénédicités", "d": "Les bénédictions sont des prières ou formules d'expression de gratitude et de reconnaissance pour un bienfait ou une personne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boursoufflerions", "d": "Les boursoufflons sont des personnes qui respirent profondément et bruyamment, souvent lorsqu'elles sont étonnées ou stressées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "buerons", "d": "Les Buerons sont une tribu indigène du Burkina Faso, connue pour leur culture riche et leurs traditions traditionnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blésèrent", "d": "Blésent est un type de champignon qui cause des maladies chez les plantes, notamment le blé et d'autres céréales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouillavés", "d": "Bouillabaisse est un plat traditionnel provençal, composé d'une soupe riche et savoureuse avec poisson varié et légumes frais.", "f": -1, "feqFlag": "NONE"}
+, {"w": "burlèrent", "d": "Burlent : se moquer ou faire des plaisanteries amères, souvent à l'égard d'une personne ou d'un événement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blue-jeans", "d": "Les \"blue-jeans\" sont des pantalons en denim bleu, traditionnellement portés pour une apparence informelle et confortable.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blésités", "d": "Une blesse ou une blessure est un dommage corporel causé à une personne, entraînant douleur et incapacité temporaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bergsonien", "d": "Le Bergsonisme est une philosophie qui met l'accent sur le temps subjectif et l'imagination, contre les notions linéaires du temps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bonneterie", "d": "La bonnefaisance est l'acte d'aider ou de faire du bien à autrui sans attendre quelque chose en retour.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bradant", "d": "Le bradant est un type d'arbre à feuilles persistantes, souvent utilisé comme arbre ornemental ou pour l'aménagement paysager.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouillotterai", "d": "Je ne connais pas le mot \"bouillotterai\". Puis-je vous aider avec une autre question ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "bichonnée", "d": "Une bichonnée est un chien à poil court et doux, originaire du Canada, connu pour son tempérament calme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "braques", "d": "\"Braques\" désigne un type d'artiste et d'écrivain, notamment Henri Matisse et André Breton, connus pour leur influence sur le modernisme artistique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "braillards", "d": "Les braillards sont des animaux sauvages qui se nourrissent d'herbes, fruits et insectes dans les forêts tempérées ou subtropicales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brassars", "d": "Brassar signifie s'adonner à un comportement détestable ou ridicule, souvent pour se moquer des autres ou paraître drôle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bourbakisme", "d": "Le Bourbaki est un concept mathématique créant une théorie des groupes et des algèbres abstraites, fondée par Émile Léonard Schérer.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boucherait", "d": "Boucherait : forme verbale du verbe \"boucher\", signifiant couper ou étouffer quelque chose, souvent utilisé pour désigner une action violente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouélât", "d": "Le bouelâat est un plat traditionnel marocain à base d'haricots, de légumes et de viande ou de poisson cuit dans une sauce épaisse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ballât", "d": "Le ballat est un poème narratif qui raconte une histoire ou une légende, souvent avec des éléments mythiques et symboliques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biberonnons", "d": "Bibermont est un village du Nord-Pas-de-Calais, connu pour son patrimoine historique et culturel riche.", "f": -1, "feqFlag": "NONE"}
+, {"w": "balayant", "d": "Le balayant est un mouvement d'écoute où l'on écoutaient attentivement les sons environnants pour mieux comprendre le discours.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bégayeriez", "d": "Bégaiyeriez : parler avec un accent ou une prononciation inhabituelle, souvent due à l'habitude d'échanger des phrases courtes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "briquetiers", "d": "Les briquetiers sont des personnes qui fabriquent et vendent les briquets, souvent dans un contexte artisanal ou commercial.", "f": -1, "feqFlag": "NONE"}
+, {"w": "banquetterez", "d": "Banqueteresse : femme qui fréquente les casinos et joue aux jeux d'hasard pour se divertir ou gagner de l'argent.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ballonnistiques", "d": "Les ballonnistes sont des personnes qui pratiquent le sport du basket-ball, notamment les joueurs et entraîneurs professionnels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bivouaques", "d": "Un bivouac est un abri temporaire, généralement improvisé, utilisé pour passer une nuit dans les conditions extrêmes naturelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blacklistassiez", "d": "Une liste noire est une liste d'individus ou d'entités interdites, souvent utilisée pour bloquer les communications ou les accès.", "f": -1, "feqFlag": "NONE"}
+, {"w": "binons", "d": "Les bons sont des produits alimentaires de qualité supérieure, souvent sélectionnés pour leur saveur et leurs propriétés nutritionnelles exceptionnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bâtonnées", "d": "Les bâtonnées sont des signes d'interrogation utilisés pour exprimer curiosité ou incertitude dans une conversation orale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brachyœsophage", "d": "Le brachio-œsophagisme est une maladie où le tube alimentaire (œsophage) se déchire à cause d'un spasme du muscle laryngé (brachio).", "f": -1, "feqFlag": "NONE"}
+, {"w": "bissas", "d": "Une \"bissass\" est un terme argotique désignant une personne qui se moque ou ridiculise quelqu'un sans intention malveillante, souvent entre amis.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bipolaires", "d": "Les personnes atteintes du trouble bipolar présentent des périodes d'hypomanie et/ou de dépression avec cycles récurrents de changement d'état.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bavaient", "d": "Bavardage : conversation prolongée et souvent sans but précis, caractérisée par des échanges vagues ou superficiels sur divers sujets.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bronches", "d": "Les bronches sont des tubes d'air dans les poumons qui reçoivent l'oxygène et éliminent le dioxyde de carbone.", "f": -1, "feqFlag": "NONE"}
+, {"w": "balanciers", "d": "Un balancier est un outil utilisé pour peser ou équilibrer des objets, généralement composé d'un panneau et d'une perche.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bidet", "d": "Un bidet est un appareil hygienique utilisé pour nettoyer les parties intimes, généralement installé dans une salle de bain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boutez", "d": "Bouchez : action de fermer les lèvres pour empêcher le passage d'air ou des substances à l'intérieur du corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "buguerait", "d": "Buguerait : terme médical désignant une maladie chronique caractérisée par des démangeaisons et des picotements cutanés répétitifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bras de levier", "d": "Un bras de levier est un outil utilisé pour augmenter le poids qu'on peut lever avec une force réduite, grâce à l'angle d'inclinaison.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bétonnassiez", "d": "Bétonnassiez est un terme médical désignant une affection cutanée causée par les bactéries Staphylococcus aureus et Streptococcus pyogenes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boutâmes", "d": "Les boutâmes sont des plantes herbacées à feuilles piquantes, souvent utilisée comme condiment dans les plats méditerranéens et asiatiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "beignet", "d": "Un beignet est un petit pains frit et sucré, généralement recouvert d'une poudre sucrée ou glaçage.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bonifieras", "d": "Une bonne façon d'expliquer : \"Bonifieras\" signifie améliorer ou rendre meilleur quelque chose, comme un produit ou une situation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bougnats", "d": "Les bougnats sont des petits raccourcis ou déviations dans un chemin, souvent créés par les humains au fil du temps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouleversés", "d": "\"Bouleversé\" signifie profondément choqué, ému ou perturbé par une situation, événement ou personne qui a un impact considérable sur soi-même.", "f": -1, "feqFlag": "NONE"}
+, {"w": "braiseras", "d": "Une braise est une petite quantité de feu allumée pour réchauffer ou cuisiner des aliments à basse température.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bourlinguâtes", "d": "Les bourlinguâtes sont des mots ou expressions qui se répètent et perdent leur sens, souvent utilisés pour exprimer l'irritation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boumerangs", "d": "Un boumerang est un objet lourd et plat, lancé avec précision pour revenir au lanceur après avoir été tiré par le vent.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baquetâtes", "d": "Les baquetâtes sont des petits biscuits sucrés et croustillants, généralement faits à partir d'amandes ou de noix.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouchonnent", "d": "Un bouchonnent est un outil utilisé pour éliminer les bulles dans le liquide, comme l'eau ou une sauce.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bégaiera", "d": "Une bégaière est une personne qui parle sans réfléchir, souvent avec des erreurs grammaticales et un vocabulaire limité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bredouilleront", "d": "Bredouiller : faire des ronds sur un terrain, généralement pour se débarrasser d'un objet ou pour s'amuser.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baht", "d": "Le baht est une monnaie officielle du royaume du Thaïlande, utilisée pour les transactions quotidiennes et commerciales locales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bitubes", "d": "Les bitubes sont des tubes minéraux composés principalement d'hydrogène et de carbone, similaires aux tubules de graphite.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bookerez", "d": "Un \"booker\" est un terme anglais qui désigne une personne qui organise des événements, notamment les concerts et festivals musicaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bicarbures", "d": "Les bicarbonates sont des composés chimiques contenant du carbone et du dioxyde de carbone hydraté avec l'acide carbonique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brusqueriez", "d": "La brusquerie est un terme utilisé pour décrire une conduite impatiente ou agressive, souvent caractérisée par des réactions hâtives.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouchonneraient", "d": "Bouchonnage : technique utilisée pour éliminer les liquides superfléus d'un fluide, comme un mélange ou une solution.", "f": -1, "feqFlag": "NONE"}
+, {"w": "blottîtes", "d": "Les blottites sont des plantes carnivores qui captent les insectes et autres petits animaux pour se nourrir.", "f": -1, "feqFlag": "NONE"}
+, {"w": "balle de break", "d": "Une \"balle de break\" est un coup dans le jeu de billard qui consiste à frapper une bille avec deux autres pour l'empêcher d'avancer.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bérimbau", "d": "Béribimba est un terme qui désigne une forme d'expression verbale et non verbeuse, caractérisée par des gestes et des mimiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bioastronomies", "d": "La bi Astronomie est l'étude des relations entre les organismes vivants et le cosmos, notamment dans l'atmosphère terrestre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brome", "d": "Le bromme est un élément chimique avec le symbole Br, présent dans les aliments et utilisé comme antiseptique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouderez", "d": "Bouderez est un type de fromage fort et piquant fabriqué à partir du lait de vache ou de chèvre, souvent râpé sur les plats.", "f": -1, "feqFlag": "NONE"}
+, {"w": "baisser d’ un ton", "d": "Baisser d'un ton signifie réduire le niveau ou l'intensité d'une expression, souvent pour éviter une controverse ou une offense.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brouillon", "d": "Un brouillon est un document ou une idée non finalisée, souvent utilisé pour prendre des notes ou faire des recherches.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ballé", "d": "Le ballet est une forme d'art chorégraphique qui combine mouvement, musique et danse pour créer des œuvres artistiques émotionnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bricolasses", "d": "Une personne qui effectue des réparations et des aménagements à domicile ou professionnellement avec des outils variés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bâfreuse", "d": "Une bâfreuse est un outil utilisé pour nettoyer les surfaces, notamment les sols et les planchers, avec une poussière ou des débris.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bûchâmes", "d": "Bûchâmes : ensemble d'arbres coupés et liés pour être transportés ou stockés, souvent utilisé comme combustible bois.", "f": -1, "feqFlag": "NONE"}
+, {"w": "butinant", "d": "Je ne connais pas le mot \"butinant\". Puis-je vous aider avec une autre question ou trouver un synonyme ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "basculeuses", "d": "Une basculeuse est un outil utilisé pour peser des objets avec précision, souvent employée dans les laboratoires scientifiques et industriels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bronchaient", "d": "La bronchite est une inflammation des voies respiratoires, causée par l'infection bactérienne ou virale du poumon.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brûla", "d": "Brûler signifie faire fondre ou détruire quelque chose par le feu, souvent avec intention malveillante ou accidentellement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "barlotière", "d": "Une barlotière est une personne qui sert à boire, généralement dans un cadre professionnel ou social.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouillons blancs", "d": "Les bouillons blancs sont des masses blanches qui se forment dans le sang lors d'une infection bactérienne ou virale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "barytique", "d": "La barytonie est un registre vocal situé entre le basse et le tenor, caractérisé par une profondeur riche et mélodique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "boumera", "d": "La bourse est un marché financier où les actions, obligations et autres actifs sont achetés et vendus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bétoires", "d": "Les Béthores sont des guerriers celtiques du IIIe siècle av. J.-C., connus pour leur courage et leurs exploits militaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bêtifias", "d": "Bêtise : comportement ridicule ou inutile, souvent caractérisé par une pensée ou un acte malavisés et sans sens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "beugnerez", "d": "Beugnerez est un terme utilisé pour décrire une personne qui se moque ou ridiculise les autres, souvent avec ironie ou sarcasme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bords", "d": "Les bords désignent les limites ou les contours d'un objet, d'une surface ou d'un espace géographique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brandies", "d": "Une brandie est un type d'alcool fort, généralement à base de fruits ou de noix, avec une teneur alcooleuse élevée (40-60%).", "f": -1, "feqFlag": "NONE"}
+, {"w": "bénévolats", "d": "Un bénévole est une personne qui effectue des activités sans salaire pour le bien commun ou un organisme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bisquerez", "d": "Le bise est un geste d'invitation à deux personnes, consistant à incliner la tête et les bras vers l'autre personne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brodequin", "d": "Un brodequin est un type d'armure légère et flexible, souvent utilisée pour protéger les jambes ou le torse dans des combats à pied.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bloggueraient", "d": "Un blog est un site web personnel où l'auteur partage ses pensées, expériences et opinions sur des sujets variés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "benzoyle", "d": "Le benzoyle est un composé chimique formé par une liaison entre le groupe benzyl et l'acide acétique ou du chlorure d'acétique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bigarrent", "d": "Le bigarrage est un phénomène géologique où les couches rocheuses sont altérées et mélangées à des couleurs différentes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bleuâtres", "d": "Bleuâtre : couleur qui ressemble à du bleu foncé, mais avec une tinte plus verte ou brune et moins intense.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bienveillantes", "d": "Bienveillants : personnes qui ont un comportement gentil et sympathique envers les autres, sans condition ni réserve particulière.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bavardochée", "d": "Une bavardochée est une conversation inutile ou superficielle, souvent caractérisée par des discussions sans objectif ni profondeur significative.", "f": -1, "feqFlag": "NONE"}
+, {"w": "buccopharyngées", "d": "Buccopharyngée est un terme médical désignant l'artère qui alimente le cerveau et les structures du cou, notamment la langue et la gorge.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bavochaient", "d": "Je ne connais pas le mot \"bavochaient\". Puis-je vous aider avec un autre terme ou une question ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "bituminisation", "d": "La bituminisation est le processus par lequel les roches contenant du charbon sont transformées en pétrole et gaz naturel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bégayèrent", "d": "Bégayèrent est un verbe qui signifie parler avec difficulté, souvent à cause d'une lésion cérébrale ou neurologique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bipai", "d": "Le BIPAI est un document administratif qui résume les informations d'un projet ou d'une entreprise française.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brimassiez", "d": "Brimassiez est un terme médical désignant une augmentation du volume des cavités thoraciques, souvent liée à l'asthme ou aux maladies pulmonaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biberonnasse", "d": "La biberonnasse est une maladie chronique caractérisée par des douleurs abdominales et des troubles digestifs répétitifs chez les enfants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brunelles à feuilles hastées", "d": "Brunelles à feuilles hastées est une maladie des arbres causée par un champignon, entraînant des dommages aux feuilles et au tronc.", "f": -1, "feqFlag": "NONE"}
+, {"w": "béquillardes", "d": "Les béquillards sont des personnes qui se moquent ou ridiculisent les autres, souvent pour être amusantes ou populaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bien pensantes", "d": "Les personnes bien-pensantes sont celles qui réfléchissent et agissent avec empathie, tolérance et respect pour les autres perspectives.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bucheront", "d": "\"Boucher\" signifie éliminer ou supprimer quelque chose, souvent avec violence ou brutalité, comme dans \"boucher un animal\".", "f": -1, "feqFlag": "NONE"}
+, {"w": "bactérielles", "d": "Une infection causée par des micro-organismes appelés bactéries, qui se multiplient et s'installent dans le corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "biquotidiens", "d": "Les biquotidiens sont des plantes qui fleurissent et se reproduisent tous les deux jours, avec une période de dormance entre chaque cycle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouquinèrent", "d": "Le bouquinèrent est un type d'arbre à feuilles persistantes, originaire du Sud-Est des États-Unis et du Mexique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouillonneriez", "d": "Bouillonnage : phénomène où une substance (eau, liquide) se met à bouillir rapidement et bruyamment sans être chauffé.", "f": -1, "feqFlag": "NONE"}
+, {"w": "brusquât", "d": "Le brusquât est une maladie des plantes causée par un champignon, entraînant des taches noires et des cicatrices.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bus scolaire", "d": "Un bus scolaire est un véhicule public transportant les élèves à l'école, souvent gratuit ou à faible coût.", "f": -1, "feqFlag": "NONE"}
+, {"w": "bouffés", "d": "Les bouffés sont des pâtisseries sucrées à base d'œufs, de farine et de sucre, souvent garnies de fruits ou de noix.", "f": -1, "feqFlag": "NONE"}
+]

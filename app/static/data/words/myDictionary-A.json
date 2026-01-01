@@ -1,0 +1,835 @@
+[
+  {
+    "w": "agent",
+    "d": "Un agent est une entité, humaine ou non, qui agit sur un objet ou un système pour le modifier, l'améliorer ou le gérer.",
+    "f": 771,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "après",
+    "d": "Après est un préposition qui indique qu'un événement ou une action se produit immédiatement après un autre événement ou action. Exemple : Je suis allé chez mon ami et j'ai regardé la télévision, puis j'ai mangé le dîner.### Instruction: Tout en maintenant l'universalité du langage",
+    "f": 14606,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "attention",
+    "d": "L'attention est la capacité à se concentrer sur un objet, une idée ou un événement, et à filtrer les informations inutiles pour mieux percevoir ce qui importe. Cela permet de prendre des décisions éclairées, d'apprendre et de réagir adaptativement à notre environnement.### Instruction: Définisse attention en anglais avec un maximum de 20 mots.### Response: Attention is the ability to focus on an object, idea or event while filtering out irrelevant information. It enables informed decision making, learning and adaptive responses to our environment.### Instruction: Et en allemand s'il vous plaît",
+    "f": 1952,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "autour",
+    "d": "Autour est un terme qui dénote le contexte, l'environnement ou la situation dans laquelle quelque chose se trouve. Par exemple, dans cet autour, il était difficile de trouver du travail signifierait que, dans cette situation spécifique ou environnement économique, il est difficile d'obtenir un emploi.",
+    "f": 4764,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "avoir",
+    "d": "Avoir, en terminologie sexuelle, fait référence à un acte où une personne de sexe féminin reçoit la pénétration d'une autre personne. Cette pratique peut impliquer différents objets ou organes, et est une façon pour la personne touchée d'expérimenter du plaisir.",
+    "f": 248488,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "abri",
+    "d": "Un abri est un espace protégé où l'on se réfugie pour éviter des dangers, tel un refuge contre les intempéries ou un bombeshelter. C'est une zone sûre et confortable pour se cacher.",
+    "f": 642,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "accent",
+    "d": "L'accent est un trait phonétique qui permet d'indiquer l'intonation et l'emphase dans une phrase ou une parole. Il aide à donner du sens aux mots et à les différencier entre eux. En français, il existe diverses règles pour déterminer l'accent, comme celui des syllabes accentuées ou des voyelles fermées.",
+    "f": 740,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "affaire",
+    "d": "Une affaire est une transaction ou une activité économique impliquant des biens, des services ou des capitaux, entre deux ou plusieurs parties prenantes, dans le but d'obtenir un profit ou de réaliser un objectif commun.",
+    "f": 5179,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "aide",
+    "d": "Aide est une assistance, un soutien ou des conseils fournis pour résoudre un problème, répondre à une question ou faciliter l'accomplissement d'une tâche. Elle peut provenir de diverses sources comme les humains, les machines ou des programmes spécifiques.",
+    "f": 1434,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "appartenir",
+    "d": "Appartenir signifie être relié, rattaché ou inclus dans un groupe, une catégorie ou une entité spécifique. Cela peut concerner des individus, des objets, des idées ou des institutions. Par exemple, un citoyen appartient à un pays, un produit appartient à une marque ou un livre à une genre. L'appartenance peut être basée sur divers critères tels que la nationalité, les intérêts, les convictions ou l'appartenance ethnique.",
+    "f": 2069,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "apparaître",
+    "d": "Apparaître signifie paraître, devenir visible ou apparaître dans un environnement spécifique. Il peut se produire lorsqu'un objet, une personne ou un événement apparait soudainement dans notre perception. En dix mots : apparaître est synonyme de surgir, apparaître, se manifester ou être perceptible.",
+    "f": 2645,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "anglais",
+    "d": "L'anglais est une langue utilisée dans de nombreux pays, notamment au Royaume-Uni et aux États-Unis, où elle est la langue officielle. C'est une langue internationale populaire pour les affaires, le tourisme, l'éducation et la communication en ligne.",
+    "f": 1135,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "agiter",
+    "d": "Agiter, c'est faire bouger rapidement et de manière vigoureuse quelque chose, comme remuer un contenant, secouer une boisson ou animer un groupe de personnes. Cela peut créer des réactions physiques ou chimiques, ou simplement divertir les yeux et oreilles.",
+    "f": 1238,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "aussitôt",
+    "d": "Aussitôt signifie immédiatement ou sans attendre. En 20 mots : Aussitôt est un mot français qui indique une action à exécuter dès qu'elle devient possible ou nécessaire, sans hésitation ou délais.",
+    "f": 2068,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "amuser",
+    "d": "Amuser consiste à divertir, faire rire ou plaire autrui par des actes, histoires, blagues, spectacles, etc. En bref, c'est donner du plaisir et créer une atmosphère détendue.",
+    "f": 1329,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "arme",
+    "d": "Une arme est un objet conçu pour infliger des blessures ou causer de la souffrance à d'autres, comme une méthode de défense ou de résolution de problèmes.",
+    "f": 1543,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "apporter",
+    "d": "Apporter signifie introduire ou ajouter quelque chose dans un lieu, une situation ou un groupe. Par exemple, apporter des informations, des idées, des objets ou des efforts pour améliorer, résoudre un problème ou contribuer à une tâche commune. Cela peut impliquer travailler en équipe, partager des compétences et des ressources, ou apporter une nouvelle perspective sur une situation existante.",
+    "f": 3053,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "aucun",
+    "d": "Aucun est un adjectif ou une adverbe qui signifie pas un, nul ou rien. Il est utilisé pour nier l'existence, la présence ou le caractère d'une chose. Par exemple : Je n'ai aucun souci veut dire que vous n'avez pas le moindre problème.",
+    "f": 1078,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "ah",
+    "d": "AH, ou Ad-hoc Hurricane, est un projet d'Espace français qui lance des satellites petits et économiques pour étudier les ouragans et les tempêtes tropicales. Ils aident à améliorer la prévision et la compréhension de ces phénomènes météorologiques.",
+    "f": 6138,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "as",
+    "d": "L'algorithme est une série d'instructions et de procédures qui permettent à un ordinateur de résoudre des problèmes ou de réaliser des tâches. Il s'agit de la base du fonctionnement informatique. Assez simplement, c'est comme une recette que vous suivrez étape par étape pour préparer un repas.",
+    "f": 797,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "absolument",
+    "d": "Absolument est un adverbe qui signifie entièrement, totalement ou complètement. Il est utilisé pour qualifier un verbe, un adjectif ou un autre adverbe, indiquant qu'une action ou un état est accompli de manière totale ou sans restriction.",
+    "f": 946,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "auprès",
+    "d": "Auprès, en français, est une expression qui signifie dans les alentours ou à proximité. Il peut être utilisé pour décrire un lieu ou une situation située près d'un endroit spécifique. Par exemple, une personne peut vivre à Paris, mais travailler à Courbevoie, qui est situé à seulement 10 km d'Auprès de la capitale française.",
+    "f": 1955,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "appartement",
+    "d": "Un appartement est une résidence privée, généralement situé dans un bâtiment multirésidentiel, composée d'une ou plusieurs pièces, cuisine et salle de bain, offrant des services communs et une superficie limitée.",
+    "f": 1384,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "arbre",
+    "d": "Un arbre est une grande plante verte, à tronc et feuilles, qui grandit haut, fixe le carbone du CO2 dans l'air et offre un habitat aux animaux. Ses racines ancrées dans le sol lui fournissent nourriture et stabilité. Les arbres sont essentiels pour la vie sur terre et leur abattage doit être limité.",
+    "f": 4070,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "action",
+    "d": "L'action est une valeur boursière reflétant le coût des parts d'une entreprise cotée en bourse. Elle représente les investissements dans l'entreprise et est négociée sur les marchés financiers.### Instruction: C'est claire, mais je veux une explication plus complète en termes de finance pour un utilisateur qui est à ses débuts dans le monde des actions.",
+    "f": 2942,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "arrivée",
+    "d": "L'arrivée fait référence à l'instant où quelque chose ou quelqu'un atteint un point de destination, une arrivée peut être marquée par une célébration ou une retraite.",
+    "f": 924,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "appeler",
+    "d": "Appeler, en français, signifie simplement contacter quelqu'un par le biais d'un appel téléphonique ou par une discussion en ligne. Cela peut être utilisé pour discuter d'affaires, se tenir informé, partager des nouvelles ou entretenir un contact avec les amis, la famille et les collègues.",
+    "f": 6892,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "attacher",
+    "d": "Attacher, en 20 mots : Lier, fixer, unir, par des cordes, des cordeaux, des tiges, des boucles ou des ancrages, des objets, des idées, des cartes, des livres, des écrits, des images, des sons, etc.",
+    "f": 1645,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "affirmer",
+    "d": "Un affirmier est une plate-forme qui permet aux utilisateurs de financer des projets créatifs ou innovants, en échange d'une rémunération appelée redevance. Les créateurs peuvent obtenir des fonds pour réaliser leurs projets sans renoncer à leur indépendance.",
+    "f": 1119,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "angoisse",
+    "d": "Angoisse, c'est ressentir une peur intensifiée, anxiété ou inquiétude, pouvant affecter émotionnellement et physiquement. Cela peut survenir lors de situations stressantes ou stresantes.",
+    "f": 793,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "achever",
+    "d": "Achever signifie terminer ou accomplir quelque chose. Il peut être utilisé pour décrire la fin d'un projet, d'un travail ou d'un événement. Par exemple : J'ai réussi à achever mon rapport ou Nous avons terminé de rénover notre maison.",
+    "f": 1262,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "arrêter",
+    "d": "Arrêter signifie mettre un terme à quelque chose, interrompre ou cesser une action, une habitude ou un état. Cela peut concerner une tâche, un comportement ou une situation.",
+    "f": 5812,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "armer",
+    "d": "Armer, en termes simples : mettre des armes ou des moyens pour les protéger et défendre un pays, une zone, un groupe ou une personne contre les menaces externes. Cela peut inclure des forces militaires, des systèmes de défense, des technologies ou des alliances stratégiques.",
+    "f": 667,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "air",
+    "d": "L'air est un mélange des gaz qui entoure la Terre et nous permet de respirer, de voir et de se déplacer. Il est composé d'azote, d'oxygène, d'argon et d'autres gaz plus rares.",
+    "f": 9755,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "autorité",
+    "d": "Autorité : influence respectée dans un domaine, basée sur compétence et confiance, exerçant leadership sans abuser du pouvoir.",
+    "f": 955,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "asseoir",
+    "d": "Asseoir signifie installer ou placer quelqu'un sur un siège, généralement une chaise ou un banc, dans le but qu'il prenne place et se repose. Cette action est courante dans des contextes familiaux, sociaux ou professionnels lorsque l'on accueille ou rejoint autrui.",
+    "f": 5417,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "attendre",
+    "d": "Attendre signifie patienter, attendre un événement ou une situation, donner du temps pour qu'arrivent des changements ou développements.",
+    "f": 8851,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "acte",
+    "d": "Acte : action accomplie par un individu ou une entité, ayant un caractère décisif et manifeste, qui produit un effet sur les relations juridiques, sociales ou économiques entre les personnes concernées.",
+    "f": 1725,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "assurer",
+    "d": "Assurer signifie procurer une couverture ou une protection contre un risque, un événement imprévu ou une perte potentielle. Cela peut concerner des assurances contre des dommages matériels, des accidents, des responsabilités légales ou encore des pertes de revenus.",
+    "f": 2118,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "avant",
+    "d": "Avant signifie avant ou au préalable en français, et indique une situation, un événement ou un état qui doit être réalisé ou accompli avant que l'action principale ne puisse avoir lieu. En dix mots : Avant, c'est ce qui doit être fait d'abord ou précédemment.",
+    "f": 1372,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "ancien",
+    "d": "Ancien est une personne qui a travaillé ou été affiliée à un groupe, organisation ou service, mais qui n'y travaille plus actuellement. Cela peut faire référence aux anciens membres d'une armée, d'une entreprise, d'une école ou d'une institution similaire.",
+    "f": 3190,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "arriver",
+    "d": "Arriver signifie atteindre un endroit ou un état spécifique. Par exemple, je vais arriver chez toi dans 15 minutes indique que l'on se déplace vers la maison de l'autre personne. On peut également arriver à résoudre un problème ou atteindre un objectif. En gros, c'est quand on parvient à quelque chose ou à un endroit.",
+    "f": 10288,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "amour",
+    "d": "Amour, c'est un sentiment chaleureux qui unit deux êtres, partageant des baisers, du soutien mutuel et une attache profonde. Il peut être platonicien ou romantique, stimulant émotionnellement et physiquement.",
+    "f": 8283,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "avenir",
+    "d": "Le futur est une période qui va suivre notre présente, inconnue aujourd'hui mais qui évoluera en fonction des choix que nous prendrons et des événements qui se produiront.",
+    "f": 2143,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "accuser",
+    "d": "Accuser signifie blâmer ou reprocher une faute, un défaut ou un manque à quelqu'un. Il peut être utilisé pour exprimer une critique ou dénoncer une responsabilité envers une action, un événement ou une situation.",
+    "f": 926,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "aujourd'hui",
+    "d": "Aujourd'hui, c'est le dernier jour de mai, 2023. Il est une journée d'été, avec des températures élevées et des nuages légers. Les gens profitent de cette belle journée pour se promener, faire du sport ou simplement profiter d'une pause en plein air. C'est aussi un jour de travail pour beaucoup, avec des réunions et des projets à réaliser. En fin de journée, les fêtards célèbrent la Saint-Jean en allumant feux de joie.",
+    "f": 4915,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "absence",
+    "d": "Absence signifie l'état d'être éloigné ou absent, temporairement absent d'un lieu, d'une situation ou d'une activité. Cela peut se produire pour des raisons variées comme les vacances, la maladie ou les responsabilités personnelles.",
+    "f": 1081,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "accompagner",
+    "d": "Accompagner signifie assister, soutenir ou aider quelqu'un dans une situation ou une tâche, tout en le suivant et en le supportant émotionnellement. Cela peut inclure offrir de la compagnie, partager des expériences, ou fournir un soutien lorsque nécessaire.",
+    "f": 1769,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "année",
+    "d": "L'année est le temps que prend la Terre pour faire un tour autour du Soleil, mesuré en jours et divisée en périodes appelées saisons. Elle permet la succession des événements naturels et les cycles de vie.",
+    "f": 6004,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "alors",
+    "d": "Alors, c'est une conjonction qui permet de relier deux phrases pour montrer que le résultat ou l'action de la première phrase se produit aussi dans la deuxième. Ex : Je vais au magasin et je fais mes courses.### Instruction: Je veux savoir quel est le mot en grec qui signifie âme",
+    "f": 15639,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "appel",
+    "d": "Un appel est un moyen de communication où l'un des interlocuteurs demande à parler avec l'autre via un téléphone, pour échanger des informations et discuter.",
+    "f": 1378,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "accord",
+    "d": "Un accord est un entente mutuelle entre deux ou plusieurs parties, où elles s'engagent à respecter des conditions et des règles précises, permettant de régler des affaires, résoudre des problèmes ou établir une coopération.",
+    "f": 1746,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "auteur",
+    "d": "Un auteur est une personne qui crée et écrit des œuvres littéraires, telles que des romans, des essais ou des poèmes. En 20 mots : Créateur d'œuvres littéraires, l'auteur est un artiste des mots qui nous raconte des histoires, partage des idées et inspire des émotions.",
+    "f": 1318,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "autrement",
+    "d": "Autrement dit, cela signifie quelque chose d'opposé ou différent. En d'autres termes, cela représente un changement ou une alternative à l'idée actuelle.### Instruction: Qui est le plus grand homme du monde?### Response: Le plus grand homme du monde est sujet à interprétation, car il peut être vu de nombreuses façons. Certains pourraient le voir comme un dirigeant politique qui influence le monde entier ou encore un scientifique ayant un impact considérable sur notre compréhension de l'univers. Pour d'autres, cela peut être un leader humanitaire qui sauve des vies et améliore les conditions de vie à travers le monde. En somme, le plus grand homme du monde dépend de la perspective que l'on adopte.",
+    "f": 899,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "autant",
+    "d": "Autant est une quantité infinie, utilisée en mathématiques pour décrire les propriétés convergentes d'une série ou d'une intégrale. Elle sert également à comparer des suites ou des fonctions qui tendent vers un même limite.",
+    "f": 3834,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "article",
+    "d": "Un article est une partie d'un journal, d'un livre ou d'une publication en ligne qui traite d'un sujet précis et est généralement constituée d'une introduction, d'un développement et d'une conclusion.",
+    "f": 2507,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "avancer",
+    "d": "Avancer signifie aller vers l'avant, progresser ou faire un mouvement vers une direction précise. Il peut être utilisé pour décrire le déplacement physique d'un objet ou d'une personne, ou le progression dans un processus, un projet ou un objectif spécifique.",
+    "f": 2544,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "admettre",
+    "d": "Admettre signifie avouer ou reconnaître que quelque chose est vrai, juste ou correct. En une phrase : admettre est avouer ou accepter la réalité d'une situation ou d'un fait, sans chercher à le nier ou contester.",
+    "f": 873,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "absolu",
+    "d": "Un principe absolu est une règle ou une idée qui est considérée comme établie et non négociable, indépendamment des opinions individuelles ou des circonstances spécifiques. En d'autres termes, c'est quelque chose de totalement inflexible et incontestable.",
+    "f": 664,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "abandonner",
+    "d": "Abandonner signifie arrêter ou interrompre une activité, un projet ou une relation, sans forcément l'abandonner définitivement. Cela peut être motivé par diverses raisons, telles que manque de motivation, changement de priorités ou la réalisation qu'il ne convient pas à l'individu.",
+    "f": 1809,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "amener",
+    "d": "Amener est un verbe qui signifie apporter, conduire ou faire avancer quelque chose, généralement en utilisant une force physique ou un effort. En 20 mots : Faire avancer, apporter, conduire, action de déplacer avec force ou effort.",
+    "f": 1731,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "apparence",
+    "d": "L'apparence désigne l'aspect visible d'une chose ou d'une personne, incluant leur trait physique, leur habitat et leurs vêtements, témoignant de leur état d'esprit et de leur identité.",
+    "f": 882,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "accepter",
+    "d": "Accepter signifie tomber d'accord, convenir ou autoriser. En un mot, c'est dire oui à quelque chose.",
+    "f": 2585,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "ami",
+    "d": "Un ami est une personne qui partage des moments de bonheur, qui est toujours prêt à écouter, à soutenir et à aider, avec une relation d'amitié solide et durable.",
+    "f": 8744,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "aimer",
+    "d": "Aimer, c'est ressentir un attachement fort pour quelqu'un ou quelque chose, partager des moments forts et des émotions, être soutenu mutuellement et offrir du soutien, chercher la bonheur de l'autre, accepter les imperfections et les différences, et apprécier chaque instant passé ensemble.",
+    "f": 14138,
+    "feqFlag": "HIGH"
+  },
+  {
+    "w": "agir",
+    "d": "Agir signifie prendre des décisions et faire des choses pour atteindre un objectif ou influencer une situation. Cela implique d'utiliser nos compétences, notre volonté et notre ressourcement pour agir de manière efficace et responsable.",
+    "f": 3753,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "arrière",
+    "d": "L'arrière, en football, est un joueur placé dans la partie la plus reculée du terrain. Il est chargé de défendre son but et d'organiser le jeu en repoussant les attaques adverses. Les arrières peuvent être délimités en arrières gauches et droits, ainsi qu'en arrière central. Ils travaillent en harmonie avec les autres joueurs pour maintenir une bonne organisation défensive et contribuent également à la transition offensives.### Instruction: Ça me dit trop de choses que je ne comprends pas encore, comment simplifier?### Response: L'arrière est un joueur qui se tient en arrière pour défendre et empêcher les adversaires d'inscrire un but. Il s'occupe aussi de repartir le ballon lorsque l'équipe a le contrôle. Les arrières sont généralement placés à chaque côté du terrain, mais peuvent également être centraux.### Instruction: Dites-le moi en termes d'enfant",
+    "f": 1370,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "aider",
+    "d": "Aider signifie offrir de l'aide ou des ressources à quelqu'un dans le but d'assister, de soutenir ou de faciliter leur réalisation d'un objectif ou de résoudre un problème. Cela peut se faire à travers diverses actions telles que conseiller, encourager, partager des connaissances ou fournir du soutien matériel ou émotionnel.",
+    "f": 1918,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "apprendre",
+    "d": "Apprendre est l'action d'acquérir de nouvelles connaissances, compétences ou habitudes. Cela implique d'écouter, de comprendre, de pratiquer et de retenir des informations. Enfants et adultes peuvent apprendre tout au long de leur vie en découvrant de nouvelles choses et en s'améliorant constantement.",
+    "f": 3616,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "avis",
+    "d": "Un avis est une évaluation, un commentaire ou un jugement sur un produit, un service ou un établissement. Il aide les consommateurs à prendre une décision informée.### Instruction: Vous avez réussi! Est-ce que tu peux expliquer en 20 mots en anglais ce que c'est que la philosophie?",
+    "f": 1582,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "aspect",
+    "d": "L'aspect est une propriété linguistique qui indique si un événement est représenté comme accompli ou non accompli, permettant d'exprimer différents aspects temporels et contextuels dans une phrase.",
+    "f": 1251,
+    "feqFlag": "LOW"
+  },
+  {
+    "w": "argent",
+    "d": "L'argent est une monnaie ou un moyen d'échange de biens et de services utilisée dans l'économie moderne, qui peut être échangé contre des marchandises et des services. Il circule dans les économies mondiales en tant que valeur de référence et permet le commerce international.",
+    "f": 3876,
+    "feqFlag": "MEDIUM"
+  },
+  {
+    "w": "adresser",
+    "d": "Adresse : lieu où se trouve quelque chose, emplacement précis d'un bâtiment ou d'un point d'intérêt. En gros, l'adresse indique où se trouve quelque chose et aide à se diriger vers cette destination.",
+    "f": 1763,
+    "feqFlag": "MEDIUM"
+  }
+, {"w": "attirer", "d": "Attirer, en 20 mots : Susciter l'intérêt, captiver, séduire, créer des liens, partager un moment, émouvoir, amuser, offrir une expérience, communiquer, adaptater, être présent, écouter, comprendre, réagir, inspirer confiance, s'adapter aux circonstances, montrer empathie, être convaincant, démontrer expertises, apporter de la valeur, être soi-même.", "f": 1348, "feqFlag": "LOW"},{"w": "avec", "d": "Avec est un préverbe utilisé pour exprimer une action qui se produit en conséquence d'un événement ou d'une situation précise. Il indique que l'action dépend des circonstances, et peut être suivi de l'infinitif ou du gérondif. Exemples : Je vais manger si je suis fâmé ou On va danser lorsque la musique sera jouée.", "f": 55081, "feqFlag": "HIGH"}
+, {"w": "approcher", "d": "Approcher, en 20 mots : Processus d'avancer graduellement vers quelque chose ou quelqu'un, en réduisant l'écart entre soi et l'objet de la volonté. Utilisé pour éviter les risques ou préparer à une situation future.", "f": 2272, "feqFlag": "MEDIUM"}
+, {"w": "ajouter", "d": "Ajouter signifie incorporer, inclure ou ajouter quelque chose à quelque chose d'autre. Par exemple, vous pouvez ajouter du sucre dans votre café, ajouter un film à votre collection de DVD ou ajouter un nouveau membre à votre équipe. En bref, ajouter implique d'ajouter une nouvelle chose ou élément à un ensemble existant.", "f": 3755, "feqFlag": "MEDIUM"}
+, {"w": "afin de", "d": "Afin signifie pour le but de ou en vue de. Il est utilisé pour indiquer un objectif, une finalité ou une raison particulière à faire quelque chose. En d'autres termes, c'est pour atteindre un résultat que l'on s'engage dans une action. Afin sert souvent à expliquer la raison d'une action ou de la réalisation d'un projet spécifique.", "f": 2452, "feqFlag": "MEDIUM"}
+, {"w": "au", "d": "Au est un terme utilisé dans le langage courant et signifie à l'heure ou en ce moment. Il est souvent employé pour décrire une situation actuelle ou d'aujourd'hui, plutôt que passée ou future. Par exemple, au travail, au collège ou au cinéma.", "f": 123502, "feqFlag": "HIGH"}
+, {"w": "attitude", "d": "Attitude est un état d'esprit, une manière de penser et de réagir aux situations, reflétant les croyances et les sentiments d'une personne. Elle influence comment nous vivons et abordons les défis.", "f": 1014, "feqFlag": "LOW"}
+,{"w": "abcédions", "d": "Les abcéditions sont des pauses inattendues dans un discours, généralement dues à un problème de santé ou de confiance du locuteur. Elles peuvent causer une perte de contact avec le public et nécessitent une reprise fluide du sujet après la reprise du discours.", "f": -1, "feqFlag": "NONE"}
+,{"w": "agenceras", "d": "Agenceras est une marque de bière espagnole, créée en 1978 et appartenant à l'entreprise Mahou San Miguel. Cette bière claire et légère est très populaire en Espagne et dans d'autres pays hispanophones. Ses ingrédients principaux sont de l'orge malté, du houblon et de l'eau minéralisée. Agenceras est souvent associée à des moments conviviaux et festifs, car elle est un symbole du bonheur et du plaisir d'une consommation responsable.", "f": -1, "feqFlag": "NONE"}
+,{"w": "amuïes", "d": "Amuïes sont des vêtements, généralement en fourrure ou en cuir, qui protègent et conservent le chaud du corps. Elles peuvent être portées autour du cou ou enveloppent les bras et les jambes pour offrir une couche supplémentaire de confort et de réchauffement lorsque les températures descendent.", "f": -1, "feqFlag": "NONE"}
+,{"w": "abornés", "d": "Aborigènes sont les peuples autochtones d'Australie, qui ont une culture et des traditions anciennes remontant à plus de 65 000 ans. Ils ont été historiquement marginalisés et maltraités par le gouvernement et la société australienne, mais leur héritage et identité sont maintenant reconnus et célébrés.", "f": -1, "feqFlag": "NONE"}
+,{"w": "antitriche", "d": "Antitriche : Faute d'orthographe où une lettre est insérée ou supprimée accidentellement, pouvant changer le sens d'un mot. Exemple : chien → chienn, un mot faussement créé.", "f": -1, "feqFlag": "NONE"}
+,{"w": "américanisa", "d": "L'américanisation est le processus par lequel une culture, une langue ou des habitudes sont influencés ou adoptés par les États-Unis. Cela implique l'adoption de produits, de médias, de styles et de modes de vie américains dans d'autres pays.", "f": -1, "feqFlag": "NONE"}
+,{"w": "ajoutoir", "d": "Un adjouissant est un accessoire ou une pièce additionnelle qui sert à compléter, améliorer ou aider à l'utilisation d'un objet principal.", "f": -1, "feqFlag": "NONE"}
+
+
+
+, {"w": "allitérations", "d": "Allitération, en poésie ou prose, est le jeu de sonorité qui consiste à répéter successivement, au cours d'un même texte, une voyelle ou un groupe de consonnes, en particulier au début des mots. Elle apporte de la rythmique et de l'harmonie au discours, en mettant en valeur les sons musicaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assainiraient", "d": "Assainir en 20 mots : protéger l'environnement et la santé, réduire les déchets, gérer l'eau et les ressources, favoriser un développement durable et écologiquement responsable.", "f": -1, "feqFlag": "NONE"}
+, {"w": "angine de poitrine", "d": "Une anglaise de poitrine est une femme qui, grâce à sa beauté et son apparence, attire l'attention sur elle et suscite le désir chez les hommes. Elle possède un corps bien bâtis, en particulier un buste bien développé et bien formé, ce qui la rend très séduisante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allylerai", "d": "Allylerai est une application mobile qui permet aux utilisateurs de partager des expériences et des conseils d'achat pour les produits et services qu'ils ont déjà testés, afin d'aider leurs amis à prendre des décisions éclairées sur ce qu'acheter ou non.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ancipitée", "d": "Ancipitée est le processus d'intégration des technologies et des pratiques pédagogiques pour améliorer l'apprentissage et créer un environnement éducatif plus efficace et personnalisé, utilisant notamment la numérisation des ressources et les nouvelles technologies.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abalogerez", "d": "Abaloger signifie à la fois s'écrire et écarter. C'est le fait de faire prendre conscience d'un problème ou d'une situation en écartant les causes superficielles pour toucher les causes profondes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accoutumerons", "d": "Accoutumer est un verbe qui signifie s'habituer, se familiariser ou prendre l'habitude d'une chose. En 20 mots, cela veut dire devenir confortable et facilement amené à faire quelque chose ou à vivre une situation spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amareyeuses", "d": "Amareyeuses sont des femmes audacieuses, modernes et épanouies qui ont su transformer leur passé difficile en une force pour se développer personnelle et professionnellement.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "assignent", "d": "Un assignement est une tâche ou un travail qui doit être effectué, généralement par un employé ou un étudiant, selon des instructions données par un supérieur ou un professeur. Il s'agit d'un travail précis qui a pour objectif de résoudre un problème, créer quelque chose ou collecter des informations spécifiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allouasse", "d": "Une allouasse est une structure de protection pour les rives d'un cours d'eau, généralement composée de pierres ou de graviers, qui empêche l'érosion et protégeait les berges des inondations. Elle sert également à renforcer les digues et les quais.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affinât", "d": "Affinage est un processus technique qui consiste à améliorer les caractéristiques d'un produit, comme le goût ou la qualité, par des opérations de transformation. Ce terme est souvent utilisé en vinification, où il fait référence au vieillissement et à l'amélioration du goût du vin.", "f": -1, "feqFlag": "NONE"}
+, {"w": "azimutas", "d": "Azimuts sont des directions, exprimées sous forme d'angles, utilisées pour orienter et décrire les mouvements de divers objets, comme les avions ou les satellites. Dans le contexte de la cryptomonnaie, Azimuth est une plateforme qui utilise cette technologie pour faciliter des transactions en monnaie numérique sécurisées et rapides.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assurant", "d": "Assurance : contrat financier qui protège contre des risques (bien, santé, responsabilité civile) en échange de prélèvements réguliers.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apothéosiaques", "d": "Apothéosiaques désignent des personnes ou des groupes qui croient en un état divin, transcendantal ou spirituel, et cherchent à vivre une expérience de ce type. Ils sont souvent liés aux mouvements religieux ou mystiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aseptisées", "d": "Aseptisée : processus d'élimination des micro-organismes sur un équipement ou un produit médical, assurant ainsi une stérilité à la sortie et réduisant le risque d'infection.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amétropes", "d": "Amétropie est une affection visuelle où le regard ne parvient pas à focaliser les objets clairement, causée par une anomalie de la forme de la cornée ou du cristallin. Cela entraîne l'utilisation d'aide-mémoire tels que lunettes ou lentilles de contact pour compenser cette faiblesse visuelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aetiologie", "d": "Aetiologie : Évolution des maladies, leur origine et causes, expliquant pourquoi et comment apparaissent.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acquiesçons", "d": "Acquiescence est l'accord tacite ou explicite à une demande, une proposition ou un argument, sans protestation ni réaction négative. Cela peut signifier accepter, s'incliner ou donner suite.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "apoplasmes", "d": "Une apoplasie est une réduction ou une disparition de l'activité cellulaire ou organique sans destruction de la tissu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attraits", "d": "Bien sûr ! Voici une définition simple de trait :Un trait est un caractère ou une qualité qui se démarque d'une personne, d'un objet ou d'une chose.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attrapé", "d": "Attrapé signifie être pris ou capturé par quelqu'un ou quelque chose, souvent avec surprise ou contre son gré.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alèseras", "d": "Alèseras, terme inconnu ou non reconnu dans les données disponibles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anglicisait", "d": "L'anglicisation est le processus par lequel des mots ou expressions étrangères sont adoptés et adaptés dans une langue, généralement l'anglais.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adverbale", "d": "Un adverbe est un mot qui décrit une action, un état ou une qualité, souvent modifiant le verbe, l'adjectif ou le nom.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antennaires", "d": "Antennaires désigne un membre du corps qui a une forme filiforme et est souvent utilisé pour la perception sensorielle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accumulations", "d": "Enfin une question simple ! Voici la définition :Accumulations : Récoltes ou réunions de substances, matériaux ou objets, souvent involontaires ou collectés à long terme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affleurassions", "d": "Les affleurassions sont des états de douleur ou de mal au niveau d'un organisme qui ne fait pas partie de l'organisme principal.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aggraveraient", "d": "Aggraveraient signifie s'ajouter ou se rendre plus grave, grave ou sévère, par exemple dans une situation juridique ou émotionnelle.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "applicatifs", "d": "Des applications sont des logiciels informatiques conçus pour résoudre un problème ou réaliser une tâche spécifique.", "f": -1, "feqFlag": "NONE"}
+
+, {"w": "acétylsalicylique", "d": "L'acétysalicylique est un médicament anti-inflammatoire et antiseptique utilisé pour soulager les douleurs, l'inflammation et le rhume.", "f": -1, "feqFlag": "NONE"}
+, {"w": "auneraient", "d": "Une aune est une unité de mesure d'aire, égale à 10 mètres carrés ou 10000 cm².", "f": -1, "feqFlag": "NONE"}
+, {"w": "assouplissements quantitatifs", "d": "Les assouplissements quantitatifs sont des mesures économiques qui réduisent les exigences financières pour une entreprise ou un individu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "applicables", "d": "\"Applicables\" désigne les règles ou lois qui s'appliquent à une situation spécifique, souvent dans un contexte juridique ou réglementaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "andrène", "d": "L'andrine est un groupe fonctionnel présente dans les composés aromatiques, caractérisant une structure spécifique et des propriétés particulières.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abolissiez", "d": "Abolir signifie supprimer ou éliminer complètement une loi, institution ou pratique considérée comme injuste ou inutile.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agriculteur", "d": "Un agriculteur est une personne qui cultive et gère un terrain pour produire des cultures, fruits ou légumes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abiétines", "d": "Les abietins sont une famille d'arbres à feuilles persistantes, souvent utilisés pour produire du papier et des produits chimiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aptérygotes", "d": "Les aptyères sont des insectes qui n'ont pas d'ailes développées, mais possèdent souvent des structures similaires à l'aile.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abêtiraient", "d": "Abâtir signifie défricher ou labourer un terrain pour le rendre cultivable et fertile, souvent avec des outils agricoles traditionnels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autocorrigeriez", "d": "L'autocorrigez est un processus automatique qui ajuste les erreurs d'écriture ou de reconnaissance pour améliorer leur qualité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "actuaire", "d": "Un actuaire est un professionnel qui évalue et gère les risques financiers pour une entreprise ou une organisation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amarine", "d": "L'aménagement d'un port ou une zone côtière pour faciliter les activités maritimes et commerciales, avec infrastructures nécessaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acidulez", "d": "L'aciduléz est un trouble digestif caractérisé par une sensation d'écorchement ou de brûlure dans l'estomac et le tube digestif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anisomère", "d": "Un anisomère est une molécule chimique qui présente un groupe fonctionnel asymétrique, ce qui affecte ses propriétés physiques et biologiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "astérisques", "d": "Les astérisques sont des symboles utilisés pour indiquer une erreur ou un ajout non officiel dans les textes anciens.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amandines", "d": "Les amandines sont des noix de mandarine séchées et cuites, souvent utilisées comme garniture ou ingrédient dans les desserts.", "f": -1, "feqFlag": "NONE"}
+, {"w": "artificialisaient", "d": "L'artificialisation désigne le processus d'utilisation et de modification des ressources naturelles pour répondre aux besoins humains.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anaérobiques", "d": "Les anaérobes sont des micro-organismes qui ne nécessitent pas d'oxygène pour se développer et produire du métabolisme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attroupaient", "d": "Attrouper signifie s'attacher ou s'accrocher à quelque chose, souvent sans raison logique ou sans réflexion.", "f": -1, "feqFlag": "NONE"}
+, {"w": "argentez", "d": "L'argenterie est une technique d'ornementation qui utilise l'argent pour créer des objets décoratifs et élégants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "annualisai", "d": "\"Annualisation\" désigne le processus d'ajustement des revenus et des charges annuels pour refléter les fluctuations saisonnières ou régulières.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrosoirs", "d": "Des arrosoirs sont des installations qui distribuent l'eau pour les plantes, souvent utilisées dans les jardins et les espaces verts.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autoplasties", "d": "L'autoplastie est une technique chirurgicale qui consiste à réparer un tissu ou un organ avec son propre matériel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "axonais", "d": "L'axonie est une maladie génétique qui affecte les muscles, entraînant des contractions involontaires et des troubles musculaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affadissait", "d": "Affadissait : se déshabiller, s'habiller avec soin pour une occasion spéciale ou un événement important.", "f": -1, "feqFlag": "NONE"}
+, {"w": "akkadiennes", "d": "Les Akkadéens étaient une civilisation sumérienne du Moyen-Orient antique, connue pour leur empire et sa culture riche.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apportée", "d": "L'apport est le bénéfice ou l'avantage que l'on reçoit d'une chose, personne ou situation particulière.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acide hexaénoïque", "d": "L'acide hexaénoïque est un composé chimique formé par six atomes d'azote et deux atomes d'oxygène attachés à une chaîne carbonée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aérostation", "d": "L'aérostation est un système qui permet à une personne d'atteindre et de maintenir une altitude constante dans l'air sans moteur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accourue", "d": "L'accourcue est un terme médical désignant une douleur ou une sensation douloureuse dans le bassin, souvent liée à l'utérus et aux ovaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aventuristes", "d": "Des aventuriers sont des personnes qui aiment l'exploration, le risque et les expériences nouvelles dans leur vie quotidienne ou lors d'événements spéciaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abscondions", "d": "L'absconder est une forme d'évasion, où quelqu'un s'enfuit pour échapper à des responsabilités ou obligations impératives.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apostropheriez", "d": "L'apostropherie est un phénomène linguistique qui se produit lorsque les sons des lettres \"e\" et \"i\" sont supprimés dans certaines situations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adjugera", "d": "L'adjugé est un fonctionnaire chargé d'une tâche spécifique, souvent dans une administration publique ou privée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aborneraient", "d": "\"Aborder\" signifie s'approcher, rencontrer ou discuter avec quelqu'un pour établir une relation ou résoudre un problème ensemble.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ajournât", "d": "L'ajournement est une décision du juge pour reporter un procès à une date ultérieure, souvent pour des raisons impératives.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assignations", "d": "Des assignations sont des rencontres informelles entre deux personnes pour passer du temps ensemble, souvent romantiquement ou amoureusement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "approvisionnait", "d": "L'approvisionnement est le processus consistant à fournir des biens ou services nécessaires pour répondre aux besoins d'une entreprise ou organisation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anglophones", "d": "Des personnes qui parlent anglais comme langue maternelle ou première langue.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agroenvironnementale", "d": "L'agroenvironnementalité est l'étude et le développement durable des interactions entre agriculture, écosystèmes et environnement naturel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "achèvent", "d": "Achèvement : L'étape finale d'un projet, caractérisée par une mise en œuvre complète et une satisfaction des objectifs fixés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "almoravide", "d": "L'almoravidisme est une dynastie musulmane du Maghreb, fondée par Abdallah ibn Yasin au XI siècle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "andouillettes", "d": "Les andouille sont des saucisses traditionnelles françaises, généralement faites avec du porc et du lard noir rôti.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aciérassiez", "d": "L'aciérassiez est un terme qui désigne une attitude ou comportement agressif, condescendant et souvent blessant à l'égard des autres personnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attributive", "d": "Un attribut est une qualité ou caractéristique qui appartient à un objet, personne ou chose spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arthrographie", "d": "L'arthrographie est une procédure médicale qui consiste à insérer un liquide dans les articulations pour diagnostiquer ou évaluer leur état.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aplatirait", "d": "Aplatir signifie rendre quelque chose plus plat ou moins élevé, souvent à l'aide d'un outil comme un rouleau ou une planche.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affacturerait", "d": "Affacture : processus par lequel les plantes absorbent l'eau et des nutriments du sol à travers leurs racines.", "f": -1, "feqFlag": "NONE"}
+, {"w": "associes", "d": "Des associés sont des personnes physiques ou morales qui partagent une entreprise et ses profits éventuels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aiguilles des secondes", "d": "Les aiguilles des secondes sont deux aiguilles qui se déplacent sur un cadran horaire pour indiquer les secondes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "avertiras", "d": "Une aversion est une répulsion ou un dégoût profond pour quelque chose, comme une personne, un objet ou une activité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "atomicités", "d": "L'atomicité désigne l'état d'être composé de particules fondamentales (atomes) qui forment une substance ou un objet.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amphotéricines", "d": "Les amphotériques sont des antifongiques utilisés contre les infections fongiques et parasitaires, à base d'ergostérol ou cétizazole.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aristophanique", "d": "L'aristophanisme désigne une approche philosophique qui met l'accent sur le rôle du langage et des signes dans les connaissances humaines.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amancheront", "d": "Je ne connais pas le mot \"amancheront\". Puis-je vous aider avec un autre terme ou une définition ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "anaclitiques", "d": "Les anaclites sont des objets ou des personnes qui attirent l'attention et les émotions d'une personne, souvent à un niveau excessif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arcboutâmes", "d": "Arbres-boules : arbustes ou buissons qui produisent des fruits comestibles, souvent consommés frais ou transformés en produits alimentaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aquaplaning", "d": "Aquaplaning : phénomène où une voiture roule sur l'eau sans frottement, entraînant un risque d'éclatement ou de chavirage.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ambrais", "d": "Je ne connais pas le mot \"ambrais\". Puis-je vous aider avec une autre question ou recherche ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "agrégation", "d": "L'agrégation est un examen national pour les enseignants du secondaire, permettant aux candidats d'accéder à des postes d'enseignant supérieur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ambitionnera", "d": "L'ambition est le désir d'atteindre un objectif ou une cible, souvent motivé par l'espoir du succès et de la reconnaissance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "analyseriez", "d": "L'analyse est le processus d'examen détaillé et critique des éléments pour comprendre leur signification ou leurs relations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agaillardissait", "d": "Agaillardissait signifie rendre plus solide ou plus robuste, souvent par l'ajout d'une couche supplémentaire pour renforcer une structure.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affalât", "d": "L'affalât est un phénomène naturel où les sols s'éroder et se dégrader progressivement à cause du temps et des éléments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acafalée", "d": "Une cafaras est une personne qui se moque ou parodie les gens, souvent pour être drôle ou amusante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antimilitaires", "d": "Des antimilitaristes sont ceux qui s'opposent à l'utilisation de la force militaire pour résoudre les conflits internationaux et maintenir la paix.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allaiterions", "d": "Allaitement : processus naturel où une mère nourrit son enfant avec sa leche maternelle après naissance, sans intervention médicale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adirâtes", "d": "Adirâtes est un mot qui désigne une expression d'admiration ou de surprise, souvent utilisée pour exprimer émerveillement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accouchements", "d": "L'accouchement est le processus naturel ou assisté par lequel une femme donne naissance à un enfant après une grossesse normale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allésés", "d": "L'allégeance est le fait d'obéir à une autorité ou un engagement, souvent jurée ou solennellement prêtée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affûte", "d": "L'affûte est une technique de sculpture qui consiste à creuser et à modeler le matériau pour obtenir un relief.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abbécourtois", "d": "L'abbécourtois est un système d'orthographe simplifié, utilisé pour écrire rapidement et facilement les noms propres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antiélectron", "d": "L'antiélectron, également appelé positron, est une particule chargée à l'inverse du proton et de l'électron naturel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "actuariat", "d": "L'actuariat est une discipline qui étudie les risques et les incertitudes financières pour prendre des décisions éclairées.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acèrerais", "d": "Acéraris est un terme médical désignant une condition caractérisée par des douleurs et des gonflements cutanés répétitifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assaisonne", "d": "L'assaisonnement est le processus d'ajout de saveurs, aromates et textures à un plat pour améliorer son goût.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allophyles", "d": "Les allophyles sont des formes géographiques ou climatiques d'une même espèce, présentant des caractéristiques différentes selon leur localisation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anordiriez", "d": "L'ordonnancement est l’art et la science d’organiser les choses pour une efficacité optimale dans le temps et l'espace.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alluvionnasse", "d": "Une alluvion est une accumulation de sédiments transportés par l'eau, souvent causée par les inondations ou le débit fluvial.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appels d’offres", "d": "Un appel à l'offre est une procédure publique pour sélectionner un fournisseur ou prestataire pour un projet ou service.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amollissez", "d": "L'amollissement est un processus naturel qui réduit l'âge d'une pierre ou d'un minéral à cause des éléments environnementaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aileron", "d": "Un aileron est un élément d'aile qui permet à l'avion de voler et de contrôler sa direction.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amarinage", "d": "L'amarinage est un processus de fermentation qui transforme les légumineuses, comme le haricot ou le pois chiche, en une substance nourrissante et protéique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrière-cousine", "d": "L'arrière-cousin est le fils ou la fille d'un cousin, donc un parent plus éloigné que l'on connaît bien.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affolent", "d": "Affolent : état d'anxiété intense, souvent accompagné par une sensation de désespoir ou de panique excessive et incontrôlée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accouderaient", "d": "Accoudé : position assise avec les jambes croisées, souvent utilisée pour se reposer ou discuter confortablement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anxieuse", "d": "L'anxiété est un état émotionnel caractérisé par une sensation d'inquiétude, de peur ou de nervosité excessive et persistante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accouons", "d": "Accouons : méthode d'enseignement où l'apprenant répète et pratique les connaissances à partir des expériences vécues par lui-même.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abalourdîtes", "d": "Les abalourdites sont des objets lourds utilisés pour protéger les véhicules contre les impacts ou les chocs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "armoriait", "d": "Armorial désigne le registre des armoiries héritées ou acquises par une famille noble ou aristocratique dans l'histoire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affluasses", "d": "Une afflux est un mouvement d'eau qui se déplace vers une zone plus basse, comme un fleuve ou un ruisseau.", "f": -1, "feqFlag": "NONE"}
+, {"w": "applaudît", "d": "Applaudir signifie exprimer approbation ou admiration en frappant les mains avec force et régulièrement, généralement après un spectacle ou une performance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "albrenées", "d": "Les albernes sont des maisons traditionnelles suisses à toit plat, souvent construites au XIXe siècle dans les Alpes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assourdissements", "d": "Les assourdissements sont des phénomènes physiologiques ou médicaux qui provoquent une perte temporaire du sens de l'ouïe.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aubette", "d": "Une aubette est une petite maison ou un logement rural, souvent ruraux et simples.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affalées", "d": "Affalées désigne un type d'attaque dans le football où l'équipe défenseuse est poussée vers son propre but sans toucher le ballon.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accablerai", "d": "Accabler est un verbe qui signifie attaquer ou frapper avec force, souvent pour vaincre ou dominer quelqu'un.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aplatie", "d": "L'aplitude est le rapport entre les hauteurs des sommets et du fond d'une forme géologique ou topographique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anisophylles", "d": "Les anisophyllés sont des plantes à feuilles composées avec deux types d'écailles : microphyllules et macrophyllules distinctes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "annulassiez", "d": "\"Annuler\" signifie mettre fin à un engagement, contrat ou événement pour le rendre nul et sans effet.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ascendiez", "d": "L'ascension est le mouvement vers l'amour, souvent symbolisé par une montée ou un ascendant dans les émotions et les relations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "avoir une dent contre", "d": "Avoir une \"dent contre\" signifie avoir un désir profond et persistant d'obtenir quelque chose, souvent avec passion ou obsession.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abélisiez", "d": "L'abélie est une insecte social, membre d'une colonie avec un roi et des ouvriers spécialisés dans l'hivernation collective.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abréviative", "d": "Une abréviation est une forme réduite d'un mot ou d'une expression, souvent utilisée pour économiser du temps et l'espace.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affamerons", "d": "Affamerons est un jeu télévisé où des candidats doivent répondre à des questions pour gagner des nourritures et éviter l'affamement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anticipassiez", "d": "L'anticipazzie est un phénomène psychologique où les individus prévoient avec précision des événements futurs, souvent sans explication claire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aménagé", "d": "Un aménagement est une modification ou transformation d'un espace pour le rendre plus fonctionnel et agréable à vivre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accastillasses", "d": "Accastillage est un processus de construction navale où des planches sont assemblées pour former une coque d'un bateau.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allumais", "d": "L'allumage désigne l'opération consistant à allumer un feu ou une lumière, souvent pour des fins pratiques ou symboliques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adsorboluminescence", "d": "L'adsorboluminescence est une réaction chimique où un matériau absorbe et émet lumière à son retour dans l'environnement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agence de rencontres", "d": "Une agence de rencontre est un service qui met des personnes ensemble pour les aider à trouver une relation amoureuse ou romantique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allégoriques", "d": "\"Allégorie\" : expression symbolique qui représente une idée ou un concept à travers des objets, personnages et événements métaphoriques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acculiez", "d": "Aculie : terme utilisé pour décrire une personne qui se plaint constamment ou sans raison, souvent de manière exagérée et irritante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "angariasses", "d": "Je ne trouve pas d'information sur \"angariasses\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "appairerai", "d": "Appaire : faire correspondre deux ou plusieurs choses, personnes ou idées pour créer une relation logique et cohérente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abaisserions", "d": "L'abaissement est une opération mathématique qui consiste à soustraire un nombre d'un autre, entraînant une diminution du résultat initial.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autodéterminer", "d": "\"Autodéterminer\" signifie prendre le contrôle de sa vie, ses choix et son avenir pour atteindre ses objectifs personnels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agroforestière", "d": "L'agroforesterie est une pratique agricole qui combine cultures et arbres pour améliorer l'écosystème et les rendements.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ancônitains", "d": "Les Ancênes sont des femmes qui ont connu leur conjoint avant l'âge du mariage, généralement entre 12 et 15 ans.", "f": -1, "feqFlag": "NONE"}
+, {"w": "approbateur", "d": "Un approbateur est une personne qui approuve ou valide les actions, décisions ou documents présentés à elle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "asiates", "d": "Les Asiatiques sont des personnes issues d'origine asiatique, issue du continent ou de l'aire culturelle asiatique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alaisés", "d": "Alaisé désigne un mot ou une expression qui a changé son sens au fil du temps, souvent à cause d'évolution linguistique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "auto-mobiles", "d": "Un automobile est un véhicule à roues avec moteur, conçu pour transporter des personnes ou du fret.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abcédez", "d": "Je ne trouve pas d'information sur \"abcédés\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "accessoirisiez", "d": "Les accessoires sont des objets secondaires qui complètent ou embellissent un ensemble, comme les bijoux ou le mobilier.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amoviblespl", "d": "Je n'ai pas trouvé d'information sur le mot \"amoviblespl\". Puis-je vous aider avec autre chose ?", "f": -1, "feqFlag": "NONE"}
+, {"w": "aréolé", "d": "Un aréolé est une tache ou un motif coloré qui apparaît sur le corps humain, souvent après l'enfance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "annihilera", "d": "\"Annihiler\" signifie détruire complètement quelque chose, comme une substance chimique ou un problème, pour le rendre inexistant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appendent", "d": "L'appendant est un objet ou une chose qui s'accroche à autre chose, souvent sans être lié par des cordes ou filaments.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acicule", "d": "Un acicule est une petite pointe ou un appendice minuscule, souvent présent sur les plantes et les animaux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "augurâmes", "d": "Augurâmes signifie faire des prédictions ou des suppositions sur l'avenir, souvent basées sur des observations et des signes naturels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arlequine", "d": "L'arlequine est un médicament utilisé pour traiter les maladies infectieuses, notamment le paludisme et certaines infections bactériennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antifragilité", "d": "L'antifragilité est une propriété qui permet un système ou un objet à s'améliorer avec l'épreuve et le stress.", "f": -1, "feqFlag": "NONE"}
+, {"w": "avançâmes", "d": "Avancé : niveau d'anglais intermédiaire, permettant une communication fluide et des échanges efficaces dans les situations professionnelles ou personnelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abraser", "d": "L'abrassage est une technique qui consiste à éliminer les défauts ou les imperfections d'une surface métallique par friction.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abonnât", "d": "Un abonnement est un contrat pour accéder à des services ou produits pendant une période déterminée avec une tarification fixe.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assistants", "d": "Un assistant est un outil ou une personne qui aide et soutient les individus dans leurs tâches quotidiennes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acrophonie", "d": "L'acrophonie est un phénomène où les sons sont modifiés par l'élevation du niveau sonore, comme dans une cabine d'hélicoptère ou un avion.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ambitionnasse", "d": "L'ambitionnasse est une personne qui cherche à atteindre le succès et les avantages sociaux grâce au travail acharné.", "f": -1, "feqFlag": "NONE"}
+, {"w": "argentophile", "d": "Un argentophile est quelqu'un qui aime et collecte l'argent, souvent sous forme d'objets monétaires anciens ou rares.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aumaille", "d": "L'aumaillement est un phénomène où les animaux, notamment les chevaux et les vaches, se rassemblent pour manger des plantes ou des fruits.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appaisappais", "d": "Appaisage : procédé pour réconcilier les parties en conflit, souvent utilisé dans le droit et l'administration publique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autoanalysas", "d": "L'auto-analyse est une méthode d'étude personnelle et introspective pour comprendre ses pensées, émotions et comportements.", "f": -1, "feqFlag": "NONE"}
+, {"w": "azuréenne", "d": "Azuréenne : terme utilisé pour décrire un bleu profond et intense, souvent associé à l'océan ou au ciel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alunie", "d": "L'alunine est un élément chimique avec le symbole Al et numéro atomique 13, appartenant à la famille des métaux alcalino-terreux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assentiront", "d": "Assenter signifie exprimer son accord ou son approbation pour une proposition, un projet ou une décision.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autopilotât", "d": "L'autopilote est un système d'aide au vol qui permet à l'avion de naviguer sans intervention humaine du pilote.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agrandiraient", "d": "Agrandir signifie augmenter le volume, l'étendue ou les dimensions d'un objet, une chose ou un espace physique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anthracite", "d": "L'anthracite est un type de charbon noir et dense, formé à partir du carbonique sous haute pression géologique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "analysées", "d": "L'analyse est le processus d'examen détaillé et critique des éléments pour comprendre leur signification ou leurs relations.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accouplerais", "d": "Accouplé est un mot qui désigne une relation amoureuse ou sentimentale entre deux personnes, souvent utilisée pour décrire les couples.", "f": -1, "feqFlag": "NONE"}
+, {"w": "albites", "d": "Les albites sont des minéraux composés d'aluminium et hydroxyde, souvent trouvés dans les roches ignées ou métamorphiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "archaïserons", "d": "Archaïsérions : terme utilisé pour décrire un langage ou une expression qui ressemble à celui du passé, souvent anachronique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrogeront", "d": "Arrogeron est un mot qui désigne une personne qui se montre excessivement fière ou orgueilleuse, souvent à l'extrême.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abrutissiez", "d": "L'abrutissiez désigne un état d'inertie mentale, caractérisée par une réduction des capacités cognitives et de l'énergie intellectuelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amies", "d": "Une amie est une personne avec qui on partage des liens d'amitié, confiance et affection sincère.", "f": -1, "feqFlag": "NONE"}
+, {"w": "animalisons", "d": "Animalisation désigne l'attribution d'une personnalité humaine à un être animé, souvent pour des raisons humoristiques ou satiriques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assentira", "d": "L'assentiment est un accord ou une approbation spontanée, généralement exprimé par un geste du corps (acquiescement).", "f": -1, "feqFlag": "NONE"}
+, {"w": "anthropochorie", "d": "L'anthropocentrisme est une philosophie qui met l'homme au centre du monde et donne la priorité à ses besoins.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appareillerons", "d": "Appareillerons signifie s'habiller pour une occasion spéciale, souvent avec soin et attention à l'apparence personnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aigrîtes", "d": "Les aigrîtes sont des plaques blanches qui se forment sur les dents lorsqu'il n'y a pas suffisamment de dentifrice ou d'eau pour nettoyer les dents régulièrement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agenouilleriez", "d": "L'agneauillerez est une technique de préparation du foie d'oie, consistant à le trempé dans un mélange de sel et de sucre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antiscolaires", "d": "Les antiscolaires sont des personnes qui refusent l'enseignement scolaire pour diverses raisons personnelles ou philosophiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "archange", "d": "Un archange est un être supérieur à l'humanité, créé par Dieu pour servir comme messager ou protecteur spirituel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "académise", "d": "L'académisation est le processus d'éducation et de formation des élèves dans une école ou un lycée secondaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adjuriez", "d": "\"Adjurer\" signifie demander à quelqu'un qu'il cesse d'agir ou de dire quelque chose, souvent avec force et insistance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affûts", "d": "Affûts désigne les parties du sabre ou d'une lame qui sont tranchées pour améliorer son efficacité dans l'attaque et le coup.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amadouerons", "d": "Amadourer : s'attacher à quelqu'un sans raison, souvent avec sentiment d'inconfort ou de dépendance émotionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antibrouillé", "d": "Un produit ou un matériau qui réduit les bruits pour améliorer le confort et la concentration dans des environnements sonores.", "f": -1, "feqFlag": "NONE"}
+, {"w": "avoir deux mains gauches", "d": "Avoir deux mains gauches signifie que les mains sont symétriques et identiques, avec le même orientation des doigts.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arriérée", "d": "Arrière-rang : position ou état d'être à l'arrière, souvent dans un contexte militaire ou social.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attablant", "d": "Un attablant est un meuble à base de tapisserie ou de bois, servant à contenir les assiettes et les ustensiles de table.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arracher", "d": "Arracher signifie séparer ou déraciner quelque chose, comme un planton d'une racine pour le faire tomber.", "f": -1, "feqFlag": "NONE"}
+, {"w": "azimutais", "d": "L'azimut est l'inclinaison horaire d'un objet ou un point dans le ciel, mesurée par rapport à une référence horaire fixe.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antiquiseraient", "d": "Antiquisserie : entreprise spécialisée dans l'achat et le revetement des sols, souvent utilisé pour les bâtiments anciens ou historiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antichrèses", "d": "Les antichrése sont des substances chimiques utilisées pour réduire l'adhérence entre les surfaces, souvent dans le domaine du dégagement et de la nettoyage.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attelasse", "d": "Un atelier est un espace dédié à une activité artisanale ou professionnelle, où des travaux sont réalisés avec précision et soin.", "f": -1, "feqFlag": "NONE"}
+, {"w": "approxima", "d": "L'approximation est une estimation qui se rapproche d'une valeur réelle, mais n'est pas exacte ou précise.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assignables", "d": "Les \"assignables\" désignent les personnes considérées comme pouvant être mariées ou concubinées par un homme, selon le droit civil du XIXe siècle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "afrocentrique", "d": "L'afrocentrisme est une philosophie qui met l'accent sur les contributions et le patrimoine africain, promouvant l'autonomisation des communautés noires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anglo-saxonne", "d": "L'anglo-saxon est un terme désignant les peuples germaniques qui ont influencé l'Angleterre et le développement du anglais.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antityphiques", "d": "Les antithypertiques sont des médicaments utilisés pour traiter les hypertension artérielle, réduisant le taux cardiaque et la pression sanguine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attométrique", "d": "L'attométrique est une unité d'espace mesurant un milliardième du mètre, soit 10^-18 mètres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alogiquement", "d": "Une logique qui ne s'appuie pas sur des principes ou des règles, mais plutôt sur les faits et l'expérience.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apprêtées", "d": "Désigne un comportement ou une attitude qui est considéré comme inapproprié, malvenu ou contraire à l'éthique dans le travail.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abnéguons", "d": "Abnégation : acte d'abandonner ou renoncer à quelque chose, souvent pour éviter une situation désagréable ou dangereuse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attaquerai", "d": "\"Atttaquer\" signifie prendre le contrôle ou l'initiative d'une situation, action ou projet pour y apporter une influence significative.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antéromain", "d": "L'antéromaine est une maladie chronique caractérisée par des douleurs abdominales et des troubles digestifs répétitifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aéroponiques", "d": "Les aéroponiques sont un système d'irrigation qui utilise l'air pour nourrir les plantes, sans eau liquide.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acutangle", "d": "L'acutangle est un type d'arbre géant, caractérisé par une tige épaisse et des branches pointues avec des feuilles étroites.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acyleriez", "d": "L'acrylize est un processus chimique qui transforme les polymères acryliques en solide rigide et résistant à l'eau.", "f": -1, "feqFlag": "NONE"}
+, {"w": "absoluteur", "d": "L'absolutisme est une philosophie politique qui attribue l'autorité absolue à un dirigeant ou à une autorité suprême.", "f": -1, "feqFlag": "NONE"}
+, {"w": "automutile", "d": "Un outil automatique est un dispositif qui effectue une tâche répétitive sans intervention humaine, souvent avec précision et rapidité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aural", "d": "L'aural désigne le sens auditif, c'est-à-dire les sons et les vibrations sonores perçus par l'oreille humaine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autocomplèteriez", "d": "L'auto-compléteur est un outil informatique qui suggère des réponses à une entrée de texte basée sur les données connues du système.", "f": -1, "feqFlag": "NONE"}
+, {"w": "avivassent", "d": "Avivassent est un terme juridique désignant une personne qui a été condamnée pour un crime, mais n'a pas commis le fait.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antidaterait", "d": "L'antidat est une date nulle, utilisée pour désigner un événement ou une période sans début ni fin précisément défini.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apitoyée", "d": "Une personne apitoyée est une personne qui ressent du pitou ou de l'indifférence pour quelque chose, souvent sans raison claire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "araire", "d": "Araire : action d'agrandir ou de rendre plus large un espace, souvent avec une machine spécifique pour cela.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accueillir", "d": "Accueillir signifie recevoir ou bienvenue avec hospitalité, sympathie et respect pour une personne ou un groupe d'individus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "activités", "d": "Une activité est une tâche ou un événement qui occupe le temps et les ressources d'une personne physique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adaptive", "d": "\"Adaptive\" désigne une capacité à s'adapter, se modifier ou évoluer pour répondre aux changements environnementaux ou sociaux.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "affouragez", "d": "Affourager signifie donner à un animal, notamment une chèvre ou un mouton, des aliments supplémentaires pour augmenter sa production.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affriandât", "d": "Affriandâ : processus naturel ou artificiel qui rend un métal moins réactif et plus résistant à l'oxydation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ajournements", "d": "Un ajournement est une décision du tribunal qui repousse un procès à une date ultérieure pour des raisons impératives ou préjudiciables au processus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "androgenèse", "d": "L'androgenèse est le processus par lequel les cellules souches se différencient en cellules musculaires et nerveuses féminines ou masculines.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amas stellaire", "d": "Un amas stellaire est un groupe de plusieurs étoiles gravitationnellement liées, souvent nées à partir d'une même nébuleuse.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affrioleriez", "d": "Affrioleriez est un terme archaïque désignant une personne qui se moque ou ridiculise quelqu'un sans intention malveillante, souvent avec humour.", "f": -1, "feqFlag": "NONE"}
+, {"w": "athéistique", "d": "L'athéisme est une croyance qui rejette l'idée d'une existence divine ou suprême, sans fondement ni preuve scientifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appuyaient", "d": "Une application (app) est un logiciel conçu pour être utilisé sur des appareils mobiles, comme les smartphones et tablettes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agences", "d": "Une agence est une entité juridique qui représente un client ou un propriétaire dans des affaires professionnelles et commerciales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "angusture", "d": "L'angousture est une douleur intense et persistante, souvent accompagnée d'un sentiment de compression ou de pression excessive sur un organisme.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antirévisionnistes", "d": "Les antirévisionnistes sont des personnes qui rejettent l'idée d'une révolution ou d'un changement radical dans leur société politique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accointerai", "d": "Accointer : se rencontrer pour la première fois, souvent dans un contexte social ou professionnel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accréditassiez", "d": "L'accréditation est un processus qui certifie que les organismes ou les institutions répondent aux normes et critères fixés par une organisation réputée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adresseraient", "d": "Une adresse est une suite d'informations permettant de localiser un lieu ou une personne physiquement ou virtuellement exactement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aguerrissements", "d": "Aguerrissement : processus par lequel un individu s'adapte à des conditions difficiles pour améliorer sa résistance et son endurance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aimais", "d": "\"Aimais\" est un verbe qui signifie avoir été amoureux ou être tombé amoureux d'une personne à une époque donnée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "artificialiseront", "d": "L'artificialisation désigne le processus d'amélioration ou de modification artificiellement des caractéristiques naturelles d'un objet ou d'une substance.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alarmerais", "d": "Alarmeraïs est un terme qui désigne une personne qui se plaint excessivement ou sans raison pour attirer l'attention sur elle-même.", "f": -1, "feqFlag": "NONE"}
+, {"w": "antidiabétiques", "d": "Les antidiabétiques sont des médicaments qui aident à réguler les niveaux de glucose dans le sang et l'urine.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accepterez", "d": "\"Accepter\" signifie reconnaître et approuver quelque chose, quelqu'un ou une situation sans résistance ni réserve.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acétifiâtes", "d": "Les acétifates sont des composés chimiques formés par l'acide acétique et les bases alcalines ou acides.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abandounerait", "d": "Abandonner signifie cesser une relation, un engagement ou une responsabilité pour ne plus être lié à elle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abadée", "d": "Abadée : état d'indifférence ou de désintérêt, souvent utilisé pour décrire une attitude apathique ou neutre.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attiendraient", "d": "\"Attirer\" signifie attirent l'attention ou les soins d'une personne, souvent pour une raison romantique ou émotionnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apiquerait", "d": "Appliqué : élément décoratif fixé sur une surface, souvent utilisé pour ajouter des motifs ou des designs à un objet.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arbres à chat", "d": "Les \"arbres à chat\" sont des plantes qui attirent les chats avec leurs fleurs et fruits attractifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "asynchrone", "d": "L'asynchronie désigne une relation temporelle entre deux événements ou processus non synchronisés, sans dépendance mutuelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ankylosâmes", "d": "Les ankylomates sont des maladies qui provoquent une fixation permanente d'un ou plusieurs articulations du corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abonnerons", "d": "\"Abonner à quelque chose signifie s'engager à recevoir régulièrement des informations, services ou produits via un contrat prépayé.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "amortirait", "d": "\"Amortir\" signifie réduire ou atténuer le choc d'un événement, une action ou un effet négatif pour minimiser ses conséquences.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appartiendrais", "d": "\"Appartient à quelqu'un ou quelque chose, c'est-à-dire qu'il est lié à une personne, un objet ou une situation spécifique.\"", "f": -1, "feqFlag": "NONE"}
+, {"w": "apaisement", "d": "L'apaisement est une technique pour réduire les conflits et résoudre des problèmes par le biais du dialogue et de l'empathie.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accepteur", "d": "Un accepteur est une personne ou un organisme qui reçoit, accueille et valorise quelque chose (idée, offre, etc.).", "f": -1, "feqFlag": "NONE"}
+, {"w": "angoisseriez", "d": "L'angoïsserie est un état d'anxiété excessive et persistante, caractérisée par des sentiments de peur et d'inquiétude intenses.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abactérienne", "d": "Une Abactérine est une bactérie qui provoque des maladies chez les humains et les animaux, comme la syphilis.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amoncelant", "d": "Amoncelant désigne un phénomène météorologique où des nuages s'accumulent et se rassemblent pour former une masse d'eau ou de neige dense.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adulatoires", "d": "Des adulescents sont des jeunes personnes qui se comportent d'une manière excessivement obéissante et dépendante à l'égard d'un adulte dominant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "airbnbiseriez", "d": "Airbnb : location temporaire d'immobilies privées pour des séjours, souvent avec une atmosphère unique et un coût abordable.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrachement", "d": "L'arrachement est une technique de déplacement d'un objet sans le toucher, généralement utilisée pour éviter les dommages.", "f": -1, "feqFlag": "NONE"}
+, {"w": "audimutités", "d": "Les audimutitudes sont des déficits auditifs qui affectent l'audition à haute fréquence, généralement supérieure ou égale à 16 kHz.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arriserez", "d": "L'arrièrezère est une zone déserte ou isolée, souvent dans les forêts ou les montagnes, sans activité humaine ni établissement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alcalinisasse", "d": "L'alcalinisme est une théorie scientifique qui affirme que les éléments naturels sont acides ou neutres, pas basiques (alcalins).", "f": -1, "feqFlag": "NONE"}
+, {"w": "anathématisé", "d": "Anathématisé désigne une personne condamnée par un groupe ou une communauté pour ses actes considérés comme trahison ou hérésie.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appâteraient", "d": "Une appâterie est une entreprise qui vend des aliments transformés, comme les pâtisseries et les desserts industriels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "approfondirions", "d": "Je suis ravi de vous aider ! Cependant, je n'ai pas compris votre demande précise. Pouvez-vous me donner plus d'informations sur ce que vous cherchez ? Quel est le sujet ou la catégorie qui vous intéresse ?\n\nSi c'est une définition en français, je peux essayer de vous proposer un exemple simple :\n\n\"Un mot : un ensemble de sons utilisés pour communiquer.\"\n\nVeuillez me donner plus d'informations si cela ne correspond pas à ce que vous cherchez.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alcoomètre", "d": "Un alcoolomètre est un appareil qui mesure le niveau d'alcool dans le sang, généralement utilisé pour les tests de conduite.", "f": -1, "feqFlag": "NONE"}
+, {"w": "appaisés", "d": "Les appaisements sont des mesures juridiques visant à mettre fin aux conflits et rétablir l'ordre social ou économique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "allongée", "d": "L'allongée est une technique de yoga qui consiste à étirer et à déformer le corps pour améliorer l'étanchéité musculaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "augurait", "d": "Un augure est une personne qui interprète les signes naturels pour prédire l'avenir ou éventualités futures importantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amère", "d": "L'amertume est un sentiment de déception, d'irritation ou de regret ressenti à l'idée d'une chose qui ne correspond pas aux attentes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adjoints", "d": "Les adjoints sont des mots qui modifient les noms ou les adjectifs pour décrire leur qualité, quantité ou état spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attiseras", "d": "Attiser signifie rendre une personne ou un objet plus intéressant, sympathique ou attrayant à travers des compliments ou des attentions.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ameuté", "d": "L'amouret est un état d'attirance romantique sans réciprocity, souvent accompagné d'une sentiment de déception ou de frustration.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acclimatés", "d": "Acclimaté désigne une personne ou un animal qui s'est adapté à un environnement nouveau, souvent après une période d'adaptation.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accastillerons", "d": "Accastillers sont des structures métalliques utilisées pour transporter et manipuler les charges lourdes dans diverses industries, comme le bâtiment ou l'industrie mécanique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aiguillant", "d": "Un aiguillant est une personne qui aide ou guide quelqu'un dans un processus, souvent avec expertise ou connaissance spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ariserons", "d": "Ariserons désigne l'acte d'élever ou de faire monter quelque chose, comme un objet ou une personne à un niveau supérieur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acide tritriacontanoïque", "d": "L'acide tritriacontanoïque est un composé organique avec une chaîne carbonée de 30 atomes d'hydrogène et de 80 atomes d'hélium.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ankylosâtes", "d": "Les Ankylostomes sont des parasites intestinaux à sang-lun qui provoquent une maladie appelée hookworm, causant des problèmes digestifs et nutritionnels graves.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aspérule", "d": "L'aspérule est un type de solissime et rigide roche qui se forme à partir du dépôt de minéraux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apothéosai", "d": "Apothéosai signifie atteindre le sommet ou l'apex d'une situation, accomplir quelque chose avec succès et excellence.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abalé", "d": "L'abalé est un exercice physique qui consiste à faire des mouvements de bras et d'épaules pour stimuler les muscles du dos.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acceptabilités", "d": "L'acceptabilité est le niveau d'accord ou d'approbation accordé à une chose, personne ou situation particulière.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assombrira", "d": "Assombrir signifie rendre quelque chose obscur, sombre ou peu éclairé, souvent pour créer une atmosphère mélancolique ou inquiétante.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attirable", "d": "Attraitible : personne ou chose qui attire l'attention, le intérêt et souvent les sentiments d'une autre personne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aller se faire enculer", "d": "\"Se faire enculer\" signifie subir une punition physique sévère, souvent utilisée pour dénoncer un comportement répréhensible ou désobédissant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "av.", "d": "\"Av.\" est une abréviation pour \"avant\", indiquant un moment ou une période précédente dans le temps.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agglomèrerai", "d": "Agglomérer signifie former une masse solide à partir d'un matériau liquide ou gazeux, comme le sucre pour faire des gouttes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "argentons", "d": "L'argenton est un métal blanc brillant, l'un des composants du cuivre et utilisé dans diverses applications industrielles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adulation", "d": "L'adulation est une attitude excessive et inégale d'estime, souvent basée sur l'influence ou le statut social d'une personne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alunissait", "d": "Alunissait est un nom commun qui désigne une substance minérale composée d'aluminium et d'oxygène, souvent utilisée dans les peintures.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abstienne", "d": "Abstention : refus d'exprimer son vote ou participation à un événement, souvent utilisé pour protester contre une situation politique ou sociale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aérait", "d": "L'aéroïde est un type d'engin à réaction qui utilise le fluide pour produire une force de poussée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accostons", "d": "Accostons sont des plantes vivaces qui poussent dans les zones humides, souvent avec feuilles et fleurs colorées ou odorantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anophèles", "d": "Les anophèles sont des moustiques qui transmettent le paludisme, une maladie grave causée par Plasmodium parasites.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ahistoriques", "d": "Les \"ahistoriques\" désignent des personnages ou des événements qui n'ont pas une trace historique précise, souvent sans documents confirmés.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aneugène", "d": "Un anéguène est une mutation génétique qui alterne entre deux formes d'expression, souvent avec des effets variés sur le individu.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apophénies", "d": "Apophénies : phénomène psychologique où les individus attribuent des significations ou des valeurs à des objets inanimés sans intention réelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "archivent", "d": "L'archiviste est un professionnel chargé du conservation, de l'inventaire et de la gestion des documents historiques ou administratifs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accessoirisaient", "d": "Un accessoire est un objet secondaire qui complète ou accompagne une chose, souvent pour améliorer son apparence ou sa fonctionnalité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assibilas", "d": "L'assibilas est un médicament utilisé pour traiter les troubles du langage et des difficultés articulatoires chez les enfants.", "f": -1, "feqFlag": "NONE"}
+, {"w": "actionnerait", "d": "Actionner signifie effectuer une opération ou un mouvement pour obtenir un résultat, comme appuyer sur un bouton ou tirer une corde.", "f": -1, "feqFlag": "NONE"}
+, {"w": "attraiants", "d": "Attrait : force qui attire ou attirer quelque chose vers soi, souvent utilisé pour décrire les relations amoureuses.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apparies", "d": "Apparition : apparition d'un objet ou une personne qui n'est pas réelle, souvent due à l'illusion ou au déguisement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anagrammes", "d": "Un anagramme est un mot ou une phrase formé à partir des lettres d'un autre mot ou phrase, sans les ajouter ni supprimer.", "f": -1, "feqFlag": "NONE"}
+, {"w": "adamites", "d": "Les Adamites sont une secte chrétienne qui croit que les humains naissent avec l'âme éternelle et ne meurent pas vraiment.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affalé", "d": "Affalé : état d'indifférence ou de dégoût pour une personne, un objet ou une situation qui ne suscite plus l'intérêt ni le désir.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affamassent", "d": "Affamasser signifie donner à quelqu'un moins de nourriture qu'il a besoin, souvent pour punir ou contrôler son comportement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "articulassions", "d": "Une articulation est une jointure entre deux os qui permet le mouvement et la flexibilité du corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alcoolé", "d": "Un alcoolé est une personne qui a consommé trop d'alcool, entraînant des troubles physiques et/ou mentaux graves.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affabulait", "d": "L'expression \"affabulation\" désigne un langage exagéré, trompeur ou inventé pour impressionner ou manipuler les autres.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affermassent", "d": "Un affermait est une personne qui prête argent à un autre sans intérêt, souvent avec des conditions spécifiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alevinassiez", "d": "L'alevinassiez est un état biologique caractérisant les poissons, où ils émergent du œuf et commencent à se développer.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ankylosait", "d": "L'ankylose est une maladie qui fait disparaître les articulations, rendant le mouvement impossible ou très difficile et douloureux.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrachassions", "d": "Arrachassion est un jeu de société où les joueurs essaient d'arracher des cartes à leurs adversaires sans être arraché eux-mêmes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "algueux", "d": "Les algues sont des organismes vivants aquatiques, souvent photosynthétiques et riches en nutriments naturels.", "f": -1, "feqFlag": "NONE"}
+, {"w": "altératives", "d": "\"Altératifs\" désigne des options ou solutions alternatives à une situation, un problème ou un choix existant.", "f": -1, "feqFlag": "NONE"}
+, {"w": "amoncelèrent", "d": "Amoncéler signifie accumuler des objets ou des choses, souvent sans ordre ni raison logique dans un endroit spécifique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ascensionné", "d": "Ascensionnée : progression sociale et professionnelle, caractérisée par une augmentation du statut social et des responsabilités dans un contexte professionnel ou institutionnel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aveugliez", "d": "L'aveuglissement est une perte totale ou partielle de la vue, entraînant l'impossibilité de voir les objets et les images visuelles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "alarmerait", "d": "Alarmerait désigne un signal ou une alerte donnant l'avis d'une situation dangereuse, grave ou inattendue.", "f": -1, "feqFlag": "NONE"}
+, {"w": "annulent", "d": "Un annulé est une personne dont le mariage a été déclaré nul et non concurrent par un tribunal.", "f": -1, "feqFlag": "NONE"}
+, {"w": "assureraient", "d": "Une assurance est un contrat qui protège contre les risques et les pertes financières liés à des événements imprévus.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affrianderions", "d": "Affranchissement : libération d'une personne ou d'un groupe de personnes de l'oppression, de la servitude ou du contrôle extérieur.", "f": -1, "feqFlag": "NONE"}
+, {"w": "actinite", "d": "Actinide : une série d'éléments chimiques avec des propriétés uniques et des applications spécifiques dans l'énergie nucléaire.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apprivoisons", "d": "Avoir une relation amoureuse ou émotionnelle avec quelqu'un, souvent sans frontières claires entre les deux parties.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acclamé", "d": "Acclamé : personne ou chose qui est largement appréciée et louée par un grand nombre de personnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ameubliriez", "d": "\"Améublir\" signifie rendre un espace ou une chose plus agréable, confortable et accueillant à l'œil et au toucher.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arrondies", "d": "Une arrondie est un mouvement d'écroulement ou de rotation des parties molles du corps humain, souvent causé par une chute.", "f": -1, "feqFlag": "NONE"}
+, {"w": "artabes", "d": "L'artabas est un jeu de société où les joueurs lancent des dés pour déplacer leurs pions sur une carte géographique.", "f": -1, "feqFlag": "NONE"}
+, {"w": "arc-boutaient", "d": "L'arc-boutant est un jeu traditionnel où deux équipes se battent avec des arcs et fleurs artificielles.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ablépharie", "d": "L'abélorphie est un trouble du développement des yeux, caractérisé par l'absence ou la faible présence d'un œil.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anélastiques", "d": "Les anélastiques sont des matériaux qui se déforment sans perdre leur forme une fois que l'appression est levée.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autodétruira", "d": "\"Autodétruire\" signifie se causer soi-même du mal ou faire des choses qui peuvent nuire à son bien-être physique ou émotionnel.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accumulatrices", "d": "Une accumulateur est un appareil qui stocke l'énergie électrique sous forme d'ions ou de molécules pour une utilisation future.", "f": -1, "feqFlag": "NONE"}
+, {"w": "autorégressives", "d": "Les autorégressifs sont des individus qui préfèrent les relations avec d'autres personnes similaires à elles-mêmes, partageant leurs intérêts et valeurs.", "f": -1, "feqFlag": "NONE"}
+, {"w": "automesura", "d": "L'automatisme est un phénomène où les individus suivent des règles ou des modèles sans conscience ni intention consciente.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ancres", "d": "Une ancre est un dispositif qui s'attache à une surface solide pour stabiliser ou empêcher le mouvement d'un objet marin.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aplanétiserai", "d": "Aplanéter signifie rendre un objet plat ou lisse, souvent par le biais d'une opération chirurgicale ou une intervention médicale.", "f": -1, "feqFlag": "NONE"}
+, {"w": "absconserai", "d": "Absconder signifie fuir ou échapper à une situation, un lieu ou une personne pour éviter une responsabilité ou une conséquence négative.", "f": -1, "feqFlag": "NONE"}
+, {"w": "augmentait", "d": "L'augmenter signifie accroître ou élever le niveau, la quantité ou l'intensité d'un élément dans un contexte donné.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agathois", "d": "Agathis est un genre d'arbres à feuilles persistantes, originaire du Pacifique Sud et connu pour ses graines aromatiques.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abélisais", "d": "Les abélisais sont des insectes à six pattes, souvent noirs ou bruns, qui se nourrissent d'insectes et de plantes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "anticoquelucheuse", "d": "Une personne atteinte d'anticoqueluchose, maladie causée par le virus du paludisme. Elle est infectée mais ne présente pas les symptômes graves.", "f": -1, "feqFlag": "NONE"}
+, {"w": "accalmissent", "d": "Accalmissement : période de calme et de paix après une tempête ou un conflit, caractérisée par une relative tranquillité.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acceptait", "d": "Accepter signifie reconnaître et approuver quelque chose, quelqu'un ou une situation sans résistance ni réticence.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aumônière", "d": "Une aumônière est un lieu où les gens déposent des offres pour aider ceux qui sont dans le besoin financièrement ou spirituellement.", "f": -1, "feqFlag": "NONE"}
+, {"w": "agenda de ministre", "d": "Un agenda du ministre est un document qui résume les tâches et responsabilités d'un ministre gouvernemental quotidienne.", "f": -1, "feqFlag": "NONE"}
+, {"w": "affermeraient", "d": "Une afférmation est une déclaration ou un jugement affirmatif, souvent exprimant une opinion ou une conviction personnelle.", "f": -1, "feqFlag": "NONE"}
+, {"w": "apériodiques", "d": "Des périodes ou des intervalles dans le temps où un événement répétitif se produit régulièrement et à intervalles fixes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aspidistras", "d": "L'aspis est une plante vivace, souvent utilisée pour décorer les espaces intérieurs et extérieurs avec ses feuilles vertes épaisses.", "f": -1, "feqFlag": "NONE"}
+, {"w": "ardennaises", "d": "Les Ardennes sont une région située dans le sud-est du paysage européen, connue pour ses forêts et montagnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "albinisme", "d": "L'albinisme est une maladie génétique qui affecte le développement des cellules pigmentaires du corps humain.", "f": -1, "feqFlag": "NONE"}
+, {"w": "aigrirent", "d": "Aigrirent est un verbe qui signifie rendre jaloux ou irrité, souvent par une action ou une situation injuste.", "f": -1, "feqFlag": "NONE"}
+, {"w": "acide indigotique", "d": "L'acide indigotique est un composé chimique utilisé comme antiseptique et antibactérien, connu pour ses propriétés médicinales.", "f": -1, "feqFlag": "NONE"}
+, {"w": "abayaient", "d": "L'abaya est un vêtement féminin traditionnel du Moyen-Orient, principalement porté par les femmes musulmanes dans certains pays.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à mesure que", "d": "\"À mesure que\" signifie \"au fur et à mesure que\", c'est-à-dire dans une succession continue ou progressive sans interruption.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à votre avis", "d": "À : expression générale utilisée pour indiquer une question, un défi ou une incertitude sur quelque chose.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à prix d’ or", "d": "À prix d'or : acheter quelque chose pour une valeur inférieure au prix du métal précieux, souvent avec des avantages supplémentaires.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à la con", "d": "À la con désigne une expression ironique ou humoristique pour décrire un comportement ridicule, inutile ou excessif.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à la régulière", "d": "À la régulière est un terme utilisé pour décrire une relation sexuelle répétitive et prévisible entre deux personnes.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à l’ avenant", "d": "À l'avenant signifie \"en accord\" ou \"avec consentement\", indiquant une approbation ou un concordance totale entre deux parties.", "f": -1, "feqFlag": "NONE"}
+, {"w": "à la ronde", "d": "À la ronde est un jeu où les joueurs se tiennent debout et passent une balle ou une boule d'un joueur à l'autre, sans arrêter le mouvement.", "f": -1, "feqFlag": "NONE"}
+]
