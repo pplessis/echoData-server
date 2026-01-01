@@ -1,8 +1,8 @@
 import os
 from flask          import Flask, render_template, request, jsonify, url_for, redirect
 from urllib.parse   import urlencode
-from app            import create_app
-from app.config     import logger, Config
+from .api            import create_app
+from .api.config     import logger, Config
 
 # Initialize Flask app with correct template folder path
 app = create_app()
