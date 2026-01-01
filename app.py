@@ -5,7 +5,7 @@ from api            import create_app
 from api.config     import logger, Config
 
 # Initialize Flask app with correct template folder path
-appication = create_app()
+app = create_app()
 
 # ============================================================================
 # APPLICATION STARTUP
@@ -28,8 +28,8 @@ if __name__ == '__main__':
         # Get Flask settings
         debug_mode = os.getenv('FLASK_DEBUG', 'False').lower() == 'true'
 
-        host = os.getenv('FLASK_HOST', appication.config['FLASK_HOST'])
-        port = int(os.getenv('FLASK_PORT', appication.config['FLASK_PORT']))
+        host = os.getenv('FLASK_HOST', Config.FLASK_HOST )
+        port = int( os.getenv('FLASK_PORT', Config.FLASK_PORT) )
 
         logger.info(f"Debug Mode: {debug_mode}")
         logger.info(f"Server: {host}:{port}")
@@ -37,7 +37,7 @@ if __name__ == '__main__':
         # Run Flask development server
         # NOTE: For production, use a WSGI server like Gunicorn:
         #   gunicorn -w 4 -b 0.0.0.0:5001 app:app
-        appication.run(host=host, port=port, debug=debug_mode)
+        app.run(host=host, port=port, debug=debug_mode)
 
     except ValueError as e:
         logger.error(f"Configuration error: {str(e)}")
