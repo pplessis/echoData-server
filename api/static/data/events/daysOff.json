@@ -15,21 +15,15 @@
     "format": "MM-DD"
   },
   {
-    "name": "Lundi de Pentecôt",
-    "date": "2025-06-09",
-    "format": "YYYY-MM-DD"
-  },
-    {
     "name": "Assomption",
     "date": "08-15",
-    "format": "YYYY-MM-DD"
+    "format": "MM-DD"
   },
   {
     "name": "Fête de la Fraternité",
     "date": "07-14",
     "format": "MM-DD"
   },
-
   {
     "name": "La toussaint",
     "date": "11-01",
@@ -44,5 +38,70 @@
     "name": "Noël",
     "date": "12-25",
     "format": "MM-DD"
+  },
+  {
+    "name": "Lundi de Pâques",
+    "date": "2026-04-06",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Lundi de Pentecôt",
+    "date": "2026-05-25",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Hivers",
+    "date": "2026-02-23",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Hivers",
+    "date": "2026-02-24",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Hivers",
+    "date": "2026-02-25",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Hivers",
+    "date": "2026-02-26",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Hivers",
+    "date": "2026-02-27",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Printemps",
+    "date": "2026-04-20",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Printemps",
+    "date": "2026-04-21",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Printemps",
+    "date": "2026-04-22",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Printemps",
+    "date": "2026-04-23",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances Printemps",
+    "date": "2026-04-24",
+    "format": "YYYY-MM-DD"
+  },
+  {
+    "name": "Vacances TEST",
+    "date": "2026-01-02",
+    "format": "YYYY-MM-DD"
   }
 ]

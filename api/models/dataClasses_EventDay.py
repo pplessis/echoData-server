@@ -18,9 +18,11 @@ class EventDay:
 
     @property
     def getDate (self) -> str:
+
         if self.date is not None:
             fmt = self.CONVERT_DATE_FORMAT.get(self.format, "%m-%d")
             return self.date.strftime(fmt)
+
         return ""
 
     @property
@@ -49,7 +51,7 @@ class EventDay:
             date_format = cls.dateFormat(data)
 
         date_obj = datetime.strptime(date_str, date_format)
-        return cls(name=data["name"], date=date_obj)
+        return cls( name=data["name"], date=date_obj, format=data.get("format", "MM-DD") )
 
     @classmethod
     def dateFormat(cls, data: dict) -> str:

@@ -127,7 +127,7 @@ class service_events_day:
 
         if not path.exists():
             logger.error (f"❌ File {jsonFile} not found.")
-            return []
+            raise FileNotFoundError(f"File not found.")
 
         try:
             with open(path, "r", encoding="utf-8") as f:
@@ -141,7 +141,8 @@ class service_events_day:
 
         except json.JSONDecodeError as e:
             logger.error (f"❌ Error JSON: {e}")
-            return []
+            raise e
+
         except Exception as e:
             logger.error (f"❌ Error: {e}")
-            return []
+            raise e

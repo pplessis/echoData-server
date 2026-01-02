@@ -43,3 +43,4 @@ if __name__ == '__main__':
         logger.error(f"Configuration error: {str(e)}")
         exit(1)
 
+

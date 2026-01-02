@@ -47,7 +47,7 @@ class Config:
     JSON_FILE_EVENTS = 'internationalDays.json'
     DATABASE_JSON_EVENTS = path.join(DATABASE_JSON_FOLDER, JSON_FILE_EVENTS)
 
-    JSON_FILE_DAYOFF = 'dayOff.json'
+    JSON_FILE_DAYOFF = 'daysOff.json'
     DATABASE_JSON_DAYOFF = path.join(DATABASE_JSON_FOLDER, JSON_FILE_DAYOFF)
 
     # Flask-Mail, etc.
