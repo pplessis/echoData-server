@@ -6,13 +6,16 @@ from typing import List, ClassVar
 # #######################################################
 @dataclass(slots=True)
 class EventDay:
+    name:str
+    date:datetime|None
+    format:str              = "MM-DD"
 
-    name: str
-    date: datetime | None
-    format: str = "MM-DD"
+    # New Fields
+    description:str|None    = ''
+    importance:int          = 0
+    category:str|None       = ''
 
     CONVERT_DATE_FORMAT: ClassVar[dict] = { "MM-DD": "%m-%d", "YYYY-MM-DD": "%Y-%m-%d" }
-
 
 # #######################################################
 
@@ -42,16 +45,21 @@ class EventDay:
         Returns:
             InternationalDay: _description_
         """
-        if len(data["date"]) < 6:
-            currentYear = datetime.today().year.__str__()
-            date_str = currentYear + '-' + data["date"]
-            date_format = "%Y-%m-%d"
-        else:
-            date_str = data["date"]
-            date_format = cls.dateFormat(data)
+        date_str = ''
+        try:
+            if len(data["date"]) < 6:
+                currentYear = datetime.today().year.__str__()
+                date_str = currentYear + '-' + data["date"]
+                date_format = "%Y-%m-%d"
+            else:
+                date_str = data["date"]
+                date_format = cls.dateFormat(data)
 
-        date_obj = datetime.strptime(date_str, date_format)
-        return cls( name=data["name"], date=date_obj, format=data.get("format", "MM-DD") )
+            date_obj = datetime.strptime(date_str, date_format)
+            return cls( name=data["name"], date=date_obj, format=data.get("format", "MM-DD") )
+
+        except ValueError as eValue :
+            raise ValueError( eValue, f"DATA: {date_str}")
 
     @classmethod
     def dateFormat(cls, data: dict) -> str:
@@ -62,7 +70,7 @@ class EventDay:
 
     @classmethod
     def todayEvent(cls, jours: List["EventDay"], jour: str) -> List["EventDay"]:
-        """Trouve tous les événements du jour donné (format 'MM-DD')."""
+        """ Trouve tous les événements du jour donné (format 'MM-DD')."""
         return [evt for evt in jours if evt.getDate == jour]
 
 # #######################################################

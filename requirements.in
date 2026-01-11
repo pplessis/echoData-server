@@ -1,0 +1,7 @@
+beautifulsoup4
+Flask
+gql
+python-dotenv
+Requests
+urllib3
+gunicorn

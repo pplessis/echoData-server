@@ -49,6 +49,9 @@ class Config:
 
     JSON_FILE_DAYOFF = 'daysOff.json'
     DATABASE_JSON_DAYOFF = path.join(DATABASE_JSON_FOLDER, JSON_FILE_DAYOFF)
-
+    
+    JSON_FILE_SAINTS = 'saints_formatted.json'
+    DATABASE_JSON_SAINTS = path.join(DATABASE_JSON_FOLDER, JSON_FILE_SAINTS)
+   
     # Flask-Mail, etc.
     MAIL_SERVER = environ.get('MAIL_SERVER')

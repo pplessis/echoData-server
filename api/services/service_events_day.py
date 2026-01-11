@@ -18,7 +18,7 @@ class service_events_day:
 # #######################################################
     def _load_events_from_file(self, fileJson: str | Path) -> list [EventDay]:
         path = Path(fileJson)
-        allEvents = service_events_day.loadJsonEvents(path)
+        allEvents = service_events_day.loadData(path)
         return allEvents
 
 # #######################################################
@@ -112,17 +112,8 @@ class service_events_day:
         return self.events
 
 # #######################################################
-    def get_is_day_off_today(self) -> bool:
-        return False
-
-# #######################################################
-    def get_events_Off(self) -> list[EventDay]:
-        return []
-
-
-# #######################################################
     @staticmethod
-    def loadJsonEvents (jsonFile: str | Path) -> List[EventDay]:
+    def loadData (jsonFile: str | Path) -> List[EventDay]:
         path = Path(jsonFile)
 
         if not path.exists():
