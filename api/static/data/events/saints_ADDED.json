@@ -1,0 +1,7378 @@
+[
+  {
+    "date": "01-01",
+    "name": "Ste-Marie Mère de Dieu",
+    "format": "MM-DD",
+    "rank": 5,
+    "prestige": "théotokos",
+    "source": "http://nominis.cef.fr:80/contenus/saint/349/Sainte-Marie--m%C3%A8re-de-Dieu.html"
+  },
+  {
+    "date": "01-01",
+    "name": "Ste-Euphrosine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-01",
+    "name": "St-Odilon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-02",
+    "name": "St-Adélard (ou Adalhard)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-02",
+    "name": "St-Basile le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-02",
+    "name": "St-Grégoire de Nazianze (le Jeune)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-02",
+    "name": "St-Macaire le Jeune",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-03",
+    "name": "Ste-Bertille",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/361/Sainte-Bertille-de-Thuringe.html"
+  },
+  {
+    "date": "01-03",
+    "name": "St-Daniel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-03",
+    "name": "Ste-Geneviève",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/355/Sainte-Genevi%C3%A8ve.html"
+  },
+  {
+    "date": "01-04",
+    "name": "Ste-Angèle de Foligno",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/365/Sainte-Ang%C3%A8le-de-Foligno.html"
+  },
+  {
+    "date": "01-04",
+    "name": "St-Grégoire de Langres",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-04",
+    "name": "St-Marcien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-04",
+    "name": "St-Robert de Reims",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-05",
+    "name": "Ste-Emilienne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/373/Sainte-Emilienne.html"
+  },
+  {
+    "date": "01-05",
+    "name": "St-Télesphore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-06",
+    "name": "St-Balthazar",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-06",
+    "name": "St-Gaspard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-06",
+    "name": "St-Guérin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-06",
+    "name": "St-Melaine de Rennes",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-06",
+    "name": "St-Melchior",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-07",
+    "name": "St-Aldric",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-07",
+    "name": "St-Canut Lavard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-07",
+    "name": "St-Raymond de Penyafort",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-07",
+    "name": "St-Reynold",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-08",
+    "name": "Ste-Gudule",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/391/Sainte-Gudule.html"
+  },
+  {
+    "date": "01-08",
+    "name": "St-Lucien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-09",
+    "name": "St-Adrien de Canterbury",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-09",
+    "name": "St-Julien l'Hospitalier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-10",
+    "name": "St-Guillaume de Bourges",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-10",
+    "name": "Ste-Séthride",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10642/Sainte-S%C3%A9thride.html"
+  },
+  {
+    "date": "01-11",
+    "name": "Ste-Fidelmie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-11",
+    "name": "St-Théodose le Cénobiarque",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-12",
+    "name": "St-Arcade",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-12",
+    "name": "Ste-Césarie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/416/Sainte-C%C3%A9sarie.html"
+  },
+  {
+    "date": "01-12",
+    "name": "Ste-Tatienne (ou Tatiana)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-13",
+    "name": "St-Hilaire de Poitiers",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-13",
+    "name": "St-Léonce de Césarée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-14",
+    "name": "St-Engelmar",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-14",
+    "name": "St-Félix de Nole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-14",
+    "name": "Ste-Macrine l'Ancienne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/5163/Sainte-Macrine-l-Ancienne.html"
+  },
+  {
+    "date": "01-15",
+    "name": "St-Paul l'Ermite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-15",
+    "name": "Ste-Tarcice",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/5219/Sainte-Tarcice.html"
+  },
+  {
+    "date": "01-16",
+    "name": "St-Marcel 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-17",
+    "name": "St-Antoine le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-17",
+    "name": "St-Sulpice le Pieux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-18",
+    "name": "Ste-Prisque (ou Prisca)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-18",
+    "name": "Ste-Thècle",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10653/Saintes-Arch%C3%A9la%C3%A9--Th%C3%A8cle-et-Suzanne.html"
+  },
+  {
+    "date": "01-19",
+    "name": "St-Canut",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-19",
+    "name": "Ste-Messaline",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-19",
+    "name": "Ste-Pia",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9989/Saints-Paul--Janvier--Saturnin--Jules--Pia--Germaine....html"
+  },
+  {
+    "date": "01-20",
+    "name": "St-Fabien ",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-20",
+    "name": "St-Sébastien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-21",
+    "name": "Ste-Agnès de Rome",
+    "format": "MM-DD",
+    "rank": 5,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/471/Sainte-Agn%C3%A8s-de-Rome.html"
+  },
+  {
+    "date": "01-21",
+    "name": "St-Fructueux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-22",
+    "name": "St-Vincent Pallotti",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-22",
+    "name": "St-Vincent, Diacre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-23",
+    "name": "St-Barnard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-23",
+    "name": "Ste-Erémentienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-23",
+    "name": "St-Ildefonse de Tolède",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-23",
+    "name": "Ste-Lufthilde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-24",
+    "name": "St-François de Sales",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-25",
+    "name": "Converstion de St-Paul",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-26",
+    "name": "St-Timothée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-26",
+    "name": "St-Tite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-27",
+    "name": "Ste-Angèle de Mérici",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/513/Sainte-Ang%C3%A8le-Merici.html"
+  },
+  {
+    "date": "01-27",
+    "name": "St-Julien du Mans",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-28",
+    "name": "St-Callinique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-28",
+    "name": "Ste-Cannera",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-29",
+    "name": "St-Gildas le Sage",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-29",
+    "name": "St-Valère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-29",
+    "name": "St-Sulpice",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-30",
+    "name": "Ste-Aldegonde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/529/Sainte-Aldegonde.html"
+  },
+  {
+    "date": "01-30",
+    "name": "Ste-Hyacinthe de Mariscotti",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-30",
+    "name": "Ste-Martine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/531/Sainte-Martine.html"
+  },
+  {
+    "date": "01-31",
+    "name": "St-Cyrus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-31",
+    "name": "St-Eusèbe, ermite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-31",
+    "name": "St-Jean Bosco",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-31",
+    "name": "Ste-Marcelle ",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "01-31",
+    "name": "St-Zotique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-01",
+    "name": "Ste-Brigitte de Kildare",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/538/Sainte-Brigitte-de-Kildare.html"
+  },
+  {
+    "date": "02-01",
+    "name": "St-Jean de la Grille",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-01",
+    "name": "St-Sévère de Ravenne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-02",
+    "name": "St-Adalbaud",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-02",
+    "name": "Chandeleur",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-02",
+    "name": "Ste Hadéloge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-03",
+    "name": "St-Anschaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-03",
+    "name": "St-Blaise de Sébaste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-04",
+    "name": "St-André Corsini",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-04",
+    "name": "St-Gilbert de Sempringham",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-04",
+    "name": "Ste-Jeanne de Valois",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/565/Sainte-Jeanne-de-Valois.html"
+  },
+  {
+    "date": "02-05",
+    "name": "Ste-Agathe de Catane",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/571/Sainte-Agathe-de-Catane.html"
+  },
+  {
+    "date": "02-06",
+    "name": "Ste-Dorothée",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/579/Sainte-Doroth%C3%A9e.html"
+  },
+  {
+    "date": "02-06",
+    "name": "St-Paul Miki",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-07",
+    "name": "Ste-Julienne de Bologne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/5595/Sainte-Julienne.html"
+  },
+  {
+    "date": "02-07",
+    "name": "St-Chryseuil",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-08",
+    "name": "St-Jean de Matha",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-08",
+    "name": "St-Jérôme Emiliani",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-09",
+    "name": "Ste-Apolline",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/599/Sainte-Apolline.html"
+  },
+  {
+    "date": "02-10",
+    "name": "Ste-Scholastique",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/609/Sainte-Scholastique.html"
+  },
+  {
+    "date": "02-11",
+    "name": "St-Adolphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-11",
+    "name": "Notre-Dame de Lourdes",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/615/Notre-Dame-de-Lourdes.html"
+  },
+  {
+    "date": "02-12",
+    "name": "Ste-Eulalie de Barcelone",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/620/Sainte-Eulalie-de-Barcelone.html"
+  },
+  {
+    "date": "02-13",
+    "name": "Ste-Béatrice d'Ornacieux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-13",
+    "name": "St-Polyeucte",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-14",
+    "name": "St-Méthode",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-14",
+    "name": "St-Valentin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-15",
+    "name": "St-Faustin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-15",
+    "name": "St-Jovite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-16",
+    "name": "Ste-Julienne de Nicomédie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/652/Sainte-Julienne-de-Nicom%C3%A9die.html"
+  },
+  {
+    "date": "02-16",
+    "name": "St-Onésime",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-17",
+    "name": "St Polychrone",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-17",
+    "name": "St-Théodule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-18",
+    "name": "St-Claude",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-18",
+    "name": "St-Flavien de Constantinople",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-18",
+    "name": "St-Fructule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-18",
+    "name": "Ste-Gertrude Comensoli",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-19",
+    "name": "St-Boniface de Lausanne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-19",
+    "name": "St-Conrad de Plaisance",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-19",
+    "name": "St-Gabin de Rome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-20",
+    "name": "Ste-Aimée",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/672/Sainte-Aim%C3%A9e.html"
+  },
+  {
+    "date": "02-21",
+    "name": "St-Pierre Damien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-22",
+    "name": "Chaire St-Pierre Apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-22",
+    "name": "Ste Marguerite de  Cortone",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-23",
+    "name": "St-Lazare",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-23",
+    "name": "St-Polycarpe de Smyrne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-24",
+    "name": "St-Modeste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-24",
+    "name": "Ste-Primitive",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-25",
+    "name": "St-Césaire de Nazianze",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-25",
+    "name": "St-Tarasius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-25",
+    "name": "Ste-Walburge",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/703/Sainte-Walburge.html"
+  },
+  {
+    "date": "02-26",
+    "name": "St-Alexandre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-26",
+    "name": "St-Nestor",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-27",
+    "name": "St-Gabriel de l'Addolorata",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-27",
+    "name": "Ste-Honorine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/711/Sainte-Honorine.html"
+  },
+  {
+    "date": "02-28",
+    "name": "St-Hilaire, pape",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-28",
+    "name": "St-Romain de Condat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "02-28",
+    "name": "St-Théophile d'Adana",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-01",
+    "name": "St-Albin d'Anvers",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-01",
+    "name": "St-Charles le bon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-01",
+    "name": "St-Guénolé",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-01",
+    "name": "Ste-Cunégonde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-02",
+    "name": "St-Siméon le Juste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-03",
+    "name": "Ste-Cunégonde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/735/Sainte-Cun%C3%A9gonde.html"
+  },
+  {
+    "date": "03-04",
+    "name": "St-Casimir",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-05",
+    "name": "St-Eusèbe de Crémone",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-05",
+    "name": "St-Jean-Joseph de la Croix",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-05",
+    "name": "Ste-Olive",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/753/Sainte-Olive.html"
+  },
+  {
+    "date": "03-05",
+    "name": "St-Théophile de Césarée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-06",
+    "name": "Ste-Agnès de Bohème",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/730/Sainte-Agn%C3%A8s-de-Boh%C3%A8me.html"
+  },
+  {
+    "date": "03-06",
+    "name": "St-Chrodegang (ou Rotgang)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-06",
+    "name": "Ste-Colette de Corbie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/759/Sainte-Colette-de-Corbie.html"
+  },
+  {
+    "date": "03-06",
+    "name": "St-Fridolin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-07",
+    "name": "Ste-Félicité",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/768/Saintes-Perp%C3%A9tue-et-F%C3%A9licit%C3%A9.html"
+  },
+  {
+    "date": "03-07",
+    "name": "Ste-Perpétue",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/768/Saintes-Perp%C3%A9tue-et-F%C3%A9licit%C3%A9.html"
+  },
+  {
+    "date": "03-07",
+    "name": "St-Révocat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-07",
+    "name": "St-Saturnin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-07",
+    "name": "St-Secondule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-07",
+    "name": "St-Thomas D'Aquin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-08",
+    "name": "St-Jean de Dieu",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-08",
+    "name": "St-Julien de Tolède",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-09",
+    "name": "Ste-Catherine de Bologne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/775/Sainte-Catherine-de-Bologne.html"
+  },
+  {
+    "date": "03-09",
+    "name": "St-Dominique Savio",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-09",
+    "name": "Ste-Françoise Romaine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/777/Sainte-Fran%C3%A7oise-Romaine.html"
+  },
+  {
+    "date": "03-09",
+    "name": "St-Grégoire de Nysse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-10",
+    "name": "St-Crescent",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-10",
+    "name": "St-Droctovée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-11",
+    "name": "St-Euloge de Cordoue",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-11",
+    "name": "St-Euthyme de Sardes",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-12",
+    "name": "St-Maximilien de théveste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-12",
+    "name": "Ste-Séraphine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-13",
+    "name": "Ste-Euphrasie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/798/Sainte-Euphrasie-de-Constantinople.html"
+  },
+  {
+    "date": "03-13",
+    "name": "St-Roderick",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-14",
+    "name": "Ste-Mathilde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/808/Sainte-Mathilde.html"
+  },
+  {
+    "date": "03-15",
+    "name": "St-Longin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-15",
+    "name": "Ste-Louise de Marillac",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/810/Sainte-Louise-de-Marillac.html"
+  },
+  {
+    "date": "03-16",
+    "name": "Ste-Eusébie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/814/Sainte-Eus%C3%A9bie.html"
+  },
+  {
+    "date": "03-16",
+    "name": "St-Héribert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-17",
+    "name": "Ste-Gertrude de Nivelle",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/629/Sainte-Gertrude-de-Nivelles.html"
+  },
+  {
+    "date": "03-17",
+    "name": "St-Patrick d'Irlande",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-18",
+    "name": "St-Cyrille de Jérusalem",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-19",
+    "name": "St-Joseph",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-20",
+    "name": "St-Herbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-20",
+    "name": "St-Rémy de Strasbourg",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-20",
+    "name": "St-Wulfran",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-21",
+    "name": "St-Birillus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-21",
+    "name": "St-Endée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-21",
+    "name": "St-Philémon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-22",
+    "name": "Ste-Léa",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/848/Sainte-L%C3%A9a.html"
+  },
+  {
+    "date": "03-22",
+    "name": "St-Octavien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-23",
+    "name": "St-Toribio de Mogrovejo",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-23",
+    "name": "St-Victorien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-24",
+    "name": "Ste-Catherine de Suède",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/853/Sainte-Catherine-de-Su%C3%A8de.html"
+  },
+  {
+    "date": "03-24",
+    "name": "St-Pigmène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-24",
+    "name": "St-Romule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-25",
+    "name": "St-Dismas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-25",
+    "name": "St-Humbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-26",
+    "name": "St-Bathuse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-26",
+    "name": "St-Dizier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-26",
+    "name": "St-Emmanuel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-27",
+    "name": "St-Jean d'Egypte",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-27",
+    "name": "St-Rupert de Salzbourg",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-28",
+    "name": "St-Gontran, roi de Bourgogne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-28",
+    "name": "Ste-Gundelinde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10778/Sainte-Gundelinde-d-Alsace.html"
+  },
+  {
+    "date": "03-29",
+    "name": "Ste-Gladys",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/884/Sainte-Gladys.html"
+  },
+  {
+    "date": "03-29",
+    "name": "St-Ludolphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-30",
+    "name": "St-Amédée IX",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-30",
+    "name": "St-Jean Climaque",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "03-31",
+    "name": "Ste-Balbine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/895/Sainte-Balbine.html"
+  },
+  {
+    "date": "03-31",
+    "name": "St-Benjamin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-01",
+    "name": "Ste-Catherine Thomas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-01",
+    "name": "St-Hugues de Grenoble",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-02",
+    "name": "St-François de Paule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-02",
+    "name": "Ste-Théodosie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/7141/Sainte-Th%C3%A9odosie.html"
+  },
+  {
+    "date": "04-02",
+    "name": "St-Urbain de Langres",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-03",
+    "name": "Ste-Agape",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-03",
+    "name": "St-Richard de Chichester",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-04",
+    "name": "St-Benoà®t Le More",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-04",
+    "name": "St-Isidore de  Séville",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-05",
+    "name": "Ste-Ethelburge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-05",
+    "name": "St-Gérard de Sauve-Majeure",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-05",
+    "name": "St-Vincent Ferrier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-06",
+    "name": "St-Amand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-06",
+    "name": "St-Marcellin de Carthage",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-06",
+    "name": "Ste-Modérate",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-07",
+    "name": "St-Hégésippe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-07",
+    "name": "St-Jean Baptiste de la  Salle",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-08",
+    "name": "St-Hérodion",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-08",
+    "name": "Ste-Julie Billart",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-09",
+    "name": "St-Gautier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-09",
+    "name": "St-Marcel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-09",
+    "name": "Ste-Marie de Cléophas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-10",
+    "name": "St-Badème",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-10",
+    "name": "St-Ezéchiel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-10",
+    "name": "St-Fulbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-11",
+    "name": "Ste-Gemma Galgani",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/954/Sainte-Gemma-Galgani.html"
+  },
+  {
+    "date": "04-11",
+    "name": "St-Stanislas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-12",
+    "name": "St-Jules 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-12",
+    "name": "St-Wigbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-13",
+    "name": "St-Hermenegild",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-13",
+    "name": "St-Martin 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-14",
+    "name": "Ste-Lidwine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/974/Sainte-Lidwine-de-Schiedam.html"
+  },
+  {
+    "date": "04-14",
+    "name": "St-Maxime",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-14",
+    "name": "St-Valérien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-15",
+    "name": "Ste-Anastasie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/309/Sainte-Anastasie.html"
+  },
+  {
+    "date": "04-15",
+    "name": "Ste-Basilisse",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/981/Sainte-Basilisse.html"
+  },
+  {
+    "date": "04-15",
+    "name": "St-Paterne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-16",
+    "name": "St-Benoà®t-Joseph Labre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-16",
+    "name": "Ste-Bernadette Soubirous",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/662/Sainte-Bernadette-Soubirous.html"
+  },
+  {
+    "date": "04-16",
+    "name": "St-Crémence",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-16",
+    "name": "St-Drogon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-16",
+    "name": "Ste-Encratide",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/988/Sainte-Encratide.html"
+  },
+  {
+    "date": "04-17",
+    "name": "St-Anicet",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-17",
+    "name": "St-Hermogène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-17",
+    "name": "St-Wandon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-18",
+    "name": "St-Eleuthère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-18",
+    "name": "St-Parfait",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-19",
+    "name": "St-Expédit",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-19",
+    "name": "St-Ursmer",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-20",
+    "name": "Ste-Agnès de Monte Pulciano",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1007/Sainte-Agn%C3%A8s-de-Montepulciano.html"
+  },
+  {
+    "date": "04-20",
+    "name": "Ste-Hildegonde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/6637/Sainte-Hildegonde.html"
+  },
+  {
+    "date": "04-20",
+    "name": "St-Théodore Trichinas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-20",
+    "name": "St-Théotime le Philosophe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-21",
+    "name": "St-Anselme de Cantorbéry",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-21",
+    "name": "St-Conrad de  Parhzam",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-22",
+    "name": "St-Alexandre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-22",
+    "name": "St-Caïus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-22",
+    "name": "Ste-Léonide",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1019/Saint-L%C3%A9onide.html"
+  },
+  {
+    "date": "04-22",
+    "name": "St-Soter",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-22",
+    "name": "Ste-Tarbula",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-23",
+    "name": "St-Fortunat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-23",
+    "name": "St-Georges de Lydda",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-23",
+    "name": "Ste-Pusinne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10854/Sainte-Pusinne.html"
+  },
+  {
+    "date": "04-24",
+    "name": "Ste-Beuve",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/6664/Sainte-Beuve.html"
+  },
+  {
+    "date": "04-24",
+    "name": "St-Fidèle de Sigmaringen",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-25",
+    "name": "St-Marc, apôre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-25",
+    "name": "St-Phébade",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-26",
+    "name": "St-Clet (ou Anaclet)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-26",
+    "name": "Ste-Exupérance",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/6681/Sainte-Exup%C3%A9rance.html"
+  },
+  {
+    "date": "04-26",
+    "name": "St-Marcellin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-27",
+    "name": "St-Anthime",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-27",
+    "name": "Ste-Zita",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1045/Sainte-Zita.html"
+  },
+  {
+    "date": "04-28",
+    "name": "St-Pierre Chanel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-28",
+    "name": "Ste-Prudence",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/6728/Saint-Prudence.html"
+  },
+  {
+    "date": "04-28",
+    "name": "St-Vital de Milan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-29",
+    "name": "Ste-Catherine de Sienne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1054/Sainte-Catherine-de-Sienne.html"
+  },
+  {
+    "date": "04-29",
+    "name": "St-Pierre de Vérone",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-30",
+    "name": "St-Pie V",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "04-30",
+    "name": "Ste-Sophie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/11651/Sainte-Sophie.html"
+  },
+  {
+    "date": "05-01",
+    "name": "St-Caprais",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-01",
+    "name": "St-Clair",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-01",
+    "name": "St-Justin le Philosophe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-01",
+    "name": "St-Marcellin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-01",
+    "name": "St-Pierre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "Ste-Blandine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "St-Erasme",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "St-Eugène 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "St-Marcellin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "St-Pothin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-02",
+    "name": "St-Sadoc",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-03",
+    "name": "St-Charles Lwanga",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-03",
+    "name": "Ste-Clotilde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-03",
+    "name": "St-Kévin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-04",
+    "name": "Ste-Burienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-04",
+    "name": "St-François de Caracciolo",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-04",
+    "name": "St-Métrophane",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-04",
+    "name": "St-Quirin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-04",
+    "name": "St-Rutilus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "St-Boniface",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "St-Dorothée de Tyr",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "St-Dorothée l'Archimandrite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "St-Dorothée le Jeune",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "Ste-Marcia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-05",
+    "name": "Ste-Valérie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-06",
+    "name": "St-Bertrand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-06",
+    "name": "St-Marcellin Champagnat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-06",
+    "name": "St-Norbert de  Xanten",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-06",
+    "name": "Ste-Pauline",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-07",
+    "name": "St-Mériadec",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-07",
+    "name": "Ste-Potamienne la Jeune",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-08",
+    "name": "Ste-Eustadiole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-08",
+    "name": "St-Médard de Noyon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-08",
+    "name": "Ste-Mélanie l'Ancienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-09",
+    "name": "St-Cumian",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-09",
+    "name": "St-Ephrem le Syrien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-09",
+    "name": "St-Félicien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-09",
+    "name": "St-Prime",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-10",
+    "name": "St-Bogomile",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-10",
+    "name": "St-Gétule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-10",
+    "name": "St-Landry",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-11",
+    "name": "St-Barnabé, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-11",
+    "name": "St-Hérébald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-12",
+    "name": "St-Gaspard Bertoni",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-12",
+    "name": "St-Gerbaud",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-12",
+    "name": "St-Guy",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-13",
+    "name": "St-Antoine de Padoue",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-13",
+    "name": "Ste-Aquiline",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-13",
+    "name": "St-Fandilas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-13",
+    "name": "St-Pérégrin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-13",
+    "name": "St-Triphyllius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-14",
+    "name": "St-Elisée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-14",
+    "name": "St-Rufin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-14",
+    "name": "St-Valère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-15",
+    "name": "Ste Bénilde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-15",
+    "name": "Ste-Eutrope",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-15",
+    "name": "Ste-Germaine Cousin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-16",
+    "name": "St-Cyr",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-16",
+    "name": "Ste-Lutgarde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-16",
+    "name": "St-Simplice de Bourges",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-17",
+    "name": "St-Hervé",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-17",
+    "name": "St-Raynier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-18",
+    "name": "St-Amand de Bordeaux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-18",
+    "name": "St-Léonce de Tripoli",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-19",
+    "name": "St-Gervais",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-19",
+    "name": "St-Innocent",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-19",
+    "name": "St-Romuald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-20",
+    "name": "Ste-Florence",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-20",
+    "name": "Ste-Hélène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-20",
+    "name": "St-Sylvère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-21",
+    "name": "St-Aloysius de Gonzague (ou Louis)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-21",
+    "name": "St-Démétrie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-21",
+    "name": "St-Eusèbe de Samosate",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-21",
+    "name": "St-Radulphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-22",
+    "name": "St-Jean Fisher",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-22",
+    "name": "St-Paulin de Nole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-22",
+    "name": "St-Thomas Moore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-23",
+    "name": "Ste-Etheldrède",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-23",
+    "name": "St-Libert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-24",
+    "name": "Jean le Baptiste (naissance de)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Adalbert d'Egmond",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "Ste-Fébronie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Gallican",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Guillaume d'Orange, dit le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Maxime de Turin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Molock",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "St-Prosper",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-25",
+    "name": "Sts-Salomon Ier et Salomon III",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-26",
+    "name": "St-Anthelme de Chignin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-26",
+    "name": "St-Baboléin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-26",
+    "name": "St-Maxence",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-26",
+    "name": "Ste-Persévérande",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-27",
+    "name": "St-Cyrille d'Alexandrie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-27",
+    "name": "St-Ferdinand d'Aragon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-27",
+    "name": "St-Ladislas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-28",
+    "name": "St-Irénée de Lyon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-29",
+    "name": "St-Pierre, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-29",
+    "name": "St-Paul, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-30",
+    "name": "Ste-Clotsende",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-30",
+    "name": "Ste-Erentrude",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-30",
+    "name": "St-Martial de Limoges",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-30",
+    "name": "Premiers martyrs de Rome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-31",
+    "name": "Ste-Pétronille",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-01",
+    "name": "St-Joseph",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-01",
+    "name": "Ste-Panacée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-01",
+    "name": "St-Sigismond",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-02",
+    "name": "St-Athanase d'Alexandrie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-02",
+    "name": "St-Célestin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-02",
+    "name": "Ste-Zoé",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-03",
+    "name": "Ste-Adalsinde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-03",
+    "name": "St-Alexandre 1er, pape",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-03",
+    "name": "St-Jacques le Mineur, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-03",
+    "name": "St-Juvénal de Narni",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-03",
+    "name": "St-Philippe, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-04",
+    "name": "St-Florian",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-04",
+    "name": "St-Godard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-04",
+    "name": "St-Silvain",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-05",
+    "name": "St-Ange de Jérusalem",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-05",
+    "name": "Ste-Jutta",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-05",
+    "name": "St-Pérégrin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-06",
+    "name": "Ste-Bénédicte",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-06",
+    "name": "St-Héliodore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-07",
+    "name": "Ste-Augustin de Nicomédie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-07",
+    "name": "St-Sérène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-07",
+    "name": "St-Villain",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-08",
+    "name": "St-Désiré, évêque de Bourges",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-08",
+    "name": "St-Hellade d'Auxerre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-08",
+    "name": "St-Wiron",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-09",
+    "name": "St-Béat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-09",
+    "name": "St-Géronce",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-10",
+    "name": "St-Antonin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-10",
+    "name": "St-Isidore le Laboureur",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-10",
+    "name": "Ste-Solange",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-11",
+    "name": "St-Gengoul",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-11",
+    "name": "St-Mayeul",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-11",
+    "name": "St-Mamert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-12",
+    "name": "St-Achilée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-12",
+    "name": "St-Nérée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-12",
+    "name": "St-Pancrace",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-12",
+    "name": "Ste-Rictrude",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-13",
+    "name": "Ste-Glycérie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-13",
+    "name": "St-Mael",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-13",
+    "name": "St-Servais",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-14",
+    "name": "St-Matthias",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-15",
+    "name": "Ste-Césarie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-15",
+    "name": "St-Crésiphon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-15",
+    "name": "Ste-Denise",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-16",
+    "name": "St-Honorat d'Amiens",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-16",
+    "name": "St-Jean Népomucène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-16",
+    "name": "St-Ubald Baldassini",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-17",
+    "name": "St-Adrion",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-17",
+    "name": "St-Héradius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-17",
+    "name": "St-Pascal Baylon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-18",
+    "name": "St-Eric",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-18",
+    "name": "St-Félix de Cantalice",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-18",
+    "name": "St-Jean 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-18",
+    "name": "Ste-Juliette d'Ancyre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-18",
+    "name": "St-Venance",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-19",
+    "name": "St-Pierre Célestin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-19",
+    "name": "Ste-Pudentienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-19",
+    "name": "St-Yves  de Kermartin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-20",
+    "name": "St-Bernardin de Sienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-20",
+    "name": "Ste-Plautilla",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-21",
+    "name": "St-Constantin 1er le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-21",
+    "name": "St-Nicostrate",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-21",
+    "name": "St-Théopompe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-22",
+    "name": "St-Emile",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-22",
+    "name": "Ste-Julie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/7354/Saint-Julien.html"
+  },
+  {
+    "date": "06-22",
+    "name": "Ste-Rita de Cascia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-23",
+    "name": "St-Eutyche",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-23",
+    "name": "St-Mercurial",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-23",
+    "name": "St-Yves de Chartres",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-24",
+    "name": "St-Donatien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-24",
+    "name": "St-Rogatien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-25",
+    "name": "St-Bède le Vénérable",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-25",
+    "name": "St-Grégoire VII",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-25",
+    "name": "St-Injurieux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-25",
+    "name": "Ste-Marie-Madeleine de Pazzi",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-26",
+    "name": "St-Bérenger",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-26",
+    "name": "St-Philippe de Néri",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-27",
+    "name": "St-Augustin de Cantorbéry",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-27",
+    "name": "St-Ranulphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-27",
+    "name": "Ste-Restitute",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-28",
+    "name": "St-Chéron",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-28",
+    "name": "St-Germain de Paris",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-29",
+    "name": "St-Conon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-29",
+    "name": "St-Martyrius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-29",
+    "name": "St-Maximin de Trèves",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-29",
+    "name": "St-Sisinnius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-30",
+    "name": "Ste-Emmélie de Césarée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-30",
+    "name": "St-Ferdinand III",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "06-30",
+    "name": "Ste-Jeanne D'Arc",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "05-31",
+    "name": "Ste-Pétronille",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-01",
+    "name": "St-Domitien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-01",
+    "name": "St-Gall de Clermont",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-01",
+    "name": "St-Théodoric (ou Thierry)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-02",
+    "name": "St-Martinien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-02",
+    "name": "Ste-Monégonde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-02",
+    "name": "St-Othon de Bamberg",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-02",
+    "name": "Ste-Symphorose",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-03",
+    "name": "St-Anatole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-03",
+    "name": "St-Thomas, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-04",
+    "name": "Ste-Berthe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-04",
+    "name": "Ste-Elisabeth du Portugal",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-05",
+    "name": "St-Antoine-Marie Zaccaria",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-05",
+    "name": "St-Blanche",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-05",
+    "name": "St-Modivène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-06",
+    "name": "Ste-Dominique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-06",
+    "name": "Ste-Lucie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-06",
+    "name": "Ste-Maria Goretti",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-07",
+    "name": "St-Félix de Nantes",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-07",
+    "name": "St-Prosper d'Aquitaine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-08",
+    "name": "St-Edgar le Pacifique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-08",
+    "name": "Ste-Landrade",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-08",
+    "name": "Ste-Priscilla",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-08",
+    "name": "St-Procope",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-08",
+    "name": "St-Withburge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-09",
+    "name": "Ste-Evrilde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-09",
+    "name": "Ste-Procule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-09",
+    "name": "Ste-Véronique Giuliani",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-10",
+    "name": "Ste-Rufine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-10",
+    "name": "Ste-Seconde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-11",
+    "name": "St-Benoà®t de Nursie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-11",
+    "name": "St-Hidulphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-11",
+    "name": "St-Jean de Bergame",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-11",
+    "name": "Ste-Olga de Russie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1486/Sainte-Olga.html"
+  },
+  {
+    "date": "07-11",
+    "name": "St-Pie 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-11",
+    "name": "St-Savin (ou Sabin)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-12",
+    "name": "St-Jean Gualbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-12",
+    "name": "Ste-Marcienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-12",
+    "name": "St-Nabor",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-12",
+    "name": "Ste-Véronique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-13",
+    "name": "St-Henri II de Germanie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-13",
+    "name": "St-Joà«l",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-14",
+    "name": "St-Camille de Lellis",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-15",
+    "name": "St-Bonaventure",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-15",
+    "name": "St-Donald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-16",
+    "name": "Ste-Marie-Madeleine Postel",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1519/Sainte-Marie-Madeleine-Postel.html"
+  },
+  {
+    "date": "07-17",
+    "name": "St-Alexis",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-17",
+    "name": "St-Ennode",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-17",
+    "name": "St-Léon IV",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-17",
+    "name": "Ste-Marcelline",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1525/Sainte-Marcelline.html"
+  },
+  {
+    "date": "07-18",
+    "name": "St-Arnoul de Metz",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-18",
+    "name": "St-Frédéric",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-19",
+    "name": "St-Arsène le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-19",
+    "name": "Ste-Macrine la Jeune",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/7643/Sainte-Macrine-la-Jeune.html"
+  },
+  {
+    "date": "07-19",
+    "name": "Ste-Marie d'Espagne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-20",
+    "name": "St-Joseph Barsabas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-20",
+    "name": "Ste-Marguerite d'Antioche",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1542/Sainte-Marguerite-d-Antioche.html"
+  },
+  {
+    "date": "07-20",
+    "name": "Ste-Sévère",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/11032/Sainte-S%C3%A9v%C3%A8re.html"
+  },
+  {
+    "date": "07-21",
+    "name": "St-Laurent de Brindisi",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-21",
+    "name": "Ste-Praxède",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1547/Sainte-Prax%C3%A8de.html"
+  },
+  {
+    "date": "07-22",
+    "name": "Ste-Marie-Madeleine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1549/Sainte-Marie-Madeleine.html"
+  },
+  {
+    "date": "07-22",
+    "name": "Ste-Wandrille",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1550/Saint-Wandrille.html"
+  },
+  {
+    "date": "07-23",
+    "name": "St-Apollinaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-23",
+    "name": "Ste-Brigitte de Suède",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1552/Sainte-Brigitte-de-Su%C3%A8de.html"
+  },
+  {
+    "date": "07-24",
+    "name": "Ste-Christine de Bolsène",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1557/Sainte-Christine-l-Admirable.html"
+  },
+  {
+    "date": "07-24",
+    "name": "St-Wulfhad",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-25",
+    "name": "St-Christophe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-25",
+    "name": "St-Jacques, dit le Majeur",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-25",
+    "name": "Ste-Valentine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2151/Sainte-Valentine.html"
+  },
+  {
+    "date": "07-26",
+    "name": "Ste-Anne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1564/Saints-Anne-et-Joachim.html"
+  },
+  {
+    "date": "07-26",
+    "name": "St-Joachim",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-27",
+    "name": "St-Désiré",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-27",
+    "name": "Ste-Natalie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-27",
+    "name": "St-Panthaléon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-28",
+    "name": "St-Botwin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-28",
+    "name": "St-Nazaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-28",
+    "name": "St-Samson",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-28",
+    "name": "St-Victor 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-29",
+    "name": "Ste-Marthe de Béthanie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/13504/Saints-Marthe--Marie-et-Lazare.html"
+  },
+  {
+    "date": "07-30",
+    "name": "Ste-Juliette de Césarée",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1593/Sainte-Juliette.html"
+  },
+  {
+    "date": "07-30",
+    "name": "St-Pierre Chrysologue",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-31",
+    "name": "St-Germain d'Auxerre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "07-31",
+    "name": "St-Ignace de Loyola",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-01",
+    "name": "Ste-Almède",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-01",
+    "name": "St-Alphonse-Marie de Liguori",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-01",
+    "name": "St-Exupère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-02",
+    "name": "St-Eusèbe de Verceil",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-03",
+    "name": "Ste-Lydie la Pourpre",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1614/Sainte-Lydie.html"
+  },
+  {
+    "date": "08-04",
+    "name": "St-Jean-Marie Baptiste Vianney",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-05",
+    "name": "St-Abel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-05",
+    "name": "St-Memmius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-05",
+    "name": "St-Oswald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-06",
+    "name": "St-Sixte II",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-06",
+    "name": "Transfiguration",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1633/Transfiguration-du-Seigneur.html"
+  },
+  {
+    "date": "08-07",
+    "name": "St-Albert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-07",
+    "name": "St-Donat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-07",
+    "name": "St-Gaétan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-08",
+    "name": "St-Cyriaque",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-08",
+    "name": "St-Dominique de Guzman",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-09",
+    "name": "St-Amour (ou Amor)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-10",
+    "name": "St-Blain",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-10",
+    "name": "St-Deusdedit (ou Dieudonné)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-10",
+    "name": "St-Laurent De Rome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-11",
+    "name": "Ste-Claire D'Assise",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1654/Sainte-Claire-d-Assise.html"
+  },
+  {
+    "date": "08-11",
+    "name": "Ste-Suzanne",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9872/Sainte-Suzanne.html"
+  },
+  {
+    "date": "08-12",
+    "name": "St-Euplius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-12",
+    "name": "Ste-Julienne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-13",
+    "name": "Ste-Concordia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-13",
+    "name": "St-Jean Berchmans",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-13",
+    "name": "Ste-Radegonde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1666/Sainte-Radegonde-de-Wellenbourg.html"
+  },
+  {
+    "date": "08-14",
+    "name": "St-Eusèbe de Rome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-14",
+    "name": "St-Hippolyte",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-14",
+    "name": "St-Maximien Kolbe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-14",
+    "name": "Ste-Radegonde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-15",
+    "name": "St-Alfred",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-15",
+    "name": "St-Eusèbe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-15",
+    "name": "Assomption (Fête de Marie)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-15",
+    "name": "St-Tarcisius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-16",
+    "name": "St-Armagillus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-16",
+    "name": "St-Etienne de Hongrie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-16",
+    "name": "St-Frimbaud",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-16",
+    "name": "St-Roch",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-17",
+    "name": "St-Hyacinthe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-18",
+    "name": "St-Agapet",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-18",
+    "name": "Ste-Hélène",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1687/Sainte-H%C3%A9l%C3%A8ne.html"
+  },
+  {
+    "date": "08-19",
+    "name": "St-Jean Eudes",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-20",
+    "name": "St-Bernard de Clairvaux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-21",
+    "name": "St-Pie X",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-22",
+    "name": "St-Fabrice",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-22",
+    "name": "St-Philibert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-22",
+    "name": "St-Symphorien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-23",
+    "name": "Ste-Rose de Lima",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1723/Sainte-Rose-de-Lima.html"
+  },
+  {
+    "date": "08-24",
+    "name": "St-Barthélémy",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-24",
+    "name": "St-Ouen",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-25",
+    "name": "St-Joseph de Calsanz",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-25",
+    "name": "St-Louis IX de France",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-26",
+    "name": "St-Zéphirin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-27",
+    "name": "Ste-Monique",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1095/Sainte-Monique.html"
+  },
+  {
+    "date": "08-28",
+    "name": "St-Augustin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-28",
+    "name": "St-Julien de Brioude",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-29",
+    "name": "Ste-Sabine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1761/Sainte-Sabine.html"
+  },
+  {
+    "date": "08-30",
+    "name": "St-Fiacre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-31",
+    "name": "St-Aristide",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "08-31",
+    "name": "St-Raymond Nonnat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-01",
+    "name": "St-Gilles",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-01",
+    "name": "Ste-Vérène",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10114/Sainte-V%C3%A9r%C3%A8ne.html"
+  },
+  {
+    "date": "09-02",
+    "name": "St-Agricole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-02",
+    "name": "St-Concorde",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-02",
+    "name": "St-Elpide",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-03",
+    "name": "St-Grégoire 1er, \ndit le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-03",
+    "name": "St-Siméon stylite le Jeune",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-04",
+    "name": "St-Boniface 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-04",
+    "name": "St-Calétric",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-04",
+    "name": "Ste-Rosalie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1799/Sainte-Rosalie.html"
+  },
+  {
+    "date": "09-04",
+    "name": "St-Vitalique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-05",
+    "name": "St-Bertin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-05",
+    "name": "St-Laurent Justinien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-06",
+    "name": "St-Bertrand de Garrigues",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-06",
+    "name": "St-Eustache",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-07",
+    "name": "St-Cloud",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-07",
+    "name": "Ste-Reine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1807/Sainte-Reine.html"
+  },
+  {
+    "date": "09-08",
+    "name": "St-Adrien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-08",
+    "name": "Naissance de Marie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-09",
+    "name": "St-Gorgon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-09",
+    "name": "St-Omer",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-09",
+    "name": "St-Pierre Claver",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-09",
+    "name": "St-Tiburce",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-10",
+    "name": "St-Aubert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-10",
+    "name": "St-Nicolas de Tolentino",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-10",
+    "name": "Ste  Pulchérie Auguste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-11",
+    "name": "St-Adelphe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-11",
+    "name": "St-Patient",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-11",
+    "name": "St-Protus",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-12",
+    "name": "St-Autonome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-12",
+    "name": "St-Curonote",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-12",
+    "name": "St-Théodule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-13",
+    "name": "St-Aimé",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-13",
+    "name": "St-Israà«l",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-13",
+    "name": "St-Jean  Chrysostome",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-13",
+    "name": "St-Macrobe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-13",
+    "name": "St-Nectaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-14",
+    "name": "Croix Glorieuse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-14",
+    "name": "St-Céréal",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-14",
+    "name": "St-Général",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-14",
+    "name": "St-Materne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-15",
+    "name": "St-Alfred le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-15",
+    "name": "St-Nicomède",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-16",
+    "name": "St-Corneille",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-16",
+    "name": "St-Cyprien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-16",
+    "name": "Ste-Edith de Wilton",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/37/Sainte-Edith-de-Barking.html"
+  },
+  {
+    "date": "09-16",
+    "name": "St-Victor III",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-17",
+    "name": "Ste-Hildegarde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1865/Sainte-Hildegarde-de-Bingen.html"
+  },
+  {
+    "date": "09-17",
+    "name": "St-Lambert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-18",
+    "name": "St-Hygbald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-18",
+    "name": "St-Joseph de Cupertino",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-18",
+    "name": "Ste-Richarde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1878/Sainte-Richarde.html"
+  },
+  {
+    "date": "09-19",
+    "name": "Ste-Constancia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-19",
+    "name": "Ste-Emilie de Rodat",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1880/Sainte-Marie-Emilie-de-Rodat.html"
+  },
+  {
+    "date": "09-19",
+    "name": "St-Janvier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-19",
+    "name": "St-Théodore de Tarse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-20",
+    "name": "St-André Kim",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-20",
+    "name": "St-Eustache",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-20",
+    "name": "St-Jacques Chastan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-20",
+    "name": "St-Laurent Imbert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-20",
+    "name": "St-Pierre Maubant",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-21",
+    "name": "St-Matthieu, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-22",
+    "name": "Ste-Salaberge",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1898/Sainte-Salaberge.html"
+  },
+  {
+    "date": "09-22",
+    "name": "St-Thomas de Villeneuve",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-23",
+    "name": "St-Constance",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-23",
+    "name": "St-Lin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-24",
+    "name": "St-Cuniald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-24",
+    "name": "St-Isarne de Toulouse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-25",
+    "name": "St-Cléophas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-25",
+    "name": "St-Firmin 1er Damien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-25",
+    "name": "St-Hermann le Boà®teux",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-26",
+    "name": "St-Côme",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-26",
+    "name": "St-Damien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-27",
+    "name": "St-Vincent de Paul",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-28",
+    "name": "St-Annemond",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-28",
+    "name": "Ste-Eustochium",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1930/Sainte-Eustochium.html"
+  },
+  {
+    "date": "09-28",
+    "name": "St-Wanceslas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-29",
+    "name": "St-Gabriel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-29",
+    "name": "St-Gudélie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-29",
+    "name": "St-Michel",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-29",
+    "name": "St-Raphael",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-30",
+    "name": "St-Grégoire l'Illuminateur",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-30",
+    "name": "St-Jérôme",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "09-30",
+    "name": "St-Léopard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-01",
+    "name": "Ste-Thérèse de Lisieux",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1949/Sainte-Th%C3%A9r%C3%A8se-de-l-Enfant-J%C3%A9sus.html"
+  },
+  {
+    "date": "10-02",
+    "name": "St-Léger",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-03",
+    "name": "St-Ewald",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-03",
+    "name": "St-Gérard de Brogne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-04",
+    "name": "St-Aurée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-04",
+    "name": "St-François d'Assise",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-05",
+    "name": "Ste-Flavie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/12684/Saints-Firmat-et-Flavienne.html"
+  },
+  {
+    "date": "10-05",
+    "name": "St-Placide",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-06",
+    "name": "St-Bruno de Cologne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-07",
+    "name": "St-Serge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-07",
+    "name": "N. Dame du Rosaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-08",
+    "name": "Ste-Pélagie la Pénitente",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/1978/Sainte-P%C3%A9lagie-la-P%C3%A9nitente.html"
+  },
+  {
+    "date": "10-09",
+    "name": "St-Denis, évêque de Paris",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-09",
+    "name": "St-Dominin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-09",
+    "name": "St-Eleuthère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-09",
+    "name": "St-Jean Léonardi",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-09",
+    "name": "St-Rustique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-10",
+    "name": "Ste-Eulampie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/8493/Saints-Eulampe-et-Eulampie.html"
+  },
+  {
+    "date": "10-10",
+    "name": "St-François de Borgia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-10",
+    "name": "St-Gédéon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-11",
+    "name": "St-Anastase 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-11",
+    "name": "St-Firmin d'Uzès",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-11",
+    "name": "Ste-Zénaïde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10944/Saintes-Z%C3%A9na%C3%AFde-et-Philonille.html"
+  },
+  {
+    "date": "10-12",
+    "name": "St-Pantale",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-12",
+    "name": "St-Séraphin du Mont Granario",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-12",
+    "name": "St-Wilfried",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-13",
+    "name": "St-Géraud d'Aurillac",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-13",
+    "name": "St-Théophile  d'Antioche",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-14",
+    "name": "St-Calixte 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-14",
+    "name": "St-Juste de Lyon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-15",
+    "name": "St-Agilée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-15",
+    "name": "Ste-Thérèse d'Avilla",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-16",
+    "name": "St-Bertrand de Comminges",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-16",
+    "name": "Ste-Eremberte",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-16",
+    "name": "St-Gall",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-16",
+    "name": "St-Gérard Magella",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-16",
+    "name": "Ste-Hedwige",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2026/Sainte-Hedwige.html"
+  },
+  {
+    "date": "10-16",
+    "name": "Ste-Marguerite-Marie Alacoque",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2028/Sainte-Marguerite-Marie-Alacoque.html"
+  },
+  {
+    "date": "10-17",
+    "name": "St-Ignace de Constantinople",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-18",
+    "name": "Ste-Gwendolène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-18",
+    "name": "St-Luc, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-18",
+    "name": "Ste-Tryphonie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-19",
+    "name": "St-Isaac Jogues",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-19",
+    "name": "St-Jean de Bréboeuf",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-19",
+    "name": "St-Paul de la croix",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-19",
+    "name": "St-Pierre d'Alcantara",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-19",
+    "name": "St-René Goupil",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-20",
+    "name": "Ste-Adeline",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2044/Sainte-Adeline.html"
+  },
+  {
+    "date": "10-20",
+    "name": "Ste-Irène",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2047/Sainte-Ir%C3%A8ne-de-Tomar.html"
+  },
+  {
+    "date": "10-21",
+    "name": "Ste-Céline (ou Cilinia)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-21",
+    "name": "St-Hilarion",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-21",
+    "name": "Ste-Ursule",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2055/Sainte-Ursule.html"
+  },
+  {
+    "date": "10-22",
+    "name": "St-Philippe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-22",
+    "name": "St-Vallier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-23",
+    "name": "St-Hyacinthe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-23",
+    "name": "St-Jean de Capistran",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-24",
+    "name": "St-Antoine-Marie Claret",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-25",
+    "name": "St-Chrysanthe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-25",
+    "name": "St-Crépin (ou Crispin)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-25",
+    "name": "Ste-Darie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2075/Saints-Chrysante-et-Darie.html"
+  },
+  {
+    "date": "10-26",
+    "name": "St-Evariste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-26",
+    "name": "St-Rustique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-27",
+    "name": "Ste-Antoinette",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/2149/Bienheureuse-Antoinette.html"
+  },
+  {
+    "date": "10-27",
+    "name": "Ste-Frumence",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/8725/Saint-Frumence.html"
+  },
+  {
+    "date": "10-28",
+    "name": "St-Cyrille",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-28",
+    "name": "St-Jude",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-28",
+    "name": "St-Simon le Cananéen",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-29",
+    "name": "St-Narcisse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-30",
+    "name": "St-Alphonse Rodriguez",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-31",
+    "name": "St-Foillan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "10-31",
+    "name": "St-Quentin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-01",
+    "name": "St-Austremoine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-01",
+    "name": "St-Floribert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-01",
+    "name": "St-Mathurin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-01",
+    "name": "Toussaint (tous les saints)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-02",
+    "name": "St-Anempodiste",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-02",
+    "name": "Défunts",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-02",
+    "name": "St-Elpidephore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-03",
+    "name": "St-Gwénaà«l",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-03",
+    "name": "St-Hubert",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-03",
+    "name": "St-Martin de  Porrès",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-04",
+    "name": "St-Charles Borromée",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-04",
+    "name": "St-Porphyre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-05",
+    "name": "Ste-Elisabeth (mère de Jean-Baptiste)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-05",
+    "name": "St-Zacharie (père de Jean-Baptiste)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-06",
+    "name": "St-Léonard de Noblac",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-07",
+    "name": "Ste-Carine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-07",
+    "name": "St-Ernest",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-07",
+    "name": "St-Florent de Strasbourg",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-07",
+    "name": "St-Willibrord",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-08",
+    "name": "St-Geoffroy (ou Godefroy)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-08",
+    "name": "St-Maur",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-09",
+    "name": "St-Théodore le Tiron",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-10",
+    "name": "St-André Avellin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-10",
+    "name": "St-Léon le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-10",
+    "name": "St-Tryphon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-11",
+    "name": "St-Martin de Tours",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-11",
+    "name": "St-Théodore le Studite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-12",
+    "name": "St-Christin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-12",
+    "name": "St-Josaphat",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-13",
+    "name": "St-Brice",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-13",
+    "name": "St-Didace",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-13",
+    "name": "St-Nicolas 1er le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-14",
+    "name": "St-Saens",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-14",
+    "name": "St-Sérapion",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-15",
+    "name": "St-Albert le Grand",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-16",
+    "name": "Ste-Gertrude la Grande",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/154/Sainte-Gertrude-de-Helfta.html"
+  },
+  {
+    "date": "11-16",
+    "name": "Ste-Marguerite d'Ecosse",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9878/Sainte-Marguerite-d-Ecosse.html"
+  },
+  {
+    "date": "11-17",
+    "name": "St-Aignan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-17",
+    "name": "Ste-Elisabeth de Hongrie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/5/Sainte-Elisabeth-de-Thuringe.html"
+  },
+  {
+    "date": "11-17",
+    "name": "St-Grégoire le Thaumaturge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-18",
+    "name": "St-Hésyque d'Antioche",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-18",
+    "name": "St-Mummole",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-18",
+    "name": "St-Pierre, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-18",
+    "name": "St-Tanguy",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-19",
+    "name": "Ste-Ermenburge",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9208/Sainte-Ermenburge.html"
+  },
+  {
+    "date": "11-19",
+    "name": "St-Exupère",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-20",
+    "name": "St-Edmond",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-20",
+    "name": "St-Félix de Valois",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-20",
+    "name": "St-Octave",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-21",
+    "name": "Ste-Amalberge",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9204/Sainte-Amalberge.html"
+  },
+  {
+    "date": "11-21",
+    "name": "Présence de Marie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-22",
+    "name": "Ste-Appia",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-22",
+    "name": "Ste-Cécile",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/18/Sainte-C%C3%A9cile-de-Rome.html"
+  },
+  {
+    "date": "11-22",
+    "name": "St-Philémon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-23",
+    "name": "St-Clément 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-24",
+    "name": "Ste-Flora",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/176/Saintes-Flora-et-Marie.html"
+  },
+  {
+    "date": "11-24",
+    "name": "St-Chrysogone",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-24",
+    "name": "Ste-Maria",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/13319/V%C3%A9n%C3%A9rable-Luigi-Maria-Raineri.html"
+  },
+  {
+    "date": "11-24",
+    "name": "St-Romain du Mans",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-25",
+    "name": "Ste-Catherine d'Alexandrie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/21/Sainte-Catherine-d-Alexandrie.html"
+  },
+  {
+    "date": "11-25",
+    "name": "Ste-Joconde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9330/Sainte-Joconde.html"
+  },
+  {
+    "date": "11-25",
+    "name": "St-Moïse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-26",
+    "name": "St-Conrad de Constance",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-26",
+    "name": "Ste-Delphine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9545/Bienheureuse-Delphine-de-Sabran.html"
+  },
+  {
+    "date": "11-26",
+    "name": "St-Gautier d'Aulne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-27",
+    "name": "St-Maxime de Riez",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-27",
+    "name": "St-Séverin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-28",
+    "name": "Ste-Catherine Labouré",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "docteur",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9305/Sainte-Catherine-Labour%C3%A9.html"
+  },
+  {
+    "date": "11-28",
+    "name": "St-Jacques de la  Marche",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-28",
+    "name": "St-Sosthène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-29",
+    "name": "St-Hilaire",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-29",
+    "name": "Ste-Illuminée",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/10601/Sainte-Illumin%C3%A9e.html"
+  },
+  {
+    "date": "11-29",
+    "name": "St-Saturnin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-30",
+    "name": "St-André, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "11-30",
+    "name": "Ste-Justine",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-01",
+    "name": "St-Diodore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-01",
+    "name": "St-Eloi",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-02",
+    "name": "Ste-Aurélie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-02",
+    "name": "Ste-Viviane (ou Bibiane)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-03",
+    "name": "St-François-Xavier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-04",
+    "name": "Ste-Barbe",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/213/Sainte-Barbe.html"
+  },
+  {
+    "date": "12-04",
+    "name": "St-Jean Damascène",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-05",
+    "name": "St-Gérard",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-05",
+    "name": "St-Nicet",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-05",
+    "name": "St-Sabbas",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-06",
+    "name": "St-Nicolas de Myre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-07",
+    "name": "St-Agathon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-07",
+    "name": "St-Ambroise de Milan",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-08",
+    "name": "Ste-Gonthilde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9520/Sainte-Gonthilde.html"
+  },
+  {
+    "date": "12-08",
+    "name": "Immaculée conception",
+    "format": "MM-DD",
+    "rank": 5,
+    "prestige": "mère de dieu",
+    "source": "http://nominis.cef.fr:80/contenus/saint/235/Immacul%C3%A9e-Conception.html"
+  },
+  {
+    "date": "12-08",
+    "name": "St-Romaric",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-09",
+    "name": "Ste-Léocadie",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/239/Sainte-L%C3%A9ocadie.html"
+  },
+  {
+    "date": "12-09",
+    "name": "St-Pierre Fourier",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-10",
+    "name": "St-Miltiade",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-11",
+    "name": "St-Damasse 1er",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-11",
+    "name": "St-Daniel le Stylite",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-12",
+    "name": "Ste-Jeanne-Françoise de Chantal",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-13",
+    "name": "St-Josse de Bretagne",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-13",
+    "name": "Ste-Lucie de Syracuse",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/253/Sainte-Lucie-de-Syracuse.html"
+  },
+  {
+    "date": "12-13",
+    "name": "Ste-Odile",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-14",
+    "name": "St-Jean de la Croix",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-15",
+    "name": "Ste-Marie Crucifiée de Rose",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-15",
+    "name": "Ste-Ninon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-16",
+    "name": "Ste-Adélaïde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/264/Sainte-Ad%C3%A9la%C3%AFde.html"
+  },
+  {
+    "date": "12-16",
+    "name": "St-Adon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-17",
+    "name": "St-Calanique",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-17",
+    "name": "St-Judicaà«l",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-17",
+    "name": "Ste-Olympiade",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-18",
+    "name": "St-Gatien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-18",
+    "name": "St-Zozime",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-19",
+    "name": "St-Nemèse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-19",
+    "name": "St-Urbain IV",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-20",
+    "name": "St-Ammon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-20",
+    "name": "St-Théophile",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-21",
+    "name": "St-Dioscore",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-21",
+    "name": "St-Honorat de Toulouse",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-21",
+    "name": "St-Pierre Casinius",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-21",
+    "name": "St-Thémistocle",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-22",
+    "name": "St-Flavien",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-22",
+    "name": "Ste-Françoise-Xavière Cabrini",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/297/Sainte-Fran%C3%A7oise-Xavi%C3%A8re-Cabrini.html"
+  },
+  {
+    "date": "12-22",
+    "name": "St-Zénon",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-23",
+    "name": "Ste-Anatolie",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-23",
+    "name": "St-Servule",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-23",
+    "name": "Ste-Victoire",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9781/Sainte-Victoire.html"
+  },
+  {
+    "date": "12-24",
+    "name": "Ste-Adèle",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/304/Sainte-Ad%C3%A8le.html"
+  },
+  {
+    "date": "12-24",
+    "name": "St-Delphin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-24",
+    "name": "Ste-Irmine",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/9768/Sainte-Irmine.html"
+  },
+  {
+    "date": "12-24",
+    "name": "St-Métrobe",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-25",
+    "name": "Ste-Adalsinde",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/308/Sainte-Adalsinde.html"
+  },
+  {
+    "date": "12-25",
+    "name": "Ste-Alburge",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-25",
+    "name": "Noà«l",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-26",
+    "name": "St-Denys",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-26",
+    "name": "St-Etienne de Protomartyr",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-27",
+    "name": "St-Jean l'Evangéliste, apôtre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-28",
+    "name": "Sts-Innocents",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-29",
+    "name": "St-David",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-29",
+    "name": "St-Thomas Becket",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-30",
+    "name": "St-Sabin (ou Sabinien)",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-31",
+    "name": "St-Sylvestre",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  },
+  {
+    "date": "12-31",
+    "name": "Ste-Colombe de Sens",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/336/Sainte-Colombe.html"
+  },
+  {
+    "date": "12-31",
+    "name": "Ste-Mélanie la Jeune",
+    "format": "MM-DD",
+    "rank": 4,
+    "prestige": "pieuse",
+    "source": "http://nominis.cef.fr:80/contenus/saint/337/Sainte-M%C3%A9lanie-la-Jeune.html"
+  },
+  {
+    "date": "12-31",
+    "name": "St-Potentin",
+    "format": "MM-DD",
+    "rank": null,
+    "prestige": null,
+    "source": null
+  }
+]

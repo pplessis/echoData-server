@@ -1,13 +1,55 @@
 
+import random
+
 from flask                                  import jsonify, Blueprint, request
 from typing                                 import List
 
+from ..libs.src.json.myJsonResponce          import myJsonResponce, RESULT_EVENTS, RESULT_STATUS
 from ..config                                import Config, logger
+
 from ..models.dataClasses_EventDay           import EventDay
 from ..services.service_events_day           import service_events_day
-from ..libs.src.json.myJsonResponce          import myJsonResponce, RESULT_EVENTS, RESULT_STATUS
 
-events = Blueprint('events', __name__,)
+
+events = Blueprint('events', __name__)
+
+@events.route("/random", methods=["GET"])
+def getRandomEvents():
+    data = { 'title': "None", 'details': "None" }
+
+    try:
+        ## Load JSON DATA FROM FILE OR DATABASE HERE ##
+        jsonDB = Config.DATABASE_JSON_EVENTS
+        logger.info( f"Load - {jsonDB}" )
+
+        # GET TODAY ENENT
+        service = service_events_day( jsonDB )
+        events = service.get_events_today()
+
+        # GET RANDOM EVENT
+        if ( len (events) == 0 ):
+            events = service.get_events_random()
+
+        # FILL DATA for RESULT
+        if len(events) > 0:
+            ## Select a EVENT in LIST
+            indexRnd = random.randint(0, len(events) - 1) 
+            data["title"]   = events[indexRnd].getDate
+            data["details"] = events[indexRnd].getName
+        else:
+            logger.warning("Aucun événement trouvé")
+            data["title"] = "📅 Pas d'événement"
+            data["details"] = "Aucun événement disponible"
+
+
+    except Exception as e:
+        logger.error( f"Error loading events: {str(e)}" )
+        data["title"] = '❌ ERROR'
+        data["details"]= str(e)  # Plus d'infos debug
+
+    finally:
+        return jsonify( data  )
+
 
 # #################################################################
 @events.route("/international_day", methods=["GET"])
@@ -24,7 +66,9 @@ def getInfoEvents():
         ## Load JSON DATA FROM FILE OR DATABASE HERE ##
         jsonDB = Config.DATABASE_JSON_EVENTS
         logger.info( f"Load - {jsonDB}" )
+
         service = service_events_day( jsonDB )
+
         events:List[EventDay] = []
 
         ## Extraction by TYPE
@@ -176,7 +220,7 @@ def getInfoSaints():
             logger.info("No filter, get ALL events")
             events = service.jsonDB
 
-        # Convert `InternationalDay` objects to generic  dicts and add to response
+        # Convert `SAINTS` objects to generic  dicts and add to response
         response.event = RESULT_EVENTS.FETCHED
 
         events_list = [ { "name": ev.getName, "date": ev.getDate } for ev in events ]

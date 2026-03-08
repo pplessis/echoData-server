@@ -2,6 +2,7 @@ from pathlib                                import Path
 from datetime                               import datetime, date
 import calendar
 import json
+import random
 from typing                                 import List
 
 from ..models.dataClasses_EventDay          import EventDay
@@ -101,7 +102,7 @@ class service_events_day:
         return self.events
 
 # #######################################################
-    def get_events_today(self) -> list:
+    def get_events_today(self) -> List[EventDay]:
         #dateTmp = datetime( dateTmp.year, dateTmp.month, dateTmp.day, 0, 0 )
         today = datetime.today()
 
@@ -110,6 +111,18 @@ class service_events_day:
         logger.info( f"Events Filtered: {len(self.events)}" )
 
         return self.events
+# #######################################################
+    def get_events_random(self) -> List[EventDay]:
+
+        events = self.jsonDB
+        indexRnd = (random.randint( 1, len (events) )) -1
+        logger.info( f"Get RANDOM EVENT ({indexRnd})" )
+
+        self.events = [ events[indexRnd] ]
+        logger.info( f"Events Filtered: {len(self.events)}" )
+
+        return self.events
+
 
 # #######################################################
     @staticmethod

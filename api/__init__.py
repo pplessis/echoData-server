@@ -6,7 +6,6 @@ from .routes.home import home
 from .routes.events_v100 import events as events_V100
 from .routes.oracle_v100 import oracle as oracle_v100
 
-
 # ============================================================================
 # Create  APPLICATION
 # ============================================================================
@@ -33,16 +32,18 @@ def create_app():
 
     @app.route('/apple-touch-icon.png')
     def redirect_appleTouchIcon():
-        return redirect( url_for ('/static/medias/favIcon.svg') )
+        return redirect( url_for ('/static/medias/icon.png') )
 
     @app.route('/apple-touch-icon-precomposed.png')
     def redirect_appleTouchIconPrecomposed():
-        return redirect( url_for ('/static/medias/favIcon.svg') )
+        return redirect( url_for ('/static/medias/Logo.png') )
 
     # === BLUEPRINTS PAGES and SERVICES API
     app.register_blueprint(home)
     app.register_blueprint(events_V100, url_prefix='/v100')
     app.register_blueprint(oracle_v100, url_prefix='/v100')
+
+
 
 
     return app

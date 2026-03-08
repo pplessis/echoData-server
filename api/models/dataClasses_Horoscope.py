@@ -21,11 +21,11 @@ class Sign(StrEnum):
 
 # ########################################################
 class Section(StrEnum):
-    LOVE        = 'Love'
-    MONEY       = 'Money'
-    CARE        = 'Care'
-    MOOD        = 'Mood'
-    ADVICE      = 'Advice'
+    LOVE        = 'love'
+    MONEY       = 'money'
+    CARE        = 'care'
+    MOOD        = 'mood'
+    ADVICE      = 'advice'
 
 # ########################################################
 @dataclass(slots=True)
@@ -106,7 +106,7 @@ class Horoscope20(Horoscope):
             # 1. Main TITLE (H1)
             main_title = soup.find('h1')
             if main_title:
-                results['title'] = main_title.get_text(strip=True)
+                results['title'] =  {'title':'Titre', 'value': main_title.get_text(strip=True)} 
 
             # Récupération et affichage
             #print(f"--- {results.get('TITLE', 'Horoscope')} ---\n")

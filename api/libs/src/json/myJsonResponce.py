@@ -22,6 +22,8 @@ class RESULT_EVENTS(StrEnum):
 
 class myJsonResponce:
 
+    URL_SCHEMA = "https://rapid-night-e462.paix-principal-56.workers.dev"
+
     def __init__(self, status: RESULT_STATUS, message: str, data: list ):
         self.status = status
         self.event = RESULT_EVENTS.UNKNOWN
@@ -30,6 +32,7 @@ class myJsonResponce:
         self.data = data if data is not None else []
         self.errors = []
         self.meta = { 'len':0 , 'requestDate':None }
+
 
 
     def refresfh_meta(self):
@@ -69,4 +72,5 @@ class myJsonResponce:
             ,"data": self.data
             ,"errors": self.errors
             ,"meta": self.meta
+            ,"$schema": self.URL_SCHEMA
         }

@@ -1,11 +1,6 @@
 [
   {
     "date": "01-01",
-    "name": "Jour de l'an ",
-    "format": "MM-DD"
-  },
-  {
-    "date": "01-01",
     "name": "Ste-Marie Mère de Dieu",
     "format": "MM-DD"
   },
