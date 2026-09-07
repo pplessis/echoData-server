@@ -1,11 +1,8 @@
 {
-  "rewrites": [
-    {
-      "source": "/static/(.*)",
-      "destination": "/app/static/$1"
-    }
-  ],
-  "headers": [
+   "rewrites": [
+    { "source": "/static/(.*)", "destination": "/api/static/$1" }
+  ]
+  ,"headers": [
     {
       "source": "/(.*)",
       "headers": [
