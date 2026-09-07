@@ -35,18 +35,19 @@ def create_app():
         app.logger.error(f"Internal Error: {e}")
         return jsonify( {"status":"error","event":"unknown", "data":[], "errors": ["Internal error"],"message": "#500 Internal error.", "meta":{} } ), 500
 
+
     # === REDIRECTIONS ===
     @app.route('/favicon.ico')
     def redirect_favicon():
-        return redirect( url_for ('/static/medias/favIcon.svg') )
+        return redirect( url_for ('static',  filename='medias/favIcon.svg') )
 
     @app.route('/apple-touch-icon.png')
     def redirect_appleTouchIcon():
-        return redirect( url_for ('/static/medias/icon.png') )
+        return redirect( url_for ('static',  filename='medias/icon.png') )
 
     @app.route('/apple-touch-icon-precomposed.png')
     def redirect_appleTouchIconPrecomposed():
-        return redirect( url_for ('/static/medias/Logo.png') )
+        return redirect( url_for ('static',  filename='medias/Logo.png') )
 
     # === BLUEPRINTS PAGES and SERVICES API
     app.register_blueprint(home)
