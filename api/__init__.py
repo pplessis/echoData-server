@@ -21,7 +21,7 @@ def create_app():
     app = Flask(
         __name__,
         static_folder=str(STATIC_DIR),
-        static_url_path="/static",
+        static_url_path="/static/public",
     )
     app.config.from_object(Config)
 
