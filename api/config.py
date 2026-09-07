@@ -39,7 +39,6 @@ class Config:
     FLASK_ENV = 'development'
     FLASK_HOST = environ.get('FLASK_HOST') or '0.0.0.0'
 
-
     FLASK_PORT = 5055
 
     SECRET_KEY = environ.get('SECRET_KEY') or 'dev-secret-key-change-me'
@@ -52,10 +51,10 @@ class Config:
 
     JSON_FILE_DAYOFF = 'daysOff.json'
     DATABASE_JSON_DAYOFF = path.join(DATABASE_JSON_FOLDER_EVENTS, JSON_FILE_DAYOFF)
-    
+
     JSON_FILE_SAINTS = 'saints_formatted.json'
     DATABASE_JSON_SAINTS = path.join(DATABASE_JSON_FOLDER_EVENTS, JSON_FILE_SAINTS)
-    
+
     DATABASE_JSON_FOLDER_MUSIC = environ.get('DATABASE_JSON_PATH') or path.join(basePath, 'static', 'data', 'music')
 
     JSON_FILES_MUSIC_PATERN = 'tracks_*.json'
