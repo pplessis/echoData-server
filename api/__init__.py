@@ -15,13 +15,13 @@ from .routes.music_v100 import music_v100
 
 # Chemin absolu, robuste peu importe le répertoire de travail (important sur Vercel)
 REPO_ROOT = Path(__file__).resolve().parent.parent
-STATIC_DIR = REPO_ROOT / "public" / "static"
+STATIC_DIR = REPO_ROOT / "static"
 
 def create_app():
     app = Flask(
         __name__,
         static_folder=str(STATIC_DIR),
-        static_url_path="/public/static",
+        static_url_path="/static",
     )
     app.config.from_object(Config)
 
