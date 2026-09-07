@@ -37,21 +37,28 @@ class Config:
 
     # Flask Application Settings
     FLASK_ENV = 'development'
-    FLASK_HOST = '127.0.0.1'
+    FLASK_HOST = environ.get('FLASK_HOST') or '0.0.0.0'
+
+
     FLASK_PORT = 5055
 
     SECRET_KEY = environ.get('SECRET_KEY') or 'dev-secret-key-change-me'
     DEBUG = environ.get('FLASK_DEBUG', 'False').lower() == 'true'
 
-    DATABASE_JSON_FOLDER = environ.get('DATABASE_JSON_PATH') or path.join(basePath, 'static', 'data', 'events')
+    DATABASE_JSON_FOLDER_EVENTS = environ.get('DATABASE_JSON_PATH') or path.join(basePath, 'static', 'data', 'events')
+
     JSON_FILE_EVENTS = 'internationalDays.json'
-    DATABASE_JSON_EVENTS = path.join(DATABASE_JSON_FOLDER, JSON_FILE_EVENTS)
+    DATABASE_JSON_EVENTS = path.join(DATABASE_JSON_FOLDER_EVENTS, JSON_FILE_EVENTS)
 
     JSON_FILE_DAYOFF = 'daysOff.json'
-    DATABASE_JSON_DAYOFF = path.join(DATABASE_JSON_FOLDER, JSON_FILE_DAYOFF)
+    DATABASE_JSON_DAYOFF = path.join(DATABASE_JSON_FOLDER_EVENTS, JSON_FILE_DAYOFF)
     
     JSON_FILE_SAINTS = 'saints_formatted.json'
-    DATABASE_JSON_SAINTS = path.join(DATABASE_JSON_FOLDER, JSON_FILE_SAINTS)
-   
+    DATABASE_JSON_SAINTS = path.join(DATABASE_JSON_FOLDER_EVENTS, JSON_FILE_SAINTS)
+    
+    DATABASE_JSON_FOLDER_MUSIC = environ.get('DATABASE_JSON_PATH') or path.join(basePath, 'static', 'data', 'music')
+
+    JSON_FILES_MUSIC_PATERN = 'tracks_*.json'
+
     # Flask-Mail, etc.
     MAIL_SERVER = environ.get('MAIL_SERVER')

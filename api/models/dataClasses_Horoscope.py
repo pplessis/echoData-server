@@ -80,6 +80,10 @@ class Horoscope20(Horoscope):
             # On cherche le premier <p> qui suit l'élément titre dans tout le document
             paragraph_Next = titre.find_next('p')
 
+            ## Fix "Conseil" detection text on 20Minutes
+            if mot_cle.lower()=='conseil':
+                paragraph_Next = titre.find_next('div')
+
             # Sécurité : on vérifie que ce paragraphe n'est pas trop loin (ex: footer)
             # On peut par exemple vérifier s'il contient beaucoup de texte
             if paragraph_Next and len(paragraph_Next.get_text(strip=True)) > 20:
@@ -111,7 +115,7 @@ class Horoscope20(Horoscope):
             # Récupération et affichage
             #print(f"--- {results.get('TITLE', 'Horoscope')} ---\n")
 
-            for nom_section, key_world in html_sections.items():
+            for nom_section, key_world in reversed(list(html_sections.items())):
                 section = Horoscope20.extract_section( soup, key_world )
 
                 #print(f"[{key_world}]")

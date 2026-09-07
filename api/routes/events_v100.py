@@ -34,7 +34,7 @@ def getRandomEvents():
         if len(events) > 0:
             ## Select a EVENT in LIST
             indexRnd = random.randint(0, len(events) - 1) 
-            data["title"]   = events[indexRnd].getDate
+            data["title"]   = events[indexRnd].getDateFormated('long')
             data["details"] = events[indexRnd].getName
         else:
             logger.warning("Aucun événement trouvé")

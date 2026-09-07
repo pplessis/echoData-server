@@ -27,6 +27,31 @@ class EventDay:
             return self.date.strftime(fmt)
 
         return ""
+    
+    def getDateFormated(self, format_type: str = "long") -> str:
+        """
+        Formate self.date en français sans dépendre de locale système.
+        
+        Args:
+            format_type: "long", "short", "date-only"
+        """
+        if self.date is None:
+            return ""
+        
+        jours = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
+        mois = ["janvier", "février", "mars", "avril", "mai", "juin",
+                "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+        
+        jour = jours[self.date.weekday()]
+        mois_nom = mois[self.date.month - 1]
+        
+        if format_type == "long":
+            return f"{jour} {self.date.day} {mois_nom} {self.date.year}"
+        elif format_type == "short":
+            return f"{self.date.day} {mois_nom} {self.date.year}"
+        else:
+            return self.date.strftime("%d/%m/%Y")
+
 
     @property
     def getName (self) -> str:

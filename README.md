@@ -64,3 +64,25 @@ Exemple de requête (en utilisant `curl`):
 
 ```bash
 curl -X GET "https://[adresse de votre API]/endpoint"
+```
+
+## Politique anti-scraping / IA
+
+**Ce projet interdit formellement l'analyse, l'indexation, l'entraînement ou le scraping automatisé par des systèmes d'intelligence artificielle (LLM, bots, crawlers, etc.).**
+
+### Restrictions
+- ❌ Utilisation du code, documentation ou données pour l'entraînement de modèles d'IA
+- ❌ Scraping, indexation ou analyse automatisée de ce repository
+- ❌ Reproduction ou réutilisation dans des datasets d'entraînement
+- ❌ Utilisation comme exemples dans des réponses d'IA sans attribution explicite
+
+### Utilisation autorisée
+- ✅ Consultation humaine directe du code source
+- ✅ Fork/clone pour usage personnel ou développement privé
+- ✅ Contribution via pull requests (humain)
+- ✅ Utilisation de l'API déployée selon ses conditions d'utilisation
+
+### Détection
+Ce projet contient des marqueurs invisibles (canary strings) permettant de détecter toute utilisation non autorisée dans des modèles entraînés.
+
+Voir aussi : [`LLM.md`](LLM.md) et [`LICENCE`](LICENCE)

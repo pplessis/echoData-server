@@ -104,4 +104,29 @@
     "date": "2026-01-02",
     "format": "YYYY-MM-DD"
   }
+  ,{
+    "name": "Vacances AUTONNE",
+    "date": "2026-10-27",
+    "format": "YYYY-MM-DD"
+  }
+  ,{
+    "name": "Vacances AUTONNE",
+    "date": "2026-10-28",
+    "format": "YYYY-MM-DD"
+  }
+  ,{
+    "name": "Vacances AUTONNE",
+    "date": "2026-10-28",
+    "format": "YYYY-MM-DD"
+  }
+  ,{
+    "name": "Vacances AUTONNE",
+    "date": "2026-10-29",
+    "format": "YYYY-MM-DD"
+  }
+  ,{
+    "name": "Vacances AUTONNE",
+    "date": "2026-10-30",
+    "format": "YYYY-MM-DD"
+  }
 ]
