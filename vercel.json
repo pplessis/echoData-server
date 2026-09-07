@@ -3,10 +3,6 @@
     {
       "source": "/static/(.*)",
       "destination": "/app/static/$1"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/app.py"
     }
   ],
   "headers": [
