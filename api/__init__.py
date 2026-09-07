@@ -1,3 +1,4 @@
+from pathlib import Path
 from flask import Flask, jsonify, redirect, url_for
 
 from .libs.src.utils import Print
@@ -12,8 +13,16 @@ from .routes.music_v100 import music_v100
 # ============================================================================
 # Configure logging for better debugging and production monitoring
 
+# Chemin absolu, robuste peu importe le répertoire de travail (important sur Vercel)
+REPO_ROOT = Path(__file__).resolve().parent.parent
+STATIC_DIR = REPO_ROOT / "public" / "static"
+
 def create_app():
-    app = Flask(__name__)
+    app = Flask(
+        __name__,
+        static_folder=str(STATIC_DIR),
+        static_url_path="/static",
+    )
     app.config.from_object(Config)
 
     # === ERRORS MANAGEMENT ===
@@ -44,9 +53,6 @@ def create_app():
     app.register_blueprint(events_V100, url_prefix='/v100')
     app.register_blueprint(oracle_v100, url_prefix='/v100')
     app.register_blueprint(music_v100, url_prefix='/v100')
-
-
-
 
     return app
 
