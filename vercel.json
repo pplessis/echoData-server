@@ -1,8 +1,15 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/api/index.py" }
-  ],
-  "headers": [
+  "builds": [
+    {
+       "src":    "api/index.py"
+      ,"use":    "@vercel/python"
+      ,"config": { "includeFiles": ["../static/**"] }
+    }
+  ]
+  ,"routes": [
+    { "src": "/(.*)", "dest": "/api/index.py" }
+  ]
+  ,"headers": [
     {
       "source": "/(.*)",
       "headers": [
@@ -11,10 +18,5 @@
         { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
       ]
     }
-  ],
-  "functions": {
-    "api/index.py": {
-      "includeFiles": "static/**"
-    }
-  }
+  ]
 }
