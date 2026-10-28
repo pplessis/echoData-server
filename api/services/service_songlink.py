@@ -22,7 +22,8 @@ ITUNES_SEARCH_URL = "https://itunes.apple.com/search"
 
 
 class SonglinkAPI:
-    BASE_URL = "https://api.odesli.co/v1-alpha.1/links"
+    #BASE_URL   = "https://api.odesli.com/v1-alpha.1/links"
+    BASE_URL    = "https://api.song.link/v1-alpha.1/links"
 
     PLATFORM_MAP = {
         "spotify": "spotify",

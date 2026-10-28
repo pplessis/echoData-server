@@ -33,6 +33,7 @@ if __name__ == '__main__':
 
         logger.info(f"Debug Mode: {debug_mode}")
         logger.info(f"Server: {host}:{port}")
+        logger.info(f"App Version: {Config.PROJECT_VERSION}")
 
         # Run Flask development server
         # NOTE: For production, use a WSGI server like Gunicorn:

@@ -7,6 +7,7 @@ from .routes.home import home
 from .routes.events_v100 import events as events_V100
 from .routes.oracle_v100 import oracle as oracle_v100
 from .routes.music_v100 import music_v100
+from .routes.mcp_v100 import mcp_v100
 
 # ============================================================================
 # Create  APPLICATION
@@ -54,6 +55,7 @@ def create_app():
     app.register_blueprint(events_V100, url_prefix='/v100')
     app.register_blueprint(oracle_v100, url_prefix='/v100')
     app.register_blueprint(music_v100, url_prefix='/v100')
+    app.register_blueprint(mcp_v100, url_prefix='/v100')
 
     return app
 

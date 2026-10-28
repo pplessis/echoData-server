@@ -1,6 +1,7 @@
 beautifulsoup4==4.14.3
 Flask==3.1.2
 gql==4.0.0
+mcp==1.26.0  # Model Context Protocol SDK
 python-dotenv==1.2.1
 Requests==2.32.5
 urllib3==2.6.3

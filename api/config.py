@@ -35,6 +35,8 @@ class Config:
     basePath = path.dirname(path.abspath(__file__))
     print(f"Config basePath: {basePath}")
 
+    PROJECT_VERSION='v001'
+
     # Flask Application Settings
     FLASK_ENV = 'development'
     FLASK_HOST = environ.get('FLASK_HOST') or '0.0.0.0'

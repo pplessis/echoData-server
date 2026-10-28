@@ -57,8 +57,17 @@ class service_music:
 
         try:
             api_key = environ.get("SONGLINK_API_KEY")
-            client  = SonglinkAPI(api_key=api_key, rate_limit=0.1, max_retries=0)
-            data    = client.enrich_track(name, artist)
+            client  = SonglinkAPI(api_key=api_key, rate_limit=0.1, max_retries=1)
+
+            ## RETRIVE APPLE Music Link
+            #appleTrack_Info = client.search_apple_music( song_name=name, artist_name=artist )
+            #if not appleTrack_Info or not appleTrack_Info.get("apple_music_url"):
+            #    logger.warning(f"Impossible de trouver sur Apple Music: {name} - {artist}")
+            #    return
+            #apple_url = appleTrack_Info["apple_music_url"]
+
+            ## Retrive SongLink from Apple Music 
+            data    = client.enrich_track_with_apple_music (name, artist)
         except Exception as e:
             logger.warning(f"⚠️ songlink enrichment error for {artist} - {name}: {e}")
             return
@@ -68,6 +77,7 @@ class service_music:
             return
 
         new_url = data.get("songlink_url")
+
         if new_url:
             track["songlink_url"]      = new_url
             track["songlink_page_url"] = data.get("songlink_page_url") or track.get("songlink_page_url")
